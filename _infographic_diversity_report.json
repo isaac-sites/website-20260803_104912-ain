@@ -1,0 +1,6935 @@
+{
+  "generated_at_utc": "2026-08-03T10:57:19.559168Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 288,
+    "pages_review_recommended": 5,
+    "warning_reason_counts": {
+      "single_reader_role": 5
+    }
+  },
+  "pages": [
+    {
+      "basename": "Gard_40724c",
+      "title": "Why Gard's Strangest Lights Rarely Stayed Mysterious",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Classification System for Gard",
+        "Nîmes Sightings: Interpretation vs Reality",
+        "Common Explanations in Gard Records"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.143,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "Hautes-Pyrenees_f6aaeb_explained_tarbes_lou_5cf449",
+      "title": "How Ordinary Skies Created Extraordinary UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Tarbes Triangle Interpretations",
+        "Lourdes Astronomical Phenomena",
+        "Factors Shaping UFO Misperceptions"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "Herault_0fa4db_official_ufo_files_98c8b0",
+      "title": "Do Herault's UFO Files Contain Any Strong Mysteries?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "versus",
+        "comparison_columns"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "GEIPAN Hérault Archive Classifications",
+        "Hérault Archive Evidence Patterns",
+        "Hérault Archive Misconceptions"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.4,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "Maine-et-Loire_19238f_official_explanation_9e50c7",
+      "title": "Why Most Maine et Loire UFO Reports Stayed Weak",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "GEIPAN Classification Hierarchy",
+        "Maine et Loire Misidentification Analysis",
+        "Evidence Quality in Maine et Loire"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.429,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "Moselle_b6f07c_moselle_geipan_files_2118c6",
+      "title": "What Do Moselle's Official UFO Files Actually Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "GEIPAN Archive Classification System",
+        "Moselle Unexplained Case Analysis",
+        "Common Explanations for Moselle Sightings"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.143,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "Ain_fc7da0",
+      "title": "Which UFO Cases in Ain Still Resist Explanation?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Investigation Workflow in Ain",
+        "Montluel vs. Vonnas Case Analysis",
+        "GEIPAN Case Classification System"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ain_fc7da0_ain_explained_ufo_ca_388a10",
+      "title": "How Ain's Strangest Sightings Became Less Mysterious",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "GEIPAN Investigation of the Diamond Balloon",
+        "Bourg en Bresse Fireball Interpretations",
+        "GEIPAN Criteria for Case Classification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ain_fc7da0_montluel_unexplained_1445ac",
+      "title": "Why Did the Montluel Sighting Remain Unexplained?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Montluel Investigation Time line",
+        "Alternative Explanations for Montluel",
+        "Montluel Reconstruction Data Points"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Aisne_b23b8e",
+      "title": "Which Aisne UFO Stories Withstand Scrutiny?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Aisne UFO History Time line",
+        "Interpretations of the Soissons Case",
+        "GEIPAN Classification Standards in Aisne"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Aisne_b23b8e_aisne_geipan_files_39741a",
+      "title": "What Do Aisne's Official UFO Files Show?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "venn",
+        "rank_podium"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "data"
+      ],
+      "titles": [
+        "GEIPAN Official Case Classifications",
+        "Aisne Case Interpretation Models",
+        "National GEIPAN Archive Statistics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Aisne_b23b8e_soissons_1954_claim_dea6f0",
+      "title": "Did a Saucer Really Land Near Soissons?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Soissons Claim Documentary Trail",
+        "Interpretations of the Soissons Wave",
+        "Missing Evidence in Soissons Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Allier_716dd6",
+      "title": "Why Allier's Strangest Sightings Changed With Investigation",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Chronology of Allier UFO Records",
+        "GEIPAN Classification Criteria",
+        "Common Allier Misidentifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Allier_716dd6_explained_allier_sig_f7ca00",
+      "title": "How Allier's Best UFO Mysteries Were Explained",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Investigation Reconstruction Workflow",
+        "Allier UFO Case Explanations",
+        "Factors Influencing Perceived UFOs"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Allier_716dd6_unresolved_allier_ca_153093",
+      "title": "Why Allier's Unresolved Cases Remain So Uncertain",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation Evidence Gaps",
+        "Yzeure Orange Disc Interpretations",
+        "Allier Case Evidence Gaps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alpes-Maritimes_efe25c",
+      "title": "Why So Many Riviera UFO Reports Fade",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "cards_grid",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Alpes Maritimes UFO Archive Layers",
+        "Common Alpes Maritimes Aerial Sources",
+        "The Col de Vence Hotspot"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alpes-Maritimes_efe25c_riviera_cases_reasse_c5843c",
+      "title": "How Riviera UFO Classics Lost Their Mystery",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Reclassification of the 1981 Nice Sighting",
+        "Cannes 2015 Balloon Cluster Explanations",
+        "Mechanisms of Visual Misidentification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alpes-Maritimes_efe25c_riviera_coastal_misi_30d7e0",
+      "title": "Why Riviera Lights Look Like UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Vence Case Investigation Workflow",
+        "Coastal Light Misidentification Factors",
+        "Criteria for High Quality Coastal Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alpes-de-Haute-Prove_b1f7bc",
+      "title": "Why Valensole Still Defines a Department's UFO History",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Valensole Encounter",
+        "Interpretations of the Valensole Case",
+        "GEIPAN Departmental Case Classifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alpes-de-Haute-Prove_b1f7bc_meyronnes_volx_geipa_f4260c",
+      "title": "Which Other Local UFO Reports Remain Unresolved?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in the 1976 Meyronnes Sightings",
+        "Meyronnes vs Volx Case Analysis",
+        "GEIPAN Classification Methodology"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Alpes-de-Haute-Prove_b1f7bc_valensole_evidence_e_c04290",
+      "title": "Did the Valensole Evidence Survive Serious Scrutiny?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Maurice Masse Sighting Key Stages 1965",
+        "Valensole Case Interpretations",
+        "Physical Evidence at Valensole"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ardeche_5d1281",
+      "title": "Ardeche UFOs Between Mystery and Misidentification",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "comparison_columns"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in Ardèche UFO Records",
+        "Pranles Case Investigation Analysis",
+        "Common Ardèche Visual Misidentifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ardeche_5d1281_ardeche_ufo_explanat_5e1776",
+      "title": "What Really Caused Ardeche's Explained Sightings?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 2013 Ardèche Fireball",
+        "Mont Mézenc Balloon vs. UFO",
+        "Common Mechanisms for Ardèche Anomalies"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ardeche_5d1281_pranles_unresolved_c_efbe67",
+      "title": "Why the Pranles UFO Case Still Puzzles",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Pranles Sighting Key Stages in 21 July 1979",
+        "GEIPAN Conventional Explanations vs. Observations",
+        "Evidence Gaps in the Pranles File"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ardennes_627650",
+      "title": "Why Ardennes UFO Stories Changed Under Scrutiny",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation Classification Workflow",
+        "Gernelle and Fagnon Case Reassessments",
+        "Ardennes Archive Case Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ardennes_627650_ardennes_case_reclas_5cd98e",
+      "title": "How Ardennes UFO Cases Lost Their Mystery",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Investigation Methodology Steps",
+        "Gernelle Sighting Interpretation Comparison",
+        "GEIPAN Classification Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ardennes_627650_vireux_wallerand_cig_454d3a",
+      "title": "Did a Cigar Shaped Craft Hover Near Givet?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Vireux Wallerand Case Investigation Time line",
+        "Interpretations of the Craft's Activity",
+        "Missing Evidence in Vireux Wallerand Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ariege_996ae1",
+      "title": "How Ariege's UFO Mysteries Changed With Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in the Bélesta UFO Case",
+        "Ariège Sighting Interpretations vs. Reality",
+        "GEIPAN Ariège Case Evidence Ranking"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ariege_996ae1_ariege_official_ufo_13bf80",
+      "title": "What Ariege's Official UFO Record Really Shows",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "cards_grid",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "GEIPAN Classification Hierarchy in Ariège",
+        "Lunar Sightline Interpretations in Ariège",
+        "Ariège Explanations for Moving Lights"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ariege_996ae1_belesta_lights_hoax_6e293d",
+      "title": "How the Belesta UFO Case Fell Apart",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Bélesta UFO Mystery Time line",
+        "Bélesta Interpretations: Mystery vs. Prank",
+        "Factors Validating the 2009 Confession"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Aube_200d42",
+      "title": "What Aube's UFO Record Actually Reveals",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Aube UFO History Key Stages",
+        "GEIPAN Classification Criteria",
+        "Aube Geographic Distribution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Aube_200d42_classic_sightings_we_1a0d0b",
+      "title": "Why Aube's Famous Sightings Remain Unproven",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Aube UFO Sightings Key Stages",
+        "Romilly sur Seine Interpretation Models",
+        "GEIPAN Evidence Deficiency Criteria"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Aube_200d42_geipan_cases_ordinar_442bd5",
+      "title": "How GEIPAN Explained Aube's Strange Lights",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "cards_grid",
+        "myth_facts"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "GEIPAN Classification Categories",
+        "Aube Astronomical Misidentifications",
+        "Mundane Sources of Aube Sightings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Aude_f0dc3d",
+      "title": "Why Aude's Best Known UFO Cases Remain Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Aude Departmental UFO Case Chronology",
+        "Port la Nouvelle vs. Fontiès d’Aude Cases",
+        "GEIPAN Identified Aude Phenomena"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Aude_f0dc3d_fonties_aude_effects_1f87d6",
+      "title": "Did the Fonties d'Aude Sighting Cause Physical Effects?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Fontiès d’Aude Sighting Key Stages",
+        "Causation Analysis of Physical Effects",
+        "GEIPAN Classification of Fontiès d’Aude"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Aude_f0dc3d_port_la_nouvelle_198_a49e17",
+      "title": "What Was Seen Over Port la Nouvelle in 1988?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Port la Nouvelle Witness Observations",
+        "Evidence Limits in Port la Nouvelle",
+        "Port la Nouvelle Environmental Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Aveyron_fecfb2",
+      "title": "Aveyron's UFO Cases Between Mystery and Misidentification",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "GEIPAN Aveyron Case Classifications",
+        "Roumagnac Farm Narrative vs Evidence",
+        "Aveyron Official Record Statistics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Aveyron_fecfb2_millau_1999_unresolv_7a84da",
+      "title": "Why Millau 1999 Still Remains Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Millau Case Investigation Flow",
+        "Millau Sighting Explanatory Hypotheses",
+        "Evidence Limits of Millau 1999"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Aveyron_fecfb2_roumagnac_ufo_legend_b919ea",
+      "title": "How Roumagnac Became Aveyron's UFO Legend",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Roumagnac UFO Narrative Evolution",
+        "Roumagnac Evidence Layers",
+        "Verification Gaps in Roumagnac"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bas-Rhin_ad02bb",
+      "title": "Why Bas Rhin's UFO Record Still Divides Opinion",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "process_pipeline"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Bas Rhin UFO History Time line",
+        "Sélestat Triangle Case Analysis",
+        "GEIPAN Classification System"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bas-Rhin_ad02bb_radar_venus_military_38b5f2",
+      "title": "Did Bas Rhin's Radar Sites Ever Confirm a UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Reclassification of the 1980 Bas Rhin Case",
+        "UFO Narrative vs. Astronomical Reality",
+        "Drachenbronn Site Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bas-Rhin_ad02bb_selestat_triangle_ca_786ad2",
+      "title": "Why the Sélestat Triangle Remains Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_petal"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Sélestat Incident Key Stages 30 October 1994",
+        "Sélestat Evidence vs. Interpretations",
+        "GEIPAN Sélestat Case Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bouches-du-Rhone_a97972",
+      "title": "Why Bouches du Rhone Produces So Many UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Case Reconstruction Workflow",
+        "Marseille 1994 Red Half Sphere Analysis",
+        "Common Explanations for Bouches du Rhône Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bouches-du-Rhone_a97972_marseille_ufo_explan_fdf80e",
+      "title": "How Marseille's Strangest UFO Reports Were Explained",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN 1994 Lunar Reconstruction Steps",
+        "Marseille 2009 Case Classifications",
+        "Evidence Weight in Marseille Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Bouches-du-Rhone_a97972_martigues_etang_ufo_8ab8de",
+      "title": "Is Martigues Really a French UFO Hotspot?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Martigues UFO Case Key Stages",
+        "Martigues Perception Distortions",
+        "GEIPAN Classification of Martigues Cases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Calvados_b13668",
+      "title": "Calvados UFOs Between Legend and Explanation",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Calvados UFO Historical Time line",
+        "Evaluating the 1973 Caen Carpiquet Claim",
+        "GEIPAN Calvados Case Classifications"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Calvados_b13668_caen_carpiquet_1973_cd5e28",
+      "title": "Did Radar Confirm the Caen Carpiquet UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Caen Carpiquet Encounter",
+        "Interpretations of the Silent Craft",
+        "Missing Evidence in Radar Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Calvados_b13668_official_calvados_ca_4d1e20",
+      "title": "What Official Calvados UFO Files Actually Show",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "rank_podium"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "data"
+      ],
+      "titles": [
+        "GEIPAN Classification Evidence Standards",
+        "Calvados Coastal Lighting Interpretations",
+        "GEIPAN National Investigation Statistics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cantal_202658",
+      "title": "Cantal's UFO Story Beyond the Mystery",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Cussac Encounter Investigation Time line",
+        "Cussac Encounter Interpretations",
+        "GEIPAN Cantal Archive Classifications"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cantal_202658_cantal_explained_sig_973248",
+      "title": "Why Most Cantal UFO Reports Fade Away",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Classification Categories",
+        "Cantal Case Analysis: Arcturus Star",
+        "Common Optical Deceptions in Cantal"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cantal_202658_cussac_encounter_evi_0ba4ac",
+      "title": "What Happened at Cussac in 1967?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cussac Encounter Chronology 1967 1985",
+        "Cussac Interpretation Models",
+        "Robust Evidence in Cussac Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Charente-Maritime_ed3a6b",
+      "title": "From Flying Saucers to Identified Debris",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "The 1985 Royan Cylinder Investigation",
+        "Charente Maritime Sighting Explanations",
+        "GEIPAN Case Classification System"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Charente-Maritime_ed3a6b_1954_saucer_wave_e31ba3",
+      "title": "How Strong Were Charente Maritime's 1954 Saucer Stories?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Chronological Evolution of Taupignac Narrative",
+        "Taupignac vs. Saint Savinien Evidence Quality",
+        "Factors Weakening Charente Maritime Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Charente-Maritime_ed3a6b_royan_cylinder_verdi_a000a6",
+      "title": "Why the Royan Cylinder Was Not Space Debris",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Investigation Stages of the Royan Cylinder",
+        "Royan Cylinder Origin Hypotheses",
+        "Physical Characteristics of the Royan Cylinder"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Charente_8acfde",
+      "title": "Why Charente's UFO Cases Remain Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Charente Aerospace Observation Key Stages",
+        "Ruffec Observation Explanatory Models",
+        "GEIPAN Classification System for Charente"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Charente_8acfde_angouleme_ruffec_cas_00c2fa",
+      "title": "What Keeps Charente's Two Best Cases Open?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "list_vertical",
+        "versus"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "GEIPAN Analysis of Ruffec Light",
+        "GEIPAN Classification Criteria",
+        "Charente Case Study Comparison"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Charente_8acfde_cognac_radar_echoes_d41c02",
+      "title": "Did Cognac Radar Track Something Extraordinary?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Cognac Radar Track Key Stages 1957",
+        "Interpretations of Cognac Radar Returns",
+        "Missing Data for Cognac Verification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cher_614205",
+      "title": "Strange Lights and Changing Verdicts in Cher",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Chronology of Cher Aerial Phenomena",
+        "Analysis of the 1987 Nançay Case",
+        "Evidential Hierarchy of Cher UFO Cases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cher_614205_cher_1954_ufo_wave_e31bff",
+      "title": "Why Cher's 1954 UFO Wave Remains Elusive",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1954 Cher Wave",
+        "Interpretations of the Jou Sighting",
+        "Evidence Limitations in Cher Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cher_614205_cher_official_ufo_fi_0832d9",
+      "title": "How Official Reviews Changed Cher's Strongest Cases",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation Classification Workflow",
+        "Nançay–Vouzeron Case Interpretations",
+        "Cher Department Case Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Correze_3e9490",
+      "title": "Why Correze Matters in French UFO History",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the 1954 Corrèze Sightings",
+        "GEIPAN Classifications in Corrèze",
+        "Corrèze Case Study Outcomes"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Correze_3e9490_1954_broken_alignmen_ffd430",
+      "title": "How a Date Error Made Corrèze Famous",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "cards_grid",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in the 1954 French Wave",
+        "Tulle vs Ussel Witness Accounts",
+        "Factors Shaping the BAVIC Alignment"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Correze_3e9490_official_ufo_files_98c8b0",
+      "title": "What Do Corrèze's Official UFO Files Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "comparison_columns",
+        "rank_podium"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "data"
+      ],
+      "titles": [
+        "GEIPAN Classification Hierarchy",
+        "Favars Case Evidence Analysis",
+        "CNES National Archive Statistics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Corse-du-Sud_8217c3",
+      "title": "One Unexplained Case in a Sparse UFO Archive",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation of Zonza Sighting",
+        "Alternative Explanations for Zonza",
+        "Corse du Sud Official UFO Archive"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Corse-du-Sud_8217c3_official_ufo_record_17fbba",
+      "title": "How Unusual Is Corse du Sud's UFO Record?",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "versus",
+        "summit"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "GEIPAN Classification System Logic",
+        "Corse du Sud Identified Phenomena",
+        "The Zonza 2014 D1 Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Corse-du-Sud_8217c3_zonza_unresolved_sig_917414",
+      "title": "Why the Zonza Sighting Remains Unexplained",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Zonza Investigation Time line 2014",
+        "GEIPAN Conventional Explanations Tested",
+        "Evidence Gaps in Zonza Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cote-d_Or_6e3ab6",
+      "title": "Why Cote d'Or Became a French UFO Landmark",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Côte d’Or UFO History Time line",
+        "Poncey sur l'Ignon Case Interpretations",
+        "GEIPAN Côte d’Or Case Classifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cote-d_Or_6e3ab6_late_1970s_ufo_cases_65aea5",
+      "title": "Why Cote d'Or's 1970 s UFO Wave Unravelled",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Côte d’Or UFO Report Chronology",
+        "Bierre lès Semur Case Reclassification",
+        "GEIPAN Classification Methodology"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cote-d_Or_6e3ab6_poncey_1954_case_c8af5a",
+      "title": "Did Anything Land at Poncey in 1954?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Poncey sur l’Ignon 1954 Key Stages",
+        "Poncey Ground Trace Interpretations",
+        "Poncey Field Excavation Features"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cotes-d_Armor_789c20",
+      "title": "Which Cotes d'Armor UFO Cases Still Defy Explanation?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "prism",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Côtes d’Armor UFO History Time line",
+        "GEIPAN Classification System Breakdown",
+        "Identified vs. Unresolved Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cotes-d_Armor_789c20_binic_dinan_unknowns_eb25be",
+      "title": "Why Binic and Dinan Remain Officially Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "fact_box_sidebar",
+        "process_pipeline"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Binic vs Dinan Case Profiles",
+        "GEIPAN Classification Framework",
+        "Dinan Investigation Workflow"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Cotes-d_Armor_789c20_geipan_reassessed_ca_f00621",
+      "title": "How Cotes d'Armor UFO Mysteries Were Reassessed",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Sighting Investigation Workflow",
+        "Plérin Wave Case Reassessment",
+        "Côtes d'Armor Conventional Explanations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Creuse_73fb1d",
+      "title": "From Humanoids to Airliners in Creuse Skies",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Chronology of Creuse Aerial Sightings",
+        "Interpretations of the Alleyrat Case",
+        "Mechanisms of Visual Misinterpretation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Creuse_73fb1d_alleyrat_humanoid_en_f484fa",
+      "title": "Did the Alleyrat Humanoid Encounter Really Happen?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in the Alleyrat Encounter",
+        "Competing Explanations for Alleyrat",
+        "Evidence Quality in Alleyrat Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Creuse_73fb1d_official_creuse_ufo_c3f6dd",
+      "title": "Why So Many Creuse UFOs Had Ordinary Causes",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Case Classification Workflow",
+        "Sermur Photograph Evidence Analysis",
+        "Creuse Official Identification Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Deux-Sevres_ac4bfa",
+      "title": "How Strong Is the Deux Sevres UFO Record?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Deux Sèvres UFO Records",
+        "Sainte Soline Case Interpretations",
+        "GEIPAN Classification System"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Deux-Sevres_ac4bfa_claims_hoaxes_explan_a53598",
+      "title": "How Deux Sevres UFO Stories Changed Over Time",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Deux Sèvres UFO History Time line",
+        "Bressuire Case Interpretations",
+        "Modern Identification Criteria"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Deux-Sevres_ac4bfa_sainte_soline_eviden_9dedaf",
+      "title": "Why Sainte Soline Remains Unexplained but Unproven",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Sainte Soline Sighting Key Stages",
+        "Sainte Soline Interpretations vs Evidence",
+        "Sainte Soline Evidence Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Dordogne_e9b4bd",
+      "title": "Why Dordogne's UFO Mysteries Often Faded",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Investigation and Reclassification Workflow",
+        "Dordogne Case Interpretations and Explanations",
+        "GEIPAN Classification System for Phenomena"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Dordogne_e9b4bd_electrical_light_cas_55ce9a",
+      "title": "Were Dordogne's Brightest UFOs Electrical Events?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Saint Michel de Villadeix Witness Testimony Time line",
+        "Eymet and Saint Michel de Villadeix Explanations",
+        "Evidence Clues in Dordogne UFO Cases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Dordogne_e9b4bd_military_aircraft_ca_3ec388",
+      "title": "The Military Aircraft Mistaken for a Dordogne UFO",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "La Roche Chalais UFO Investigation Path",
+        "CV 22 Osprey Visual Mechanics",
+        "CV 22 Osprey Technical Features"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Doubs_70fb5f",
+      "title": "Why Doubs UFO Reports Became Less Mysterious",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Investigation Workflow for Doubs",
+        "Vieilley Fireball vs. Venus Observations",
+        "Common Doubs Aerospace Explanations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Doubs_70fb5f_doubs_solved_sightin_d06205",
+      "title": "The Ordinary Objects Behind Doubs' Strangest Sightings",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "tree_map",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "chronology"
+      ],
+      "titles": [
+        "Vieilley Fireball Interpretation Analysis",
+        "Common Doubs Aerial Misidentifications",
+        "GEIPAN Investigation Verification Steps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Doubs_70fb5f_geipan_doubs_files_59c5b2",
+      "title": "What the Official Doubs UFO Files Actually Show",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "GEIPAN Aerospace Classification Hierarchy",
+        "Doubs Case Evidence Analysis",
+        "GEIPAN Investigation Methodology"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Drome_06f265",
+      "title": "What Drome's UFO Record Actually Reveals",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Drôme Case Classifications",
+        "Drôme Sighting Interpretations",
+        "Common Explanations in Drôme"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Drome_06f265_ordinary_lights_expl_bc4a48",
+      "title": "Why Drome's Skies So Often Look Unusual",
+      "infographic_count": 3,
+      "templates": [
+        "earth_core",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Drôme UFO Misidentification Layers",
+        "Interpretation of Drôme Light Clusters",
+        "Geographic Factors in Drôme Sightings"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Drome_06f265_strongest_unresolved_6ae8b0",
+      "title": "Which Drome UFO Cases Still Resist Explanation?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Drôme UFO Case Evidence Profiles",
+        "Interpretations of the Chabeuil Phenomenon",
+        "GEIPAN Classification and Data Limits"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Essonne_7f5f7b",
+      "title": "Why Essonne's UFO Cases Often Defy First Impressions",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation Classification Workflow",
+        "Essonne Sighting Interpretation Models",
+        "Essonne Department Case Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Essonne_7f5f7b_moon_venus_false_mot_276ab5",
+      "title": "When the Moon and Venus Look Like UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Essonne UFO Investigation Chronology",
+        "Venus vs. UFO Interpretations",
+        "Mechanisms of False Motion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Essonne_7f5f7b_saint_hilaire_eviden_312a92",
+      "title": "Why Saint Hilaire Remains Puzzling but Unproven",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Time line of the Saint Hilaire Sighting",
+        "Conventional Explanations for Saint Hilaire",
+        "GEIPAN Investigation Limitations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Eure-et-Loir_aac377",
+      "title": "Why Eure et Loir's UFO Mysteries Often Weakened",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Eure et Loir UFO History Time line",
+        "Authon du Perche Case Interpretations",
+        "Common Eure et Loir Explanations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Eure-et-Loir_aac377_authon_venus_case_7c1114",
+      "title": "Did Gendarmes Mistake Venus for a UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Authon du Perche Sighting Time line 1980",
+        "GEIPAN Analysis of Phase One",
+        "Evidence Quality in Authon Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Eure-et-Loir_aac377_reports_over_time_527c9e",
+      "title": "How Eure et Loir's UFO Story Changed Over Time",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Eure et Loir UFO Reporting Evolution",
+        "Authon du Perche Case Interpretations",
+        "GEIPAN Classification Standards"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Eure_4abf79",
+      "title": "Eure's UFO Stories Between Legend and Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Eure UFO Records",
+        "Vernon 1954 Evidence Analysis",
+        "Eure Department Case Classifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Eure_4abf79_evreux_1978_radar_170944",
+      "title": "Did Radar Make the Evreux Sighting Stronger?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Évreux 1978 Radar and Visual Key Stages",
+        "Alternative Explanations for Évreux Light",
+        "Evidence Strengths in Évreux Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Eure_4abf79_vernon_1954_legend_f69644",
+      "title": "How Vernon Became Eure's Great UFO Legend",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Vernon Sighting Media Propagation",
+        "Vernon Sighting Explanatory Hypotheses",
+        "Vernon Sighting Evidence Quality"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Finistere_3f7bbd",
+      "title": "Why Finistere's Strangest UFO Cases Remain Unsettled",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Classification of Aerospace Phenomena",
+        "Landivisiau 1979 Case Interpretations",
+        "Common Finistère Misidentification Causes"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Finistere_3f7bbd_landivisiau_1979_evi_5f9f00",
+      "title": "What Keeps the Landivisiau Sighting Unresolved?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Landivisiau Sighting Key Stages 1979",
+        "Landivisiau Evidence Limitations",
+        "GEIPAN Landivisiau Investigation Gaps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Finistere_3f7bbd_modern_cases_investi_ecbd23",
+      "title": "How Far Did Investigators Get in Crozon and Fouesnant?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation Time line for Crozon",
+        "La Forêt Fouesnant Conventional Hypotheses",
+        "Evidence Gaps in Finistère Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Gard_40724c_gard_rocket_reentrie_ddf173",
+      "title": "When Rocket Debris Lit Up Gard's Sky",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in the 2009 Atlas Centaur Display",
+        "Distinguishing Rocket Debris vs Meteoroids",
+        "Factors Influencing Misinterpreted Sky Displays"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Gard_40724c_gard_ufo_explanation_7b6559",
+      "title": "How Investigators Explained Gard's UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation Methodology in Gard",
+        "Gard UFO Classification Outcomes",
+        "Common Explanations for Gard Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Gers_631401",
+      "title": "Why Gers UFO Reports Often Change With Better Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation Workflow for Gers",
+        "Gaujan Case: Aviation vs. Satellite Data",
+        "GEIPAN Classification System for Gers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Gers_631401_explained_gers_sight_24fe63",
+      "title": "How Gers's Most Convincing UFO Sightings Were Solved",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation of Saint Lary Case",
+        "Gaujan Satellite Flare Explanations",
+        "Factors Influencing Nighttime Misinterpretation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Gers_631401_unresolved_gers_repo_c4eb9c",
+      "title": "When Does an Unsolved Gers UFO Case Mean Anything?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "cards_grid",
+        "comparison_columns"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "GEIPAN Category C Classification Criteria",
+        "Mirande Sighting Ordinary Explanations",
+        "Missing Data in Mirande Investigation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Gironde_99a85b",
+      "title": "Why Gironde's Strangest UFO Cases Still Matter",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in the Gujan Mestras Case",
+        "Gironde Sighting Explanations vs. Evidence",
+        "GEIPAN Gironde Case Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Gironde_99a85b_gironde_official_rec_8b918f",
+      "title": "What Gironde's UFO Archive Really Reveals",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Archive Classification System",
+        "Gironde Sighting Reconstruction Analysis",
+        "Common Gironde Aerial Explanations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Gironde_99a85b_gujan_mestras_case_a182ba",
+      "title": "Was Gironde's Landmark UFO Case Ever Solved?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Gujan Mestras Incident Key Stages",
+        "Gujan Mestras Explanatory Hypotheses",
+        "GEIPAN Case B Evidence Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Haut-Rhin_0c01ce",
+      "title": "Why Haut Rhin's Strangest Sightings Still Matter",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Haut Rhin Aerial Sighting Key Stages",
+        "Huningue 1980 Case Evidence Analysis",
+        "Common Haut Rhin Misidentifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Haut-Rhin_0c01ce_haut_rhin_sightings_515573",
+      "title": "How Haut Rhin's UFO Reports Changed Over Time",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Haut Rhin UFO Reporting Evolution",
+        "Common Misidentifications in Haut Rhin",
+        "GEIPAN Case Classification Logic"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Haut-Rhin_0c01ce_huningue_ufo_evidenc_07b8af",
+      "title": "What Makes the Huningue Sighting So Difficult?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Huningue Sighting Observation Key Stages",
+        "Huningue Evidence Limitations Analysis",
+        "GEIPAN Classification of Huningue"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Haute-Corse_b2c532",
+      "title": "What Haute Corse's UFO Files Actually Reveal",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Haute Corse UFO Investigation Key Stages",
+        "GEIPAN Classification of Haute Corse Cases",
+        "Factors Influencing Haute Corse UFO Impressions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Haute-Corse_b2c532_aircraft_misidentifi_91c807",
+      "title": "How Aircraft Became Haute Corse's Most Convincing UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Investigation Time line of the 2013 Bastia Lights",
+        "Factors Creating Aircraft Illusions in Haute Corse",
+        "Evidence Limitations in the 2011 Golo Sighting"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Haute-Corse_b2c532_geipan_records_unres_b1da58",
+      "title": "Which Haute Corse UFO Cases Remain Unexplained?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Haute Corse GEIPAN Case Chronology",
+        "GEIPAN Classification System Logic",
+        "Evidence Requirements for Haute Corse"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Haute-Garonne_34cc0a",
+      "title": "Why Haute Garonne's Strangest Sightings Remain Uncertain",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation Methodology",
+        "Sainte Foy de Peyrolières Case Analysis",
+        "Common Haute Garonne Misidentifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Haute-Garonne_34cc0a_geipan_case_reassess_0e9117",
+      "title": "Why Official UFO Verdicts Can Change",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "GEIPAN Investigation Workflow",
+        "Toulouse Area Case Reassessments",
+        "GEIPAN Classification Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Haute-Garonne_34cc0a_sainte_foy_unresolve_a38e86",
+      "title": "What Makes the Sainte Foy Sighting Unresolved?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Sainte Foy de Peyrolières Sighting Phases",
+        "GEIPAN Conventional Explanations Tested",
+        "Evidence Quality in Sainte Foy Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Haute-Loire_12edf0",
+      "title": "Strange Lights, Local Legends and Official Answers",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Haute Loire UFO History Time line",
+        "GEIPAN Haute Loire Case Outcomes",
+        "Factors Influencing UFO Perceptions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Haute-Loire_12edf0_geipan_haute_loire_c_e4c19d",
+      "title": "What GEIPAN Found in Haute Loire's UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "comparison_columns"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "GEIPAN Haute Loire Case Reclassifications",
+        "Auvers Case Perceptual Analysis",
+        "GEIPAN Classification Criteria"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Haute-Loire_12edf0_haute_loire_1954_wav_d0248d",
+      "title": "Why Did Haute Loire See So Many UFOs in 1954?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Haute Loire 1954 Sighting Profiles",
+        "Chadrac Observation Interpretations",
+        "Media Influence on Haute Loire Wave"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Haute-Marne_12dda3",
+      "title": "Haute Marne's UFO Record Under the Microscope",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Saint Dizier 1978 Investigation Time line",
+        "Saint Dizier Light Interpretations",
+        "GEIPAN Classification Definitions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Haute-Marne_12dda3_explained_haute_marn_3e93c0",
+      "title": "Why So Many Haute Marne UFOs Became Identified",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation Analysis Workflow",
+        "Haute Marne Case Interpretations",
+        "GEIPAN Evidence Classification System"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Haute-Marne_12dda3_saint_dizier_lights_403696",
+      "title": "Did the Saint Dizier Lights Defy Explanation?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Saint Dizier Military Sighting Time line",
+        "Saint Dizier Phenomenon Explanations",
+        "Evidence Gaps in Saint Dizier File"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Haute-Saone_0bdc4b",
+      "title": "From 1954 Saucer Stories to an Unresolved Triangle",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Haute Saône 1954 UFO Wave Chronology",
+        "Villers lès Luxeuil Triangle Interpretations",
+        "Factors Influencing Haute Saône Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.3,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Haute-Saone_0bdc4b_haute_saone_1954_wav_fe9706",
+      "title": "How Strong Were Haute Saone's 1954 UFO Reports?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Haute Saône 1954 Evidence Hierarchy",
+        "Interpretations of the Varigney Incident",
+        "Source Quality of Haute Saône Cases"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Haute-Saone_0bdc4b_villers_luxeuil_tria_ac0523",
+      "title": "What Flew Over Villers lès Luxeuil in 2019?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Villers lès Luxeuil Investigation Steps",
+        "Aircraft Candidate Analysis at BA 116",
+        "Villers lès Luxeuil Sighting Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Haute-Savoie_3824c4",
+      "title": "Why Haute Savoie's UFO Stories Rarely Stay Unexplained",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Investigation Workflow for Haute Savoie",
+        "Mont Blanc May 2013 Interpretations",
+        "Haute Savoie Environmental Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Haute-Savoie_3824c4_haute_savoie_geipan_922e81",
+      "title": "What Haute Savoie's UFO Files Actually Reveal",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "versus",
+        "quadrant"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "GEIPAN Case Classification System",
+        "Common Haute Savoie Misidentifications",
+        "Alpine Terrain Observation Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Haute-Savoie_3824c4_mont_blanc_ufo_repor_ad599f",
+      "title": "Did UFOs Really Cross Mont Blanc in 2013?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "May 2013 Mont Blanc UFO Wave Time line",
+        "Sallanches and Chamonix Interpretations",
+        "Factors Weakening the UFO Wave"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Haute-Vienne_e44500",
+      "title": "Why Haute Vienne's UFO Record Still Intrigues",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in Haute Vienne UFO Records",
+        "GEIPAN Classification Logic for Haute Vienne",
+        "Common Explanations for Haute Vienne Sightings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Haute-Vienne_e44500_explained_sightings_5f47d0",
+      "title": "How Haute Vienne's UFO Mysteries Were Explained",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Haute Vienne Sighting Chronology 1978 1979",
+        "Optical Illusion vs. Physical Craft",
+        "Common Causes of Haute Vienne Misidentifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Haute-Vienne_e44500_limoges_1953_unresol_37cc60",
+      "title": "Why the 1953 Limoges Sighting Remains Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Limoges 1953 Military Documentation Path",
+        "Limoges Sighting Explanatory Hypotheses",
+        "GEIPAN Case D Classification Criteria"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hautes-Alpes_6bdcb1",
+      "title": "Why Hautes Alpes UFO Reports Rarely Stayed Unexplained",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation Workflow",
+        "Tallard Sightings Interpretations",
+        "GEIPAN Classification Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hautes-Alpes_6bdcb1_geipan_record_patter_8a6847",
+      "title": "What the Official UFO Record Actually Shows",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Classification of Hautes Alpes Cases",
+        "Common Explanations for Local Sightings",
+        "Evidence Gaps in Category C Cases"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hautes-Alpes_6bdcb1_tallard_2013_flap_f21378",
+      "title": "How Tallard's UFO Flap Unravelled",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Tallard UFO Flap Key Stages 2013",
+        "Tallard Sightings Interpretations",
+        "GEIPAN Case Classification Criteria"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hautes-Pyrenees_f6aaeb",
+      "title": "Why Hautes Pyrenees UFO Cases Rarely Stay Mysterious",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "comparison_columns"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Chronology of Hautes Pyrénées UFO Cases",
+        "Interpretations of the Tarbes Triangle",
+        "GEIPAN Classification System Standards"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hautes-Pyrenees_f6aaeb_unresolved_official_554daf",
+      "title": "When Does an Unexplained Sighting Mean Anything?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Bagnères de Bigorre Investigation Time line",
+        "GEIPAN Classification Criteria Comparison",
+        "Missing Data Impact on Bagnères Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.182,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hauts-de-Seine_2ccee8",
+      "title": "Why One Hauts de Seine UFO Case Still Resists Explanation",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "venn",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Vaucresson vs Meudon Case Analysis",
+        "Common Explanations in Hauts de Seine",
+        "GEIPAN Investigation Classification Flow"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hauts-de-Seine_2ccee8_explained_urban_sigh_1ab6e6",
+      "title": "What Hauts de Seine UFO Witnesses Were Actually Seeing",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "comparison_columns",
+        "process_steps"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Common Misidentifications in Hauts de Seine",
+        "Urban Perception Distortion Factors",
+        "GEIPAN Investigation Evidence Chain"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Hauts-de-Seine_2ccee8_vaucresson_unresolve_475275",
+      "title": "Why the Vaucresson UFO Case Remains Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Vaucresson UFO Observation Time line",
+        "Conventional Explanations for Vaucresson",
+        "Evidence Gaps in Vaucresson Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Herault_0fa4db",
+      "title": "Why Herault's UFO Record Looks Stranger Than It Is",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Investigation Methodology Steps",
+        "Hérault Case Interpretations and Resolutions",
+        "GEIPAN Classification Confidence Scale"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Herault_0fa4db_familiar_light_expla_8abf9d",
+      "title": "How Ordinary Lights Become Herault UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Agde–Béziers Nightclub Light Mechanism",
+        "Hérault Celestial False Alarm Analysis",
+        "Aviation Geography and Visual Illusions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ille-et-Vilaine_a0a684",
+      "title": "Which Ille et Vilaine UFO Cases Still Resist Explanation?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Investigation Workflow Steps",
+        "Noyal sur Vilaine Triangle Interpretations",
+        "Ille et Vilaine Explained Phenomena"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ille-et-Vilaine_a0a684_1990_rocket_reentry_5c81de",
+      "title": "How a Rocket Re entry Became a UFO Wave",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Soviet Rocket Re entry Time line",
+        "Perceptual Errors vs Physical Reality",
+        "Ille et Vilaine Sighting Locations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Ille-et-Vilaine_a0a684_unresolved_noyal_etr_6fd046",
+      "title": "Why Do These Two Ille et Vilaine Cases Remain Open?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Chronology of Ille et Vilaine Sightings",
+        "Étrelles Meteor vs. Witness Claims",
+        "GEIPAN Evidence Quality Scale"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Indre-et-Loire_b45e62",
+      "title": "From Flying Saucers to Misidentified Lights",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Indre et Loire UFO Cases",
+        "Marcilly sur Vienne Case Interpretations",
+        "GEIPAN Indre et Loire Classifications"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Indre-et-Loire_b45e62_geipan_explained_sig_21e1da",
+      "title": "Why Indre et Loire's Official UFO Cases Were Explained",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation and Classification Workflow",
+        "Neuvy le Roi Case Interpretations",
+        "Indre et Loire Archive Phenomena Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Indre-et-Loire_b45e62_marcilly_encounter_h_90ef48",
+      "title": "Did Touraine's Famous Close Encounter Ever Happen?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Marcilly sur Vienne Narrative Evolution",
+        "Marcilly Encounter Evidence Analysis",
+        "Marcilly sur Vienne Craft Description"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Indre_4b1413",
+      "title": "Why Indre's UFO Record Is More Revealing Than Mysterious",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in Indre Aerospace Records",
+        "Interpretations of Indre Sky Phenomena",
+        "GEIPAN Classification Standards for Indre"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Indre_4b1413_indre_likely_explana_0929ba",
+      "title": "How Ordinary Lights Became Indre UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Investigation Workflow for Mron Balloons",
+        "Vatan Case: Aircraft vs. UFO",
+        "Common Sources of Indre UFO Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Indre_4b1413_unresolved_issoudun_6c6a70",
+      "title": "Why Indre's Strangest Sightings Remain Unproven",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Issoudun vs Le Blanc Sightings",
+        "Factors Limiting Indre Case Analysis",
+        "GEIPAN Category C Classification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Isere_7db861",
+      "title": "Why Isere's Strangest Sightings Rarely Stay Strange",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Isère Aerospace Records",
+        "The 5 November 1990 Analysis",
+        "Conventional Explanations in Isère"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Isere_7db861_grenoble_1990_ufo_wa_34ee2a",
+      "title": "Did a Giant UFO Cross Grenoble in 1990?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Soviet Proton Rocket Re entry Time line",
+        "Witness Perception vs. Physical Reality",
+        "Evidence Supporting Rocket Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Isere_7db861_isere_geipan_case_pa_c885b7",
+      "title": "What Isere's UFO Case Files Actually Reveal",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "grid_stats"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "GEIPAN Investigation Workflow",
+        "Isère Case Classification Logic",
+        "GEIPAN National Case Statistics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Jura_f17a56",
+      "title": "Jura's UFO Stories Between Legend and Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Jura UFO Reports",
+        "GEIPAN Classification Logic in Jura",
+        "Hierarchy of Jura Evidence Reliability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Jura_f17a56_jura_1970s_sightings_f9def5",
+      "title": "Was Jura's 1970 s UFO Flap One Phenomenon?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Jura UFO Flap Chronology 1976 1979",
+        "Jura Sighting Explanatory Categories",
+        "GEIPAN Classification System for Jura"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Jura_f17a56_premanon_changing_st_0ef0be",
+      "title": "How Did the Prémanon UFO Story Change?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the Prémanon Narrative",
+        "Interpretations of Physical Evidence",
+        "Narrative Construction Elements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Landes_7a79d9",
+      "title": "What Landes UFO Records Actually Reveal",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Landes UFO Records",
+        "GEIPAN Classification Logic in Landes",
+        "Common Landes Misidentifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Landes_7a79d9_cazeres_unresolved_c_3d0817",
+      "title": "Why the Cazeres UFO Case Remains Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation of Cazères sur l’Adour",
+        "Conventional Explanations for Cazères Sighting",
+        "Missing Evidence in the Cazères File"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Landes_7a79d9_explained_and_weak_c_af5c59",
+      "title": "Why Most Landes UFO Reports Were Not Mysteries",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "list_vertical",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "GEIPAN Classification: Category C vs D",
+        "Factors Driving Category C Designations",
+        "Landes Case Explanations and Findings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Loir-et-Cher_7a21fd",
+      "title": "When Strange Lights Met Stronger Explanations",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Ternay Case Investigation Time line",
+        "Ternay Sighting Interpretations",
+        "Loir et Cher GEIPAN Catalog"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Loir-et-Cher_7a21fd_1990_rocket_reentry_5c81de",
+      "title": "Why France Saw Giant UFOs in 1990",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Soviet Proton Rocket Re entry Time line",
+        "Witness Interpretations vs. Physical Reality",
+        "Loir et Cher Regional Archive Data"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Loir-et-Cher_7a21fd_ternay_forestry_expl_a678b7",
+      "title": "Did Forestry Lights Explain the Ternay UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Ternay Sighting Investigation Time line",
+        "Ternay Sighting Interpretation Comparison",
+        "Evidence from the Ternay Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Loire-Atlantique_ea6d7d",
+      "title": "Which Loire Atlantique UFO Cases Still Resist Explanation?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Official Case Classifications",
+        "Nantes and Saint Nazaire Interpretations",
+        "Common Perceptual Traps in Loire Atlantique"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Loire-Atlantique_ea6d7d_nantes_1979_unresolv_ae5afe",
+      "title": "Why Is the 1979 Nantes Sighting Still Unresolved?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Nantes 1979 Sighting Time line",
+        "Potential Explanations for Nantes Sighting",
+        "Missing Evidence in Nantes Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Loire-Atlantique_ea6d7d_ordinary_explanation_48ebfb",
+      "title": "How Strange Loire Atlantique Sightings Found Ordinary Explanations",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Investigation Reclassification Process",
+        "Loire Atlantique Case Interpretations",
+        "Mechanisms of Visual Illusion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Loire_9faa19",
+      "title": "Which Loire UFO Stories Survived Investigation?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Loire UFO History Time line",
+        "Loire Aerial Identification Analysis",
+        "GEIPAN Classification Standards"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Loire_9faa19_loire_1954_ufo_stori_f477c1",
+      "title": "Did Loire's 1954 UFO Landing Really Happen?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the Loire Landing Story",
+        "Original vs. Condensed Narrative Details",
+        "Missing Evidence in the Loire Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Loire_9faa19_loire_geipan_explana_91a382",
+      "title": "Why Loire's Strangest Lights Became Less Mysterious",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Investigation Methodology",
+        "Saint Haon Triangle Reassessment",
+        "Loire Regional Identification Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Loiret_6d08aa",
+      "title": "Which Loiret UFO Cases Still Resist Explanation?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in Loiret Aerial Records",
+        "Analysis of the 1982 A10 Incident",
+        "Loiret GEIPAN Classification Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Loiret_6d08aa_a10_unresolved_sight_a16fc9",
+      "title": "Why the 1982 A10 Sighting Remains Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "A10 Sighting Investigation Time line",
+        "A10 Sighting Explanatory Models",
+        "Evidence Quality in A10 Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Loiret_6d08aa_loiret_explained_sig_5d9565",
+      "title": "How Loiret's Strangest Sightings Were Explained",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Saint Florent Moon Identification Process",
+        "Loiret Aircraft Identification Analysis",
+        "Common Loiret Misidentification Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lot-et-Garonne_6df799",
+      "title": "Which Lot et Garonne UFO Cases Still Resist Explanation?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in Lot et Garonne UFO Reports",
+        "GEIPAN Classification Hierarchy",
+        "Conventional Explanations for Local Sightings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lot-et-Garonne_6df799_historic_wave_lachap_2e85bd",
+      "title": "How Strong Are Lot et Garonne's Famous Historic Sightings?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Chronology of the 1954 French Wave",
+        "Lachapelle Tractor Encounter Interpretations",
+        "Evidence Gaps in Lot et Garonne Cases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lot-et-Garonne_6df799_unresolved_casteljal_2b7e7e",
+      "title": "Why Do Casteljaloux and Montayral Remain Unexplained?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Casteljaloux vs. Montayral Observations",
+        "Montayral Investigation Hypotheses",
+        "Evidence Gaps in Lot et Garonne"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lot_4a2119",
+      "title": "Which Lot UFO Stories Survive Close Scrutiny?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Chronology of Lot UFO Sightings",
+        "Interpretations of the Sauzet Claim",
+        "GEIPAN Classification System for Lot"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lot_4a2119_lot_1954_ufo_wave_0c6be2",
+      "title": "Did Lot Experience a UFO Wave in 1954?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in 1954 Lot Sightings",
+        "Figeac Case Interpretations",
+        "Evidence Quality of Lot Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lot_4a2119_sauzet_1990_reentry_580792",
+      "title": "Was the Sauzet UFO More Than Falling Debris?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Sauzet Witness Narrative Time line",
+        "Sauzet Case Interpretations",
+        "Evidence Gaps in Sauzet Account"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lozere_e8b6da",
+      "title": "Why Lozere's Strangest UFO Reports Changed",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "process_pipeline"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Lozère Archive Case Key Stages",
+        "Mende Encounter Interpretations",
+        "GEIPAN Classification Standards"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lozere_e8b6da_grandrieu_flare_case_5f6da9",
+      "title": "How a Distress Flare Became a UFO",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Grandrieu Flare Investigation Time line",
+        "Grandrieu Crash Illusion Analysis",
+        "Pyrotechnic Flare Characteristics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Lozere_e8b6da_mende_airline_encoun_cd0b84",
+      "title": "Why the Mende UFO Case Split in Two",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "grid_stats"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Mende Encounter Time line 12 September 1998",
+        "GEIPAN Analysis of Visual Phases",
+        "Mende Encounter Flight Data"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Maine-et-Loire_19238f",
+      "title": "Maine et Loire's UFO Record Without the Folklore",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Maine et Loire 1970 s UFO Cluster",
+        "GEIPAN Classification Logic Comparison",
+        "Identifiable Maine et Loire Phenomena"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Maine-et-Loire_19238f_late_1970s_sighting_f33215",
+      "title": "Was Maine et Loire's 1970 s UFO Wave Real?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Maine et Loire UFO Wave Time line",
+        "Interpretations of Maine et Loire Sightings",
+        "GEIPAN Category C Evidence Gaps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Manche_e44581",
+      "title": "What Manche's UFO Record Actually Shows",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Manche Department UFO Chronology",
+        "Saint Lô 2012 Case Analysis",
+        "Manche Atmospheric Misidentifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Manche_e44581_manche_reports_and_e_ff7d4a",
+      "title": "From Fireballs to Burnt Fields in Manche",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Brix Burnt Field Investigation Steps",
+        "Manche UFO Case Interpretations",
+        "GEIPAN Classification Criteria"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Manche_e44581_saint_lo_2012_lights_ea45ca",
+      "title": "Why the Saint Lo Lights Remain Unexplained",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation of Saint Lô Lights",
+        "Rejected Explanations for Saint Lô Lights",
+        "Evidence Constraints of the Saint Lô Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Marne_763128",
+      "title": "Why Marne's Strangest UFO Cases Remain Unproven",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "GEIPAN Classification Logic for Marne",
+        "Broyes Vehicle Incident Interpretations",
+        "Marne Identified Aerial Phenomena"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Marne_763128_broyes_sommesous_veh_ed28dc",
+      "title": "Did a Bright Light Disable Two Cars?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Broyes Investigation Time line 2000",
+        "Broyes vs Sommesous Case Details",
+        "Missing Evidence in Marne Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Marne_763128_marne_geipan_classif_a9c65a",
+      "title": "What Marne's Official UFO Files Actually Show",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN UFO Classification Hierarchy",
+        "Marne Astronomical Illusions vs Reality",
+        "Factors Weakening Marne Case Reliability"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Mayenne_6ca058",
+      "title": "Mayenne's UFO Stories Under the Evidence Test",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Mayenne UFO History Time line",
+        "Méral Incident Evidence Analysis",
+        "GEIPAN Investigation Classifications"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Mayenne_6ca058_meral_landing_claim_7edfbc",
+      "title": "Did a UFO Really Land Near Méral?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Baptiste Potin's 1954 Méral Encounter",
+        "Interpretations of the Méral Residue",
+        "Evidence Gaps in the Méral Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Mayenne_6ca058_official_ufo_files_98c8b0",
+      "title": "What Do Mayenne's Official UFO Files Show?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "logic_equation"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "GEIPAN Official Classification System",
+        "Bais vs Villiers Charlemagne Case Analysis",
+        "GEIPAN National Case Distribution"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Meurthe-et-Moselle_cbfe8a",
+      "title": "Strange Reports, Strong Testimony and Uncertain Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Amaranth Case",
+        "Interpretations of the Amaranth Evidence",
+        "Modern GEIPAN Identifications in Nancy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Meurthe-et-Moselle_cbfe8a_amaranth_case_eviden_0801e6",
+      "title": "Did Anything Physical Hover Over the Nancy Garden?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Amaranth Case Investigation Time line",
+        "Amaranth Case Explanatory Hypotheses",
+        "GEPAN Evidence Analysis Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Meurthe-et-Moselle_cbfe8a_toul_longwy_1954_wav_e4a1ea",
+      "title": "How Lorraine's Saucer Wave Took Shape",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1954 Toul Wave",
+        "Interpretations of the Doncourt Trace",
+        "Evidence Quality in the 1954 Wave"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Meuse_6ed97d",
+      "title": "What Meuse's UFO Record Actually Reveals",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Meuse UFO History Time line",
+        "GEIPAN Classification Logic",
+        "Identified Meuse Phenomena"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Meuse_6ed97d_meuse_1976_ufo_clust_31e803",
+      "title": "Was Meuse's 1976 UFO Flap Really Connected?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in 1976 Meuse Sightings",
+        "GEIPAN Classifications of Meuse Files",
+        "Distinctive Features of Meuse Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Meuse_6ed97d_meuse_lantern_ufo_ca_a9e73a",
+      "title": "Why Orange UFO Formations Fooled Meuse Witnesses",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Meuse Orange UFO Case Progression",
+        "UFO vs. Sky Lantern Characteristics",
+        "Factors Influencing Lantern Misidentification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Morbihan_61a3f8",
+      "title": "How Morbihan's UFO Mysteries Changed Over Time",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Chronology of Morbihan Aerial Phenomena",
+        "Groix Case Reclassification Analysis",
+        "GEIPAN Morbihan Identification Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Morbihan_61a3f8_morbihan_geipan_recl_73078e",
+      "title": "Why Morbihan's Unexplained Cases Keep Changing",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Investigation Classification Workflow",
+        "Groix Island Sighting Interpretations",
+        "GEIPAN Case Classification Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Morbihan_61a3f8_pontivy_1954_ufo_wav_214a1f",
+      "title": "Did a Meteor Spark Pontivy's UFO Wave?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in the 1954 Pontivy Wave",
+        "Interpretations of the November 4 Event",
+        "Evidence Gaps in the Pontivy Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Moselle_b6f07c",
+      "title": "Which Moselle UFO Cases Still Resist Explanation?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Moselle UFO History Time line",
+        "Analysis of Moselle UFO Claims",
+        "GEIPAN Moselle Classification System"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Moselle_b6f07c_moselle_1954_ufo_wav_cfdafb",
+      "title": "Why Did Moselle Erupt With UFO Stories in 1954?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1954 Moselle Wave",
+        "Interpretations of the Pournoy la Chétive Case",
+        "Classification of Moselle UFO Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nievre_759cd1",
+      "title": "What Nievre's UFO Files Actually Reveal",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Nièvre UFO Case Key Stages",
+        "GEIPAN Classification Criteria",
+        "Common Nièvre Explanations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nievre_759cd1_ordinary_explanation_a805d0",
+      "title": "How Ordinary Objects Became Nievre UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation Logic for Nièvre",
+        "Nièvre UFO Perception Mechanisms",
+        "Solved Nièvre Aerospace Cases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nievre_759cd1_unresolved_sightings_9888f1",
+      "title": "Why Nievre's Strangest Sightings Remain Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Nièvre UFO Case Key Stages",
+        "D33 Road Sighting Interpretations",
+        "GEIPAN Category C Criteria"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nord_dc64d1",
+      "title": "Nord's UFO History Between Mystery and Misidentification",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the Quarouble Encounter",
+        "Interpretations of the 1954 Wave",
+        "GEIPAN Classification Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nord_dc64d1_nord_1954_ufo_wave_90b892",
+      "title": "What Drove Nord's Great 1954 UFO Wave?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the 1954 Nord Wave",
+        "Interpretations of the October 3 rd Sightings",
+        "Visual Characteristics of the Nord Wave"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Nord_dc64d1_quarouble_encounter_e04aec",
+      "title": "How Strong Is the Quarouble Encounter Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Quarouble Encounter",
+        "Evidence Analysis of Railway Marks",
+        "Witness Observations at Quarouble"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Oise_3dde58",
+      "title": "Why Oise Keeps Producing Convincing UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation Classification Flow",
+        "Silly le Long 2015 Case Interpretations",
+        "Common Oise Misidentifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Oise_3dde58_aircraft_illusion_tr_1596c6",
+      "title": "How Aircraft Lights Become Giant Triangular UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "logic_equation"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Silly le Long Encounter Time line",
+        "Silly le Long Interpretation Analysis",
+        "Factors Creating Oise Misidentifications"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Oise_3dde58_compiegne_unresolved_4570d8",
+      "title": "Why the Compiègne Sighting Still Resists Explanation",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Margny lès Compiègne Sighting Key Stages",
+        "Potential Explanations for Compiègne Sighting",
+        "Evidence Profile of the 1980 Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Orne_ab6076",
+      "title": "Which Orne UFO Cases Still Resist Explanation?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Chronology of Orne UFO Records",
+        "Aunay les Bois Investigation Hypotheses",
+        "GEIPAN Classification Standards in Orne"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Orne_ab6076_argentan_evidence_ga_19e4cf",
+      "title": "Did Argentan's Spectacular Encounter Have Solid Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Argentan Encounter Observation Key Stages",
+        "Argentan Case Evidence Gaps",
+        "Argentan Pilot and Craft Details"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Orne_ab6076_unresolved_modern_si_5bd164",
+      "title": "Why Orne's Modern UFO Cases Remain Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "GEIPAN Investigation of Aunay les Bois",
+        "Aunay les Bois Hypothesis Analysis",
+        "Comparison of Orne UFO Cases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Paris_22390a",
+      "title": "Why Paris UFO Cases Rarely Stay Unexplained",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Paris UFO Investigation Key Stages",
+        "Paris UFO Interpretation Models",
+        "GEIPAN Paris Case Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Paris_22390a_paris_cases_reassess_c6bee0",
+      "title": "How Paris's Strongest UFO Cases Unravelled",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Paris UFO Investigation Evolution",
+        "Evidence Quality in Paris Sightings",
+        "GEIPAN Classification Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Paris_22390a_paris_sighting_patte_ca0952",
+      "title": "Why Paris Produces So Many UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation Classification Workflow",
+        "Parisian Sighting Explanations vs. Reality",
+        "Factors Influencing Paris UFO Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Pas-de-Calais_0ab2d0",
+      "title": "Which Pas de Calais UFO Cases Still Resist Explanation?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Pas de Calais UFO History Time line",
+        "GEIPAN Classification Logic",
+        "Common Misidentifications in Pas de Calais"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Pas-de-Calais_0ab2d0_1954_coastal_photo_27db7c",
+      "title": "Did the 1954 Coastal Photograph Capture a Saucer?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Wimereux Case",
+        "Evidence Limitations of the Photograph",
+        "Turpin's Visual Description Details"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Pas-de-Calais_0ab2d0_longuenesse_official_8b6571",
+      "title": "Why Longuenesse Remains Officially Unidentified",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Longuenesse Case Key Stages 1990",
+        "Longuenesse Explanation Hypotheses",
+        "GEIPAN Classification Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Puy-de-Dome_53d1d1",
+      "title": "When Strange Lights Met Ordinary Explanations",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "cards_grid",
+        "versus"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "GEIPAN Official Case Classifications",
+        "Puy de Dôme Case Interpretations",
+        "Puy de Dôme Evidence Quality Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Puy-de-Dome_53d1d1_credible_witnesses_e_9a11bc",
+      "title": "Why Credible Witnesses Still Misidentify UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation Workflow for Puy de Dôme",
+        "Witness Perception vs. Physical Reality",
+        "Factors Influencing Sighting Accuracy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Puy-de-Dome_53d1d1_unresolved_weak_evid_7cf947",
+      "title": "What Unresolved UFO Files Actually Mean",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "process_pipeline",
+        "earth_core"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "other"
+      ],
+      "titles": [
+        "Billom vs Sauxillanges UFO Files",
+        "GEIPAN Category C Investigation Logic",
+        "Factors Limiting UFO Identification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Pyrenees-Atlantiques_126d41",
+      "title": "Strange Lights Over Pyrenees Atlantiques Explained",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "December 2022 Pau Aviation Case",
+        "GEIPAN Classification Logic for Pyrénées Atlantiques",
+        "Environmental Factors in Pyrénées Atlantiques"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Pyrenees-Atlantiques_126d41_geipan_cases_misiden_8ec68c",
+      "title": "What Do the Department's UFO Files Actually Show?",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "list_vertical",
+        "grid_stats"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "GEIPAN Classification Logic for Pyrénées Atlantiques",
+        "Common Causes of Unusual Night Sightings",
+        "GEIPAN Data base Statistics for Pyrénées Atlantiques"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.444,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Pyrenees-Atlantiques_126d41_pau_helicopter_meteo_d3777e",
+      "title": "Were the Pau Helicopter Lights Really Meteors?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "GEIPAN Investigation of Pau Sightings",
+        "Pau Sightings: Aircraft vs. Meteor",
+        "Technical Data of the Pau Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Pyrenees-Orientales_fc815c",
+      "title": "Which Pyrenees Orientales UFO Cases Still Resist Explanation?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation Workflow",
+        "Pyrénées Orientales Case Revisions",
+        "Identified Phenomena in Perpignan"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Pyrenees-Orientales_fc815c_official_reviews_and_8e3a7d",
+      "title": "How Pyrenees Orientales UFO Mysteries Were Reclassified",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Re evaluation of 1981 Cluster",
+        "Sainte Léocadie Case Explanations",
+        "Common Factors in Local UFO Flaps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Pyrenees-Orientales_fc815c_thuir_1976_unresolve_19dcc0",
+      "title": "Why the Thuir UFO Case Remains Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the Thuir UFO Case",
+        "Evidence Analysis of Thuir Sightings",
+        "GEIPAN Classification Criteria for Thuir"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rhone_ae79ce",
+      "title": "Why Rhone's UFO Mysteries Rarely Stay Mysterious",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rhône UFO Reporting Key Stages",
+        "Rhône Case Classification Logic",
+        "Common Rhône Misidentifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rhone_ae79ce_lyon_sky_misidentifi_b69dba",
+      "title": "Why Ordinary Lights Look Extraordinary Over Lyon",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "GEIPAN Investigation Analysis Workflow",
+        "Lyon Sky Lantern Misidentifications",
+        "Factors Influencing Lyon UFO Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Rhone_ae79ce_rhone_landmark_ufo_c_5dcccd",
+      "title": "Which Rhone UFO Cases Still Resist Explanation?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rhône UFO Reporting History",
+        "GEIPAN Classification Logic",
+        "Rhône Case Study Outcomes"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saone-et-Loire_d3ab2b",
+      "title": "What Saone et Loire's UFO Files Actually Reveal",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "GEIPAN Investigation and Classification Workflow",
+        "Saint Usuge Case Interpretation Shift",
+        "Saône et Loire Common Misidentifications"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saone-et-Loire_d3ab2b_explained_reclassifi_7d7dfb",
+      "title": "How Ordinary Lights Became Saone et Loire UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "earth_core"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Saint Usuge Case Reclassification Path",
+        "Satellite vs. Aircraft Interpretations",
+        "Perceptual Factors in UFO Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Saone-et-Loire_d3ab2b_toulon_unresolved_ca_3c658c",
+      "title": "Why the Toulon sur Arroux Sighting Still Resists Explanation",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Toulon sur Arroux Sighting Characteristics",
+        "Potential Explanations for Toulon sur Arroux",
+        "GEIPAN Evidence Gaps in Toulon sur Arroux"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sarthe_70aab9",
+      "title": "From Saucer Headlines to Official UFO Files",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Sarthe UFO Reporting Evolution",
+        "Le Mans Triangle Interpretations",
+        "Sarthe Evidence Quality Levels"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sarthe_70aab9_sarthe_1954_ufo_wave_b7bb39",
+      "title": "How Sarthe Joined France's 1954 UFO Wave",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Sarthe UFO Reporting Time line 1954",
+        "Interpretations of Sarthe Sightings",
+        "Sarthe Regional Sighting Varieties"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Sarthe_70aab9_sarthe_official_ufo_b00379",
+      "title": "Why Some Sarthe UFO Cases Stay Unexplained",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Case Classification Workflow",
+        "Sarthe Case Interpretations Comparison",
+        "GEIPAN Sarthe Archive Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Savoie_f57b8f",
+      "title": "Why Savoie's UFO Mysteries Usually Fade",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "comparison_columns",
+        "timeline_snake"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "GEIPAN Classification System for Savoie",
+        "Chambéry Sightings Explanations",
+        "Savoie Landmark Aerospace Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Savoie_f57b8f_chambery_ufo_explana_9dd778",
+      "title": "How Chambery's UFO Mysteries Were Explained",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Investigation of the 1997 Chambéry Flare",
+        "Chambéry Lantern vs. Balloon Theories",
+        "Chambéry UFO Case Classifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Savoie_f57b8f_savoie_official_ufo_a0732b",
+      "title": "What Savoie's Official UFO Records Actually Show",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation Classification Process",
+        "Savoie Archive Category Distinctions",
+        "Environmental Factors in Savoie Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Seine-Maritime_c89706",
+      "title": "Why Seine Maritime's Strangest Sightings Rarely Prove Extraordinary",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Seine Maritime UFO History Time line",
+        "Evaluating Seine Maritime Sighting Claims",
+        "GEIPAN Classification Criteria in Seine Maritime"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Seine-Maritime_c89706_geipan_case_patterns_955d4f",
+      "title": "How GEIPAN Judged Seine Maritime's UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "GEIPAN Official Classification System",
+        "Seine Maritime Astronomical Explanations",
+        "Weaknesses in Seine Maritime Testimony"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Seine-Maritime_c89706_pays_de_caux_1954_wa_5ef202",
+      "title": "What Fueled Seine Maritime's 1954 UFO Wave?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1954 Pays de Caux Wave",
+        "Interpretations of the Rouen Photograph",
+        "Evidential Gaps in Fécamp Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Seine-Saint-Denis_af7f54",
+      "title": "How Seine Saint Denis Turned UFOs Into Identified Phenomena",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Saint Denis Balloon Investigation Steps",
+        "Le Raincy Light Interpretations",
+        "Seine Saint Denis UAP Classifications"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Seine-Saint-Denis_af7f54_cloud_light_display_96355a",
+      "title": "Why Moving Lights Look Like Objects in Clouds",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Neuilly sur Marne Investigation Time line",
+        "Le Raincy Case Evidence Analysis",
+        "Mechanisms of Cloud Based Illusions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Seine-Saint-Denis_af7f54_saint_denis_balloon_d6bc15",
+      "title": "How the Saint Denis Saucer Became a Balloon",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Saint Denis Saucer Investigation Time line",
+        "Witness Perception vs. Physical Reality",
+        "GEIPAN Evidence Verification Methods"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Seine-et-Marne_d85b24",
+      "title": "Which Seine et Marne UFO Cases Still Defy Explanation?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Seine et Marne Aviation History",
+        "Explained vs Unexplained Cases",
+        "GEIPAN Evidence Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Seine-et-Marne_d85b24_explained_sightings_5f47d0",
+      "title": "How Seine et Marne's Most Convincing UFOs Were Explained",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "logic_equation"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Solving the 1990 Rocket Re entry",
+        "Misidentifications in Seine et Marne",
+        "Factors Validating Ordinary Explanations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Seine-et-Marne_d85b24_unresolved_1994_case_7f48d4",
+      "title": "Why the 1994 Seine et Marne Sightings Still Matter",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Air France AF 3532 Encounter Key Stages",
+        "Ussy sur Marne Evidence Analysis",
+        "GEIPAN Case Classification Criteria"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Somme_f38fb9",
+      "title": "Why Somme's UFO Record Still Resists Easy Answers",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Chronology of Somme UFO Records",
+        "Interpretations of Somme Sightings",
+        "GEIPAN Somme Case Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Somme_f38fb9_somme_1954_ufo_wave_a5c9f1",
+      "title": "What Made Somme's 1954 UFO Wave Different?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1954 Somme Wave",
+        "Doullens Incident Interpretations",
+        "Somme Wave Evidence Quality"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Somme_f38fb9_somme_ufo_case_verdi_9fd01c",
+      "title": "Why Some Somme UFO Cases Stay Unexplained",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Classification System Standards",
+        "Somme Archive: Category C vs D",
+        "Resolved Somme Phenomena Explanations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tarn-et-Garonne_a4f8ba",
+      "title": "Strange Lights, Weak Files and One Landmark Case",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Tarn et Garonne UFO Case Evolution",
+        "GEIPAN Interpretations of Local Sightings",
+        "GEIPAN Classification of Tarn et Garonne Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tarn-et-Garonne_a4f8ba_golfech_ufo_evidence_41c628",
+      "title": "Why the Golfech UFO Case Remains Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Golfech Investigation Time line",
+        "Golfech Phenomenon Interpretations",
+        "GEIPAN Classification Weaknesses"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tarn-et-Garonne_a4f8ba_ordinary_causes_loca_403609",
+      "title": "What Usually Caused Tarn et Garonne's UFO Reports?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Tarn et Garonne Misperception Mechanisms",
+        "GEIPAN Case Analysis: Mas Grenier",
+        "GEIPAN Investigation Methodology"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tarn_a5fb02",
+      "title": "Tarn's UFO Stories Between Mystery and Explanation",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Chronology of Tarn UFO Records",
+        "Gaillac 1952 Interpretation Models",
+        "GEIPAN Classification of Tarn Cases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tarn_a5fb02_gaillac_1952_angel_h_ffb5f7",
+      "title": "Did Spider Silk Create Gaillac's UFO Spectacle?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Chronology of the Gaillac Sighting",
+        "Gaillac Sighting Interpretations",
+        "Characteristics of 'Angel Hair'"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Tarn_a5fb02_tarn_official_ufo_fi_e8aaa3",
+      "title": "Why Some Tarn UFO Cases Were Reclassified",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation of Murat sur Vèbre",
+        "Bertre Case Evidence Comparison",
+        "GEIPAN Official Classification System"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Territoire_de_Belfor_8990a1",
+      "title": "Why Belfort's UFO Record Is Mostly Misread",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_chain",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Belfort UFO Case Key Stages",
+        "Belfort Kite Interpretation Analysis",
+        "GEIPAN Investigation Classification System"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Territoire_de_Belfor_8990a1_belfort_kite_cases_7d5427",
+      "title": "How Belfort's UFO Craft Became a Kite",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Belfort Kite Identification Time line",
+        "Belfort Aerial Perception Factors",
+        "Kite System Components in Belfort"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Territoire_de_Belfor_8990a1_grandvillars_black_s_77b66e",
+      "title": "Why the Grandvillars Black Sphere Remains Unsolved",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Grandvillars–Delle Sighting Time line",
+        "Potential Explanations for the Sphere",
+        "Missing Data in GEIPAN Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Val-d_Oise_9a8e5a",
+      "title": "From Alien Abduction Hoax to Unresolved Lights",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in the Cergy Pontoise Case",
+        "Maffliers Case Evidence Analysis",
+        "Common Val d'Oise Misidentifications"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Val-d_Oise_9a8e5a_cergy_pontoise_hoax_d72cc2",
+      "title": "How Cergy Pontoise Became France's Famous UFO Hoax",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the Cergy Pontoise Affair",
+        "Evidence Analysis of the Abduction Claim",
+        "Components of the Cergy Pontoise Legend"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Val-d_Oise_9a8e5a_geipan_unresolved_ai_ad97b7",
+      "title": "Why Some Val d'Oise UFO Reports Stay Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Investigation of Domont Lights",
+        "Maffliers Case Explanatory Analysis",
+        "GEIPAN Classification Standards"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Val-de-Marne_555905",
+      "title": "What Val de Marne's UFO Files Actually Reveal",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Investigation Workflow",
+        "Maisons Alfort Sighting Interpretations",
+        "Val de Marne Case Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Val-de-Marne_555905_choisy_unresolved_ca_5c9eaa",
+      "title": "Why Choisy le Roi Remains Val de Marne's Key Mystery",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Choisy le Roi Sighting Time line",
+        "GEIPAN Explanations for Choisy le Roi",
+        "Missing Evidence in Choisy le Roi Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Val-de-Marne_555905_val_de_marne_explana_d896df",
+      "title": "Why Strange Lights Over Val de Marne Mislead Witnesses",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "comparison_columns",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Common Val de Marne Misidentifications",
+        "GEIPAN Category C vs D",
+        "Data Requirements for Valid Sighting"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Var_5cea87",
+      "title": "Why Var's UFO Reputation Rests on Two Cases",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Trans en Provence Investigation Time line",
+        "Trans en Provence Trace Interpretations",
+        "Var Department UFO Archive Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Var_5cea87_saint_zacharie_moder_c629a0",
+      "title": "Why Saint Zacharie Still Defies a Clear Explanation",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Investigation of Saint Zacharie",
+        "Saint Zacharie vs. Trans en Provence",
+        "Rejected Explanations for Saint Zacharie"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Var_5cea87_trans_evidence_dispu_a8ee6a",
+      "title": "Did Anything Unusual Land at Trans en Provence?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Trans en Provence Investigation Time line",
+        "Interpretations of the Landing Trace",
+        "Laboratory Findings at Trans en Provence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Vaucluse_17bae7",
+      "title": "Why Vaucluse's Strangest Sightings Still Fascinate",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Vaucluse UFO History Time line",
+        "Vaucluse Sighting Explanations",
+        "GEIPAN Classification Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Vaucluse_17bae7_vaucluse_1954_wave_45cdca",
+      "title": "What Was Seen Over Vaucluse in 1954?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1954 Vaucluse Wave",
+        "Interpretations of the Fontaine de Vaucluse Object",
+        "Factors Influencing the 1954 Saucer Wave"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Vaucluse_17bae7_vaucluse_ufo_case_fi_85b0d2",
+      "title": "How Vaucluse UFO Reports Were Tested",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Gendarmerie Investigation Workflow",
+        "Vaucluse Aerial Phenomenon Explanations",
+        "GEIPAN Classification Standards"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Vendee_da066b",
+      "title": "When Strange Lights Crossed the Vendee Sky",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Time line of the 1990 Vendée Sighting",
+        "GEIPAN Classification Categories in Vendée",
+        "Common Sources of Vendée Sightings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Vendee_da066b_vendee_1990_mass_sig_c13586",
+      "title": "Did Vendee See a Giant Craft in 1990?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Proton Rocket Re entry Identification",
+        "Witness Perception vs. Physical Reality",
+        "Vendée Sighting Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Vendee_da066b_vendee_official_ufo_e688bf",
+      "title": "What Do Vendee's Official UFO Files Show?",
+      "infographic_count": 3,
+      "templates": [
+        "funnel_layers",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "GEIPAN Vendée Classification System",
+        "Common Vendée Aerospace Explanations",
+        "Evidence Quality in Vendée Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Vienne_f0511b",
+      "title": "From Flying Saucers to Official Case Files",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Vienne UFO History Time line",
+        "Vienne Case Evidence Analysis",
+        "GEIPAN Classification Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Vienne_f0511b_mouliere_ufo_flap_a0de32",
+      "title": "Did Mouliere Really Have a UFO Wave?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in the Moulière UFO Flap",
+        "Evidence Quality in Moulière Reports",
+        "Witness Descriptions vs. Physical Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Vienne_f0511b_vienne_official_ufo_b304fa",
+      "title": "What Vienne's Official UFO Files Actually Show",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Report Investigation Workflow",
+        "GEIPAN Evidence Grading System",
+        "Vienne Department Explained Cases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Vosges_53546a",
+      "title": "Why Vosges UFO Reports Rarely Stay Simple",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Vosges UFO Case Reclassifications",
+        "Vosges Case Classification Logic",
+        "Common Vosges Misidentifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Vosges_53546a_vosges_close_encount_b042b3",
+      "title": "Which Vosges Close Encounters Remain Unexplained?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "prism",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Vosges UFO Case Classifications",
+        "Sapois–Vagney Encounter Characteristics",
+        "Limits of Roadside Witness Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Vosges_53546a_vosges_explained_sig_2100de",
+      "title": "How Ordinary Lights Became Vosges UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Investigation Methodology for Vosges",
+        "Dompaire Triangle vs. Aircraft Circuit",
+        "Common Sources of Vosges UFO Sightings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yonne_77d4a6",
+      "title": "Why Yonne's UFO History Looks Stranger Than Its Record",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Yonne Aerial Phenomena",
+        "Interpretations of the 1990 Wave",
+        "GEIPAN Classification System for Yonne"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yonne_77d4a6_yonne_geipan_record_ba8194",
+      "title": "Does Yonne's Official UFO Record Support the Folklore?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation Classification Workflow",
+        "Yonne Case Interpretations and Explanations",
+        "GEIPAN Classification Categories in Yonne"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yonne_77d4a6_yonne_major_ufo_wave_556fab",
+      "title": "How Two Night Sky Waves Shaped Yonne's UFO Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1990 French UFO Wave",
+        "Interpretations of the 1988 Burgundy Cluster",
+        "Factors Influencing 1990 Witness Perception"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yvelines_722ea1",
+      "title": "What Yvelines UFO Reports Actually Reveal",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Yvelines Aerial Records",
+        "Ecquevilly Case Interpretation Analysis",
+        "Yvelines Archive Classification Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yvelines_722ea1_aviation_and_misiden_d2b1c4",
+      "title": "Why So Many Yvelines UFOs Look Like Aircraft",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation Classification Workflow",
+        "Yvelines Aerial Misidentification Factors",
+        "Yvelines Aviation Infrastructure Map"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Yvelines_722ea1_strongest_unexplaine_8d8371",
+      "title": "Why Ecquevilly and Buchelay Remain Unexplained",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "list_vertical",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Ecquevilly vs. Buchelay UFO Cases",
+        "Missing Evidence in Yvelines Reports",
+        "GEIPAN Ecquevilly Investigation Steps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}

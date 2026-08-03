@@ -1,0 +1,2803 @@
+{
+  "version": 1,
+  "page_count": 134,
+  "total_page_seconds": 155.4206,
+  "average_page_seconds": 1.1599,
+  "phase_totals_seconds": {
+    "content_assembly": 96.0199,
+    "monetization": 22.0138,
+    "media_svg": 14.6768,
+    "quality_write": 7.8819,
+    "youtube": 6.4454,
+    "content_cleanup_final": 3.4086,
+    "preparation": 2.9268,
+    "internal_links": 1.971,
+    "content_cleanup_initial": 0.0779
+  },
+  "slowest_pages": [
+    {
+      "base_name": "Allier_716dd6",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 4.6587,
+      "phases": {
+        "preparation": 0.0366,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 0.0189,
+        "content_cleanup_final": 0.0328,
+        "media_svg": 0.2569,
+        "youtube": 1.4763,
+        "content_assembly": 0.9431,
+        "monetization": 1.8094,
+        "quality_write": 0.0837
+      }
+    },
+    {
+      "base_name": "Allier_716dd6_unresolved_allier_ca_153093",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.3591,
+      "phases": {
+        "preparation": 0.0142,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.013,
+        "content_cleanup_final": 0.0315,
+        "media_svg": 0.1086,
+        "youtube": 1.4409,
+        "content_assembly": 0.6772,
+        "monetization": 2.0118,
+        "quality_write": 0.0608
+      }
+    },
+    {
+      "base_name": "Allier_716dd6_explained_allier_sig_f7ca00",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2017,
+      "phases": {
+        "preparation": 0.0149,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0146,
+        "content_cleanup_final": 0.0294,
+        "media_svg": 0.0993,
+        "youtube": 1.4495,
+        "content_assembly": 0.6367,
+        "monetization": 1.9075,
+        "quality_write": 0.049
+      }
+    },
+    {
+      "base_name": "Moselle_b6f07c_moselle_geipan_files_2118c6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9927,
+      "phases": {
+        "preparation": 0.0147,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.0138,
+        "content_cleanup_final": 0.0339,
+        "media_svg": 0.0831,
+        "youtube": 0.0179,
+        "content_assembly": 0.7054,
+        "monetization": 1.0505,
+        "quality_write": 0.0726
+      }
+    },
+    {
+      "base_name": "Loire_9faa19_loire_geipan_explana_91a382",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9359,
+      "phases": {
+        "preparation": 0.0146,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0136,
+        "content_cleanup_final": 0.012,
+        "media_svg": 0.0755,
+        "youtube": 0.0146,
+        "content_assembly": 0.5875,
+        "monetization": 1.1748,
+        "quality_write": 0.043
+      }
+    },
+    {
+      "base_name": "Vaucluse_17bae7_vaucluse_1954_wave_45cdca",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.903,
+      "phases": {
+        "preparation": 0.0143,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0132,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 0.0638,
+        "youtube": 0.0304,
+        "content_assembly": 0.619,
+        "monetization": 1.1002,
+        "quality_write": 0.0386
+      }
+    },
+    {
+      "base_name": "Var_5cea87_trans_evidence_dispu_a8ee6a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8924,
+      "phases": {
+        "preparation": 0.014,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0101,
+        "content_cleanup_final": 0.0126,
+        "media_svg": 0.0645,
+        "youtube": 0.0093,
+        "content_assembly": 0.5896,
+        "monetization": 1.1502,
+        "quality_write": 0.0417
+      }
+    },
+    {
+      "base_name": "Cote-d_Or_6e3ab6",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8482,
+      "phases": {
+        "preparation": 0.0366,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.021,
+        "content_cleanup_final": 0.0315,
+        "media_svg": 0.6919,
+        "youtube": 0.0145,
+        "content_assembly": 0.8959,
+        "monetization": 0.0834,
+        "quality_write": 0.0728
+      }
+    },
+    {
+      "base_name": "Nord_dc64d1_quarouble_encounter_e04aec",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.803,
+      "phases": {
+        "preparation": 0.0143,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0121,
+        "content_cleanup_final": 0.0211,
+        "media_svg": 0.0686,
+        "youtube": 0.0138,
+        "content_assembly": 0.6216,
+        "monetization": 1.0073,
+        "quality_write": 0.0437
+      }
+    },
+    {
+      "base_name": "Bas-Rhin_ad02bb_radar_venus_military_38b5f2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.6126,
+      "phases": {
+        "preparation": 0.0146,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0128,
+        "content_cleanup_final": 0.024,
+        "media_svg": 0.7669,
+        "youtube": 0.0108,
+        "content_assembly": 0.6339,
+        "monetization": 0.1004,
+        "quality_write": 0.0488
+      }
+    },
+    {
+      "base_name": "Dordogne_e9b4bd",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.5065,
+      "phases": {
+        "preparation": 0.036,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 0.0188,
+        "content_cleanup_final": 0.0506,
+        "media_svg": 0.1387,
+        "youtube": 0.0245,
+        "content_assembly": 1.0496,
+        "monetization": 0.0785,
+        "quality_write": 0.1089
+      }
+    },
+    {
+      "base_name": "Nievre_759cd1",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4832,
+      "phases": {
+        "preparation": 0.0407,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 0.0168,
+        "content_cleanup_final": 0.0464,
+        "media_svg": 0.2085,
+        "youtube": 0.0181,
+        "content_assembly": 0.9821,
+        "monetization": 0.0753,
+        "quality_write": 0.094
+      }
+    },
+    {
+      "base_name": "Cote-d_Or_6e3ab6_poncey_1954_case_c8af5a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4386,
+      "phases": {
+        "preparation": 0.0142,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0124,
+        "content_cleanup_final": 0.0143,
+        "media_svg": 0.6788,
+        "youtube": 0.0197,
+        "content_assembly": 0.5826,
+        "monetization": 0.076,
+        "quality_write": 0.0403
+      }
+    },
+    {
+      "base_name": "Bas-Rhin_ad02bb",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4365,
+      "phases": {
+        "preparation": 0.0382,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.0199,
+        "content_cleanup_final": 0.045,
+        "media_svg": 0.1396,
+        "youtube": 0.0129,
+        "content_assembly": 0.9969,
+        "monetization": 0.0912,
+        "quality_write": 0.0918
+      }
+    },
+    {
+      "base_name": "Aveyron_fecfb2",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.429,
+      "phases": {
+        "preparation": 0.0845,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0174,
+        "content_cleanup_final": 0.0383,
+        "media_svg": 0.2047,
+        "youtube": 0.0205,
+        "content_assembly": 0.9111,
+        "monetization": 0.0716,
+        "quality_write": 0.0801
+      }
+    },
+    {
+      "base_name": "Maine-et-Loire_19238f",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4187,
+      "phases": {
+        "preparation": 0.0364,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0222,
+        "content_cleanup_final": 0.0404,
+        "media_svg": 0.1697,
+        "youtube": 0.0176,
+        "content_assembly": 0.9664,
+        "monetization": 0.0756,
+        "quality_write": 0.0895
+      }
+    },
+    {
+      "base_name": "Creuse_73fb1d",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.407,
+      "phases": {
+        "preparation": 0.0361,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0134,
+        "content_cleanup_final": 0.0367,
+        "media_svg": 0.1625,
+        "youtube": 0.0304,
+        "content_assembly": 0.9634,
+        "monetization": 0.0734,
+        "quality_write": 0.0901
+      }
+    },
+    {
+      "base_name": "Hautes-Pyrenees_f6aaeb",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.385,
+      "phases": {
+        "preparation": 0.0365,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0191,
+        "content_cleanup_final": 0.0385,
+        "media_svg": 0.1497,
+        "youtube": 0.0147,
+        "content_assembly": 0.9493,
+        "monetization": 0.0917,
+        "quality_write": 0.0848
+      }
+    },
+    {
+      "base_name": "Haute-Marne_12dda3",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.378,
+      "phases": {
+        "preparation": 0.0358,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0152,
+        "content_cleanup_final": 0.0406,
+        "media_svg": 0.1431,
+        "youtube": 0.0217,
+        "content_assembly": 0.9655,
+        "monetization": 0.0747,
+        "quality_write": 0.0806
+      }
+    },
+    {
+      "base_name": "Gers_631401",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3728,
+      "phases": {
+        "preparation": 0.0366,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0234,
+        "content_cleanup_final": 0.0348,
+        "media_svg": 0.1413,
+        "youtube": 0.0197,
+        "content_assembly": 0.9419,
+        "monetization": 0.0913,
+        "quality_write": 0.0831
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "Allier_716dd6",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 4.6587,
+      "phases": {
+        "preparation": 0.0366,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 0.0189,
+        "content_cleanup_final": 0.0328,
+        "media_svg": 0.2569,
+        "youtube": 1.4763,
+        "content_assembly": 0.9431,
+        "monetization": 1.8094,
+        "quality_write": 0.0837
+      }
+    },
+    {
+      "base_name": "Ardennes_627650",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3008,
+      "phases": {
+        "preparation": 0.0364,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0182,
+        "content_cleanup_final": 0.0255,
+        "media_svg": 0.146,
+        "youtube": 0.0187,
+        "content_assembly": 0.8985,
+        "monetization": 0.0818,
+        "quality_write": 0.075
+      }
+    },
+    {
+      "base_name": "Allier_716dd6_explained_allier_sig_f7ca00",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2017,
+      "phases": {
+        "preparation": 0.0149,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0146,
+        "content_cleanup_final": 0.0294,
+        "media_svg": 0.0993,
+        "youtube": 1.4495,
+        "content_assembly": 0.6367,
+        "monetization": 1.9075,
+        "quality_write": 0.049
+      }
+    },
+    {
+      "base_name": "Ardennes_627650_vireux_wallerand_cig_454d3a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8742,
+      "phases": {
+        "preparation": 0.014,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0049,
+        "content_cleanup_final": 0.0122,
+        "media_svg": 0.1087,
+        "youtube": 0.0099,
+        "content_assembly": 0.5797,
+        "monetization": 0.1022,
+        "quality_write": 0.0423
+      }
+    },
+    {
+      "base_name": "Aveyron_fecfb2",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.429,
+      "phases": {
+        "preparation": 0.0845,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0174,
+        "content_cleanup_final": 0.0383,
+        "media_svg": 0.2047,
+        "youtube": 0.0205,
+        "content_assembly": 0.9111,
+        "monetization": 0.0716,
+        "quality_write": 0.0801
+      }
+    },
+    {
+      "base_name": "Dordogne_e9b4bd",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.5065,
+      "phases": {
+        "preparation": 0.036,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 0.0188,
+        "content_cleanup_final": 0.0506,
+        "media_svg": 0.1387,
+        "youtube": 0.0245,
+        "content_assembly": 1.0496,
+        "monetization": 0.0785,
+        "quality_write": 0.1089
+      }
+    },
+    {
+      "base_name": "Allier_716dd6_unresolved_allier_ca_153093",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.3591,
+      "phases": {
+        "preparation": 0.0142,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.013,
+        "content_cleanup_final": 0.0315,
+        "media_svg": 0.1086,
+        "youtube": 1.4409,
+        "content_assembly": 0.6772,
+        "monetization": 2.0118,
+        "quality_write": 0.0608
+      }
+    },
+    {
+      "base_name": "Drome_06f265_strongest_unresolved_6ae8b0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9348,
+      "phases": {
+        "preparation": 0.014,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0102,
+        "content_cleanup_final": 0.0234,
+        "media_svg": 0.0674,
+        "youtube": 0.0157,
+        "content_assembly": 0.642,
+        "monetization": 0.104,
+        "quality_write": 0.0574
+      }
+    },
+    {
+      "base_name": "Finistere_3f7bbd_landivisiau_1979_evi_5f9f00",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8885,
+      "phases": {
+        "preparation": 0.0144,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0147,
+        "content_cleanup_final": 0.0197,
+        "media_svg": 0.0717,
+        "youtube": 0.0203,
+        "content_assembly": 0.6001,
+        "monetization": 0.108,
+        "quality_write": 0.0393
+      }
+    },
+    {
+      "base_name": "Finistere_3f7bbd_modern_cases_investi_ecbd23",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8643,
+      "phases": {
+        "preparation": 0.0148,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0125,
+        "content_cleanup_final": 0.0176,
+        "media_svg": 0.07,
+        "youtube": 0.0092,
+        "content_assembly": 0.5909,
+        "monetization": 0.101,
+        "quality_write": 0.0478
+      }
+    },
+    {
+      "base_name": "Finistere_3f7bbd",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3305,
+      "phases": {
+        "preparation": 0.0364,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0201,
+        "content_cleanup_final": 0.0307,
+        "media_svg": 0.1633,
+        "youtube": 0.0208,
+        "content_assembly": 0.9084,
+        "monetization": 0.0702,
+        "quality_write": 0.08
+      }
+    },
+    {
+      "base_name": "Loire-Atlantique_ea6d7d_nantes_1979_unresolv_ae5afe",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9086,
+      "phases": {
+        "preparation": 0.0148,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0154,
+        "content_cleanup_final": 0.0246,
+        "media_svg": 0.0672,
+        "youtube": 0.017,
+        "content_assembly": 0.6265,
+        "monetization": 0.092,
+        "quality_write": 0.0503
+      }
+    },
+    {
+      "base_name": "Orne_ab6076_unresolved_modern_si_5bd164",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8886,
+      "phases": {
+        "preparation": 0.0146,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0137,
+        "content_cleanup_final": 0.022,
+        "media_svg": 0.0646,
+        "youtube": 0.0157,
+        "content_assembly": 0.622,
+        "monetization": 0.0884,
+        "quality_write": 0.0472
+      }
+    },
+    {
+      "base_name": "Orne_ab6076",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2547,
+      "phases": {
+        "preparation": 0.0358,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0197,
+        "content_cleanup_final": 0.0239,
+        "media_svg": 0.1302,
+        "youtube": 0.0143,
+        "content_assembly": 0.8832,
+        "monetization": 0.0701,
+        "quality_write": 0.0771
+      }
+    },
+    {
+      "base_name": "Pas-de-Calais_0ab2d0_1954_coastal_photo_27db7c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8873,
+      "phases": {
+        "preparation": 0.0143,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0146,
+        "content_cleanup_final": 0.0192,
+        "media_svg": 0.0664,
+        "youtube": 0.0206,
+        "content_assembly": 0.6209,
+        "monetization": 0.0866,
+        "quality_write": 0.0443
+      }
+    },
+    {
+      "base_name": "Haut-Rhin_0c01ce_huningue_ufo_evidenc_07b8af",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9035,
+      "phases": {
+        "preparation": 0.0143,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.015,
+        "content_cleanup_final": 0.0217,
+        "media_svg": 0.0676,
+        "youtube": 0.0146,
+        "content_assembly": 0.6215,
+        "monetization": 0.0971,
+        "quality_write": 0.0512
+      }
+    },
+    {
+      "base_name": "Aisne_b23b8e_soissons_1954_claim_dea6f0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9227,
+      "phases": {
+        "preparation": 0.0143,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0114,
+        "content_cleanup_final": 0.027,
+        "media_svg": 0.0657,
+        "youtube": 0.0169,
+        "content_assembly": 0.6421,
+        "monetization": 0.0985,
+        "quality_write": 0.0464
+      }
+    },
+    {
+      "base_name": "Alpes-de-Haute-Prove_b1f7bc_meyronnes_volx_geipa_f4260c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9823,
+      "phases": {
+        "preparation": 0.0148,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0177,
+        "content_cleanup_final": 0.0248,
+        "media_svg": 0.0651,
+        "youtube": 0.0229,
+        "content_assembly": 0.6744,
+        "monetization": 0.0985,
+        "quality_write": 0.0634
+      }
+    },
+    {
+      "base_name": "Alpes-de-Haute-Prove_b1f7bc_valensole_evidence_e_c04290",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.899,
+      "phases": {
+        "preparation": 0.0143,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0167,
+        "content_cleanup_final": 0.0181,
+        "media_svg": 0.0709,
+        "youtube": 0.0121,
+        "content_assembly": 0.6109,
+        "monetization": 0.1153,
+        "quality_write": 0.0403
+      }
+    },
+    {
+      "base_name": "Hautes-Alpes_6bdcb1",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3683,
+      "phases": {
+        "preparation": 0.0362,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.023,
+        "content_cleanup_final": 0.0367,
+        "media_svg": 0.148,
+        "youtube": 0.0135,
+        "content_assembly": 0.9285,
+        "monetization": 0.0901,
+        "quality_write": 0.0915
+      }
+    },
+    {
+      "base_name": "Hautes-Alpes_6bdcb1_geipan_record_patter_8a6847",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9712,
+      "phases": {
+        "preparation": 0.0145,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0159,
+        "content_cleanup_final": 0.0285,
+        "media_svg": 0.0685,
+        "youtube": 0.0218,
+        "content_assembly": 0.6735,
+        "monetization": 0.0828,
+        "quality_write": 0.065
+      }
+    },
+    {
+      "base_name": "Alpes-Maritimes_efe25c_riviera_cases_reasse_c5843c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9543,
+      "phases": {
+        "preparation": 0.0142,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.01,
+        "content_cleanup_final": 0.025,
+        "media_svg": 0.1058,
+        "youtube": 0.0162,
+        "content_assembly": 0.6385,
+        "monetization": 0.0921,
+        "quality_write": 0.0519
+      }
+    },
+    {
+      "base_name": "Ardeche_5d1281_pranles_unresolved_c_efbe67",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9108,
+      "phases": {
+        "preparation": 0.0144,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0094,
+        "content_cleanup_final": 0.0173,
+        "media_svg": 0.1196,
+        "youtube": 0.0175,
+        "content_assembly": 0.6074,
+        "monetization": 0.0811,
+        "quality_write": 0.0437
+      }
+    },
+    {
+      "base_name": "Ardeche_5d1281",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2964,
+      "phases": {
+        "preparation": 0.0359,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.015,
+        "content_cleanup_final": 0.0295,
+        "media_svg": 0.1484,
+        "youtube": 0.0185,
+        "content_assembly": 0.8944,
+        "monetization": 0.075,
+        "quality_write": 0.0792
+      }
+    },
+    {
+      "base_name": "Ariege_996ae1_ariege_official_ufo_13bf80",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0766,
+      "phases": {
+        "preparation": 0.0144,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.0165,
+        "content_cleanup_final": 0.0351,
+        "media_svg": 0.068,
+        "youtube": 0.0198,
+        "content_assembly": 0.7402,
+        "monetization": 0.0999,
+        "quality_write": 0.0818
+      }
+    },
+    {
+      "base_name": "Bouches-du-Rhone_a97972_martigues_etang_ufo_8ab8de",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0219,
+      "phases": {
+        "preparation": 0.0146,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0125,
+        "content_cleanup_final": 0.0202,
+        "media_svg": 0.0997,
+        "youtube": 0.0111,
+        "content_assembly": 0.7379,
+        "monetization": 0.0802,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "Bouches-du-Rhone_a97972_marseille_ufo_explan_fdf80e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9372,
+      "phases": {
+        "preparation": 0.0142,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0125,
+        "content_cleanup_final": 0.0289,
+        "media_svg": 0.07,
+        "youtube": 0.0203,
+        "content_assembly": 0.6495,
+        "monetization": 0.0816,
+        "quality_write": 0.0595
+      }
+    },
+    {
+      "base_name": "Cantal_202658_cantal_explained_sig_973248",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9891,
+      "phases": {
+        "preparation": 0.0144,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0101,
+        "content_cleanup_final": 0.0324,
+        "media_svg": 0.0655,
+        "youtube": 0.0175,
+        "content_assembly": 0.6937,
+        "monetization": 0.0854,
+        "quality_write": 0.0693
+      }
+    },
+    {
+      "base_name": "Charente_8acfde_cognac_radar_echoes_d41c02",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9165,
+      "phases": {
+        "preparation": 0.0141,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0116,
+        "content_cleanup_final": 0.0279,
+        "media_svg": 0.064,
+        "youtube": 0.018,
+        "content_assembly": 0.6308,
+        "monetization": 0.1039,
+        "quality_write": 0.0457
+      }
+    },
+    {
+      "base_name": "Charente_8acfde_angouleme_ruffec_cas_00c2fa",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8218,
+      "phases": {
+        "preparation": 0.0149,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0106,
+        "content_cleanup_final": 0.011,
+        "media_svg": 0.0681,
+        "youtube": 0.0123,
+        "content_assembly": 0.5847,
+        "monetization": 0.0778,
+        "quality_write": 0.0421
+      }
+    },
+    {
+      "base_name": "Charente_8acfde",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3041,
+      "phases": {
+        "preparation": 0.0368,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0182,
+        "content_cleanup_final": 0.0257,
+        "media_svg": 0.1588,
+        "youtube": 0.0162,
+        "content_assembly": 0.9033,
+        "monetization": 0.0712,
+        "quality_write": 0.0734
+      }
+    },
+    {
+      "base_name": "Charente-Maritime_ed3a6b_1954_saucer_wave_e31ba3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8624,
+      "phases": {
+        "preparation": 0.0143,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0116,
+        "content_cleanup_final": 0.019,
+        "media_svg": 0.0685,
+        "youtube": 0.0197,
+        "content_assembly": 0.6076,
+        "monetization": 0.0784,
+        "quality_write": 0.0429
+      }
+    },
+    {
+      "base_name": "Charente-Maritime_ed3a6b_royan_cylinder_verdi_a000a6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8711,
+      "phases": {
+        "preparation": 0.0149,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0114,
+        "content_cleanup_final": 0.0238,
+        "media_svg": 0.0679,
+        "youtube": 0.0128,
+        "content_assembly": 0.6054,
+        "monetization": 0.0904,
+        "quality_write": 0.044
+      }
+    },
+    {
+      "base_name": "Cher_614205",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3394,
+      "phases": {
+        "preparation": 0.0361,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0196,
+        "content_cleanup_final": 0.031,
+        "media_svg": 0.1444,
+        "youtube": 0.0219,
+        "content_assembly": 0.9322,
+        "monetization": 0.0719,
+        "quality_write": 0.0815
+      }
+    },
+    {
+      "base_name": "Cher_614205_cher_official_ufo_fi_0832d9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9403,
+      "phases": {
+        "preparation": 0.0141,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0141,
+        "content_cleanup_final": 0.027,
+        "media_svg": 0.0696,
+        "youtube": 0.0156,
+        "content_assembly": 0.6529,
+        "monetization": 0.0832,
+        "quality_write": 0.0632
+      }
+    },
+    {
+      "base_name": "Corse-du-Sud_8217c3_zonza_unresolved_sig_917414",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9181,
+      "phases": {
+        "preparation": 0.0143,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0128,
+        "content_cleanup_final": 0.0244,
+        "media_svg": 0.0661,
+        "youtube": 0.0139,
+        "content_assembly": 0.646,
+        "monetization": 0.0893,
+        "quality_write": 0.0508
+      }
+    },
+    {
+      "base_name": "Haute-Corse_b2c532_geipan_records_unres_b1da58",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8635,
+      "phases": {
+        "preparation": 0.0144,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0127,
+        "content_cleanup_final": 0.0195,
+        "media_svg": 0.0658,
+        "youtube": 0.0145,
+        "content_assembly": 0.6063,
+        "monetization": 0.0792,
+        "quality_write": 0.0506
+      }
+    },
+    {
+      "base_name": "Cote-d_Or_6e3ab6_poncey_1954_case_c8af5a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4386,
+      "phases": {
+        "preparation": 0.0142,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0124,
+        "content_cleanup_final": 0.0143,
+        "media_svg": 0.6788,
+        "youtube": 0.0197,
+        "content_assembly": 0.5826,
+        "monetization": 0.076,
+        "quality_write": 0.0403
+      }
+    },
+    {
+      "base_name": "Cote-d_Or_6e3ab6_late_1970s_ufo_cases_65aea5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1652,
+      "phases": {
+        "preparation": 0.0148,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 0.0161,
+        "content_cleanup_final": 0.0505,
+        "media_svg": 0.0692,
+        "youtube": 0.0177,
+        "content_assembly": 0.8074,
+        "monetization": 0.094,
+        "quality_write": 0.0943
+      }
+    },
+    {
+      "base_name": "Cote-d_Or_6e3ab6",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8482,
+      "phases": {
+        "preparation": 0.0366,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.021,
+        "content_cleanup_final": 0.0315,
+        "media_svg": 0.6919,
+        "youtube": 0.0145,
+        "content_assembly": 0.8959,
+        "monetization": 0.0834,
+        "quality_write": 0.0728
+      }
+    },
+    {
+      "base_name": "Doubs_70fb5f_doubs_solved_sightin_d06205",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0148,
+      "phases": {
+        "preparation": 0.0144,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0101,
+        "content_cleanup_final": 0.0335,
+        "media_svg": 0.0664,
+        "youtube": 0.0186,
+        "content_assembly": 0.6928,
+        "monetization": 0.1117,
+        "quality_write": 0.0667
+      }
+    },
+    {
+      "base_name": "Creuse_73fb1d",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.407,
+      "phases": {
+        "preparation": 0.0361,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0134,
+        "content_cleanup_final": 0.0367,
+        "media_svg": 0.1625,
+        "youtube": 0.0304,
+        "content_assembly": 0.9634,
+        "monetization": 0.0734,
+        "quality_write": 0.0901
+      }
+    },
+    {
+      "base_name": "Eure-et-Loir_aac377",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2714,
+      "phases": {
+        "preparation": 0.0361,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0218,
+        "content_cleanup_final": 0.0269,
+        "media_svg": 0.1425,
+        "youtube": 0.0178,
+        "content_assembly": 0.8809,
+        "monetization": 0.0709,
+        "quality_write": 0.0739
+      }
+    },
+    {
+      "base_name": "Eure-et-Loir_aac377_authon_venus_case_7c1114",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.884,
+      "phases": {
+        "preparation": 0.0146,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0161,
+        "content_cleanup_final": 0.0152,
+        "media_svg": 0.0704,
+        "youtube": 0.0151,
+        "content_assembly": 0.6025,
+        "monetization": 0.1072,
+        "quality_write": 0.0425
+      }
+    },
+    {
+      "base_name": "Eure-et-Loir_aac377_reports_over_time_527c9e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9515,
+      "phases": {
+        "preparation": 0.0143,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0164,
+        "content_cleanup_final": 0.0332,
+        "media_svg": 0.0699,
+        "youtube": 0.0157,
+        "content_assembly": 0.6581,
+        "monetization": 0.083,
+        "quality_write": 0.0603
+      }
+    },
+    {
+      "base_name": "Haute-Garonne_34cc0a_geipan_case_reassess_0e9117",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9475,
+      "phases": {
+        "preparation": 0.0142,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0142,
+        "content_cleanup_final": 0.0319,
+        "media_svg": 0.0682,
+        "youtube": 0.0156,
+        "content_assembly": 0.6566,
+        "monetization": 0.0903,
+        "quality_write": 0.0559
+      }
+    },
+    {
+      "base_name": "Haute-Garonne_34cc0a_sainte_foy_unresolve_a38e86",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9038,
+      "phases": {
+        "preparation": 0.0141,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0108,
+        "content_cleanup_final": 0.02,
+        "media_svg": 0.0689,
+        "youtube": 0.0168,
+        "content_assembly": 0.6249,
+        "monetization": 0.1004,
+        "quality_write": 0.0474
+      }
+    },
+    {
+      "base_name": "Gironde_99a85b_gujan_mestras_case_a182ba",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8393,
+      "phases": {
+        "preparation": 0.0145,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0118,
+        "content_cleanup_final": 0.0138,
+        "media_svg": 0.0654,
+        "youtube": 0.0205,
+        "content_assembly": 0.5929,
+        "monetization": 0.0772,
+        "quality_write": 0.0429
+      }
+    },
+    {
+      "base_name": "Gers_631401",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3728,
+      "phases": {
+        "preparation": 0.0366,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0234,
+        "content_cleanup_final": 0.0348,
+        "media_svg": 0.1413,
+        "youtube": 0.0197,
+        "content_assembly": 0.9419,
+        "monetization": 0.0913,
+        "quality_write": 0.0831
+      }
+    },
+    {
+      "base_name": "Herault_0fa4db_official_ufo_files_98c8b0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0108,
+      "phases": {
+        "preparation": 0.0146,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.0151,
+        "content_cleanup_final": 0.0339,
+        "media_svg": 0.0699,
+        "youtube": 0.0181,
+        "content_assembly": 0.6938,
+        "monetization": 0.0962,
+        "quality_write": 0.0682
+      }
+    },
+    {
+      "base_name": "Herault_0fa4db_familiar_light_expla_8abf9d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1866,
+      "phases": {
+        "preparation": 0.015,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 0.0153,
+        "content_cleanup_final": 0.0517,
+        "media_svg": 0.0671,
+        "youtube": 0.0189,
+        "content_assembly": 0.8174,
+        "monetization": 0.1107,
+        "quality_write": 0.0895
+      }
+    },
+    {
+      "base_name": "Ille-et-Vilaine_a0a684_unresolved_noyal_etr_6fd046",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8924,
+      "phases": {
+        "preparation": 0.0148,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0186,
+        "content_cleanup_final": 0.0199,
+        "media_svg": 0.0645,
+        "youtube": 0.0183,
+        "content_assembly": 0.6223,
+        "monetization": 0.0825,
+        "quality_write": 0.0512
+      }
+    },
+    {
+      "base_name": "Ille-et-Vilaine_a0a684",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3712,
+      "phases": {
+        "preparation": 0.0357,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0244,
+        "content_cleanup_final": 0.0378,
+        "media_svg": 0.1424,
+        "youtube": 0.0184,
+        "content_assembly": 0.9495,
+        "monetization": 0.0754,
+        "quality_write": 0.0868
+      }
+    },
+    {
+      "base_name": "Indre_4b1413_unresolved_issoudun_6c6a70",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9586,
+      "phases": {
+        "preparation": 0.015,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.014,
+        "content_cleanup_final": 0.035,
+        "media_svg": 0.0648,
+        "youtube": 0.0168,
+        "content_assembly": 0.6766,
+        "monetization": 0.0811,
+        "quality_write": 0.0547
+      }
+    },
+    {
+      "base_name": "Jura_f17a56_premanon_changing_st_0ef0be",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8391,
+      "phases": {
+        "preparation": 0.0144,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0112,
+        "content_cleanup_final": 0.017,
+        "media_svg": 0.0677,
+        "youtube": 0.0133,
+        "content_assembly": 0.5862,
+        "monetization": 0.0867,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "Indre-et-Loire_b45e62",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3277,
+      "phases": {
+        "preparation": 0.0364,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0204,
+        "content_cleanup_final": 0.0338,
+        "media_svg": 0.1278,
+        "youtube": 0.022,
+        "content_assembly": 0.9358,
+        "monetization": 0.0697,
+        "quality_write": 0.0812
+      }
+    },
+    {
+      "base_name": "Landes_7a79d9_cazeres_unresolved_c_3d0817",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8217,
+      "phases": {
+        "preparation": 0.0146,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0116,
+        "content_cleanup_final": 0.0127,
+        "media_svg": 0.0678,
+        "youtube": 0.0179,
+        "content_assembly": 0.5769,
+        "monetization": 0.0786,
+        "quality_write": 0.0413
+      }
+    },
+    {
+      "base_name": "Landes_7a79d9_explained_and_weak_c_af5c59",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0272,
+      "phases": {
+        "preparation": 0.0142,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0142,
+        "content_cleanup_final": 0.0381,
+        "media_svg": 0.0687,
+        "youtube": 0.0121,
+        "content_assembly": 0.7255,
+        "monetization": 0.0836,
+        "quality_write": 0.0699
+      }
+    },
+    {
+      "base_name": "Loir-et-Cher_7a21fd_ternay_forestry_expl_a678b7",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8389,
+      "phases": {
+        "preparation": 0.0145,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0114,
+        "content_cleanup_final": 0.0138,
+        "media_svg": 0.0655,
+        "youtube": 0.0124,
+        "content_assembly": 0.5765,
+        "monetization": 0.1014,
+        "quality_write": 0.0431
+      }
+    },
+    {
+      "base_name": "Loir-et-Cher_7a21fd",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2965,
+      "phases": {
+        "preparation": 0.0361,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0173,
+        "content_cleanup_final": 0.025,
+        "media_svg": 0.1628,
+        "youtube": 0.0184,
+        "content_assembly": 0.8936,
+        "monetization": 0.0706,
+        "quality_write": 0.0719
+      }
+    },
+    {
+      "base_name": "Loiret_6d08aa_a10_unresolved_sight_a16fc9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8315,
+      "phases": {
+        "preparation": 0.0143,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0122,
+        "content_cleanup_final": 0.0148,
+        "media_svg": 0.0646,
+        "youtube": 0.0101,
+        "content_assembly": 0.5835,
+        "monetization": 0.0893,
+        "quality_write": 0.0423
+      }
+    },
+    {
+      "base_name": "Haute-Loire_12edf0",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3278,
+      "phases": {
+        "preparation": 0.0359,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0186,
+        "content_cleanup_final": 0.0328,
+        "media_svg": 0.1436,
+        "youtube": 0.0226,
+        "content_assembly": 0.9135,
+        "monetization": 0.0846,
+        "quality_write": 0.0755
+      }
+    },
+    {
+      "base_name": "Loire_9faa19_loire_geipan_explana_91a382",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9359,
+      "phases": {
+        "preparation": 0.0146,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0136,
+        "content_cleanup_final": 0.012,
+        "media_svg": 0.0755,
+        "youtube": 0.0146,
+        "content_assembly": 0.5875,
+        "monetization": 1.1748,
+        "quality_write": 0.043
+      }
+    },
+    {
+      "base_name": "Lot_4a2119_lot_1954_ufo_wave_0c6be2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8677,
+      "phases": {
+        "preparation": 0.0142,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0131,
+        "content_cleanup_final": 0.0148,
+        "media_svg": 0.0678,
+        "youtube": 0.0165,
+        "content_assembly": 0.614,
+        "monetization": 0.0869,
+        "quality_write": 0.0402
+      }
+    },
+    {
+      "base_name": "Lot-et-Garonne_6df799_unresolved_casteljal_2b7e7e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9168,
+      "phases": {
+        "preparation": 0.0144,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0169,
+        "content_cleanup_final": 0.0239,
+        "media_svg": 0.068,
+        "youtube": 0.0132,
+        "content_assembly": 0.6382,
+        "monetization": 0.0844,
+        "quality_write": 0.0573
+      }
+    },
+    {
+      "base_name": "Lozere_e8b6da",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3368,
+      "phases": {
+        "preparation": 0.1254,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0196,
+        "content_cleanup_final": 0.0182,
+        "media_svg": 0.1398,
+        "youtube": 0.0171,
+        "content_assembly": 0.8832,
+        "monetization": 0.0677,
+        "quality_write": 0.0654
+      }
+    },
+    {
+      "base_name": "Lozere_e8b6da_grandrieu_flare_case_5f6da9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.92,
+      "phases": {
+        "preparation": 0.0141,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0125,
+        "content_cleanup_final": 0.0245,
+        "media_svg": 0.0677,
+        "youtube": 0.0133,
+        "content_assembly": 0.6298,
+        "monetization": 0.1097,
+        "quality_write": 0.0479
+      }
+    },
+    {
+      "base_name": "Lozere_e8b6da_mende_airline_encoun_cd0b84",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8626,
+      "phases": {
+        "preparation": 0.0141,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0117,
+        "content_cleanup_final": 0.0173,
+        "media_svg": 0.0649,
+        "youtube": 0.0099,
+        "content_assembly": 0.6011,
+        "monetization": 0.0991,
+        "quality_write": 0.0443
+      }
+    },
+    {
+      "base_name": "Manche_e44581_saint_lo_2012_lights_ea45ca",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8081,
+      "phases": {
+        "preparation": 0.0142,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0083,
+        "content_cleanup_final": 0.0109,
+        "media_svg": 0.064,
+        "youtube": 0.0169,
+        "content_assembly": 0.5721,
+        "monetization": 0.0791,
+        "quality_write": 0.0423
+      }
+    },
+    {
+      "base_name": "Maine-et-Loire_19238f_late_1970s_sighting_f33215",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0642,
+      "phases": {
+        "preparation": 0.0149,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 0.0159,
+        "content_cleanup_final": 0.0431,
+        "media_svg": 0.0676,
+        "youtube": 0.0146,
+        "content_assembly": 0.742,
+        "monetization": 0.087,
+        "quality_write": 0.0781
+      }
+    },
+    {
+      "base_name": "Maine-et-Loire_19238f",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4187,
+      "phases": {
+        "preparation": 0.0364,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0222,
+        "content_cleanup_final": 0.0404,
+        "media_svg": 0.1697,
+        "youtube": 0.0176,
+        "content_assembly": 0.9664,
+        "monetization": 0.0756,
+        "quality_write": 0.0895
+      }
+    },
+    {
+      "base_name": "Marne_763128_broyes_sommesous_veh_ed28dc",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.884,
+      "phases": {
+        "preparation": 0.0143,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0143,
+        "content_cleanup_final": 0.0187,
+        "media_svg": 0.0699,
+        "youtube": 0.0157,
+        "content_assembly": 0.6004,
+        "monetization": 0.1077,
+        "quality_write": 0.0425
+      }
+    },
+    {
+      "base_name": "Marne_763128",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3184,
+      "phases": {
+        "preparation": 0.0365,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0187,
+        "content_cleanup_final": 0.0357,
+        "media_svg": 0.1485,
+        "youtube": 0.0197,
+        "content_assembly": 0.9094,
+        "monetization": 0.0718,
+        "quality_write": 0.0775
+      }
+    },
+    {
+      "base_name": "Haute-Marne_12dda3",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.378,
+      "phases": {
+        "preparation": 0.0358,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0152,
+        "content_cleanup_final": 0.0406,
+        "media_svg": 0.1431,
+        "youtube": 0.0217,
+        "content_assembly": 0.9655,
+        "monetization": 0.0747,
+        "quality_write": 0.0806
+      }
+    },
+    {
+      "base_name": "Haute-Marne_12dda3_saint_dizier_lights_403696",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8323,
+      "phases": {
+        "preparation": 0.0143,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0093,
+        "content_cleanup_final": 0.0114,
+        "media_svg": 0.0691,
+        "youtube": 0.0117,
+        "content_assembly": 0.592,
+        "monetization": 0.0812,
+        "quality_write": 0.0429
+      }
+    },
+    {
+      "base_name": "Mayenne_6ca058_meral_landing_claim_7edfbc",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8528,
+      "phases": {
+        "preparation": 0.0142,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0125,
+        "content_cleanup_final": 0.0163,
+        "media_svg": 0.0691,
+        "youtube": 0.0202,
+        "content_assembly": 0.5982,
+        "monetization": 0.0806,
+        "quality_write": 0.0412
+      }
+    },
+    {
+      "base_name": "Meurthe-et-Moselle_cbfe8a_amaranth_case_eviden_0801e6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8574,
+      "phases": {
+        "preparation": 0.0146,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0119,
+        "content_cleanup_final": 0.0205,
+        "media_svg": 0.0686,
+        "youtube": 0.0153,
+        "content_assembly": 0.6032,
+        "monetization": 0.0791,
+        "quality_write": 0.0438
+      }
+    },
+    {
+      "base_name": "Meurthe-et-Moselle_cbfe8a",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.244,
+      "phases": {
+        "preparation": 0.0362,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0193,
+        "content_cleanup_final": 0.0221,
+        "media_svg": 0.1638,
+        "youtube": 0.0178,
+        "content_assembly": 0.852,
+        "monetization": 0.0688,
+        "quality_write": 0.0636
+      }
+    },
+    {
+      "base_name": "Meurthe-et-Moselle_cbfe8a_toul_longwy_1954_wav_e4a1ea",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8581,
+      "phases": {
+        "preparation": 0.0143,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.014,
+        "content_cleanup_final": 0.0183,
+        "media_svg": 0.0679,
+        "youtube": 0.0143,
+        "content_assembly": 0.6074,
+        "monetization": 0.0797,
+        "quality_write": 0.0419
+      }
+    },
+    {
+      "base_name": "Meuse_6ed97d_meuse_1976_ufo_clust_31e803",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9428,
+      "phases": {
+        "preparation": 0.0145,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0084,
+        "content_cleanup_final": 0.0293,
+        "media_svg": 0.0627,
+        "youtube": 0.015,
+        "content_assembly": 0.6763,
+        "monetization": 0.0819,
+        "quality_write": 0.0542
+      }
+    },
+    {
+      "base_name": "Moselle_b6f07c_moselle_1954_ufo_wav_cfdafb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9337,
+      "phases": {
+        "preparation": 0.0149,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0137,
+        "content_cleanup_final": 0.0225,
+        "media_svg": 0.101,
+        "youtube": 0.0165,
+        "content_assembly": 0.6315,
+        "monetization": 0.0823,
+        "quality_write": 0.051
+      }
+    },
+    {
+      "base_name": "Meuse_6ed97d",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3496,
+      "phases": {
+        "preparation": 0.0361,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0171,
+        "content_cleanup_final": 0.0369,
+        "media_svg": 0.142,
+        "youtube": 0.0148,
+        "content_assembly": 0.9503,
+        "monetization": 0.0717,
+        "quality_write": 0.08
+      }
+    },
+    {
+      "base_name": "Nievre_759cd1_unresolved_sightings_9888f1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9211,
+      "phases": {
+        "preparation": 0.0143,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.007,
+        "content_cleanup_final": 0.0216,
+        "media_svg": 0.0982,
+        "youtube": 0.015,
+        "content_assembly": 0.6256,
+        "monetization": 0.0854,
+        "quality_write": 0.0535
+      }
+    },
+    {
+      "base_name": "Nievre_759cd1",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4832,
+      "phases": {
+        "preparation": 0.0407,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 0.0168,
+        "content_cleanup_final": 0.0464,
+        "media_svg": 0.2085,
+        "youtube": 0.0181,
+        "content_assembly": 0.9821,
+        "monetization": 0.0753,
+        "quality_write": 0.094
+      }
+    },
+    {
+      "base_name": "Moselle_b6f07c_moselle_geipan_files_2118c6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9927,
+      "phases": {
+        "preparation": 0.0147,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.0138,
+        "content_cleanup_final": 0.0339,
+        "media_svg": 0.0831,
+        "youtube": 0.0179,
+        "content_assembly": 0.7054,
+        "monetization": 1.0505,
+        "quality_write": 0.0726
+      }
+    },
+    {
+      "base_name": "Nord_dc64d1_nord_1954_ufo_wave_90b892",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.932,
+      "phases": {
+        "preparation": 0.0146,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0115,
+        "content_cleanup_final": 0.0258,
+        "media_svg": 0.1108,
+        "youtube": 0.0089,
+        "content_assembly": 0.6335,
+        "monetization": 0.0802,
+        "quality_write": 0.0461
+      }
+    },
+    {
+      "base_name": "Nord_dc64d1",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3569,
+      "phases": {
+        "preparation": 0.0365,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0174,
+        "content_cleanup_final": 0.0299,
+        "media_svg": 0.2087,
+        "youtube": 0.0142,
+        "content_assembly": 0.9102,
+        "monetization": 0.0703,
+        "quality_write": 0.0691
+      }
+    },
+    {
+      "base_name": "Oise_3dde58_compiegne_unresolved_4570d8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8688,
+      "phases": {
+        "preparation": 0.0143,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0087,
+        "content_cleanup_final": 0.0182,
+        "media_svg": 0.067,
+        "youtube": 0.011,
+        "content_assembly": 0.6144,
+        "monetization": 0.0888,
+        "quality_write": 0.046
+      }
+    },
+    {
+      "base_name": "Nord_dc64d1_quarouble_encounter_e04aec",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.803,
+      "phases": {
+        "preparation": 0.0143,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0121,
+        "content_cleanup_final": 0.0211,
+        "media_svg": 0.0686,
+        "youtube": 0.0138,
+        "content_assembly": 0.6216,
+        "monetization": 1.0073,
+        "quality_write": 0.0437
+      }
+    },
+    {
+      "base_name": "Oise_3dde58",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3555,
+      "phases": {
+        "preparation": 0.0361,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0171,
+        "content_cleanup_final": 0.0421,
+        "media_svg": 0.1813,
+        "youtube": 0.0198,
+        "content_assembly": 0.908,
+        "monetization": 0.0723,
+        "quality_write": 0.0779
+      }
+    },
+    {
+      "base_name": "Puy-de-Dome_53d1d1_credible_witnesses_e_9a11bc",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8561,
+      "phases": {
+        "preparation": 0.0142,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0117,
+        "content_cleanup_final": 0.0148,
+        "media_svg": 0.074,
+        "youtube": 0.0098,
+        "content_assembly": 0.5893,
+        "monetization": 0.1002,
+        "quality_write": 0.0418
+      }
+    },
+    {
+      "base_name": "Puy-de-Dome_53d1d1_unresolved_weak_evid_7cf947",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8963,
+      "phases": {
+        "preparation": 0.0142,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0087,
+        "content_cleanup_final": 0.0182,
+        "media_svg": 0.0701,
+        "youtube": 0.0194,
+        "content_assembly": 0.6247,
+        "monetization": 0.0904,
+        "quality_write": 0.05
+      }
+    },
+    {
+      "base_name": "Pyrenees-Atlantiques_126d41",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3714,
+      "phases": {
+        "preparation": 0.036,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.0184,
+        "content_cleanup_final": 0.0405,
+        "media_svg": 0.1546,
+        "youtube": 0.0096,
+        "content_assembly": 0.9577,
+        "monetization": 0.0703,
+        "quality_write": 0.0833
+      }
+    },
+    {
+      "base_name": "Hautes-Pyrenees_f6aaeb_unresolved_official_554daf",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8832,
+      "phases": {
+        "preparation": 0.0146,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0115,
+        "content_cleanup_final": 0.0188,
+        "media_svg": 0.0686,
+        "youtube": 0.0128,
+        "content_assembly": 0.6204,
+        "monetization": 0.0831,
+        "quality_write": 0.0529
+      }
+    },
+    {
+      "base_name": "Hautes-Pyrenees_f6aaeb",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.385,
+      "phases": {
+        "preparation": 0.0365,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0191,
+        "content_cleanup_final": 0.0385,
+        "media_svg": 0.1497,
+        "youtube": 0.0147,
+        "content_assembly": 0.9493,
+        "monetization": 0.0917,
+        "quality_write": 0.0848
+      }
+    },
+    {
+      "base_name": "Pyrenees-Orientales_fc815c_official_reviews_and_8e3a7d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8926,
+      "phases": {
+        "preparation": 0.0146,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0152,
+        "content_cleanup_final": 0.0186,
+        "media_svg": 0.0643,
+        "youtube": 0.0175,
+        "content_assembly": 0.6135,
+        "monetization": 0.0938,
+        "quality_write": 0.0546
+      }
+    },
+    {
+      "base_name": "Pyrenees-Orientales_fc815c_thuir_1976_unresolve_19dcc0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8442,
+      "phases": {
+        "preparation": 0.0146,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0133,
+        "content_cleanup_final": 0.0144,
+        "media_svg": 0.062,
+        "youtube": 0.0156,
+        "content_assembly": 0.5881,
+        "monetization": 0.0952,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "Pyrenees-Orientales_fc815c",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.2918,
+      "phases": {
+        "preparation": 0.0359,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0205,
+        "content_cleanup_final": 0.0267,
+        "media_svg": 0.1541,
+        "youtube": 0.0117,
+        "content_assembly": 0.9006,
+        "monetization": 0.0691,
+        "quality_write": 0.0725
+      }
+    },
+    {
+      "base_name": "Bas-Rhin_ad02bb_selestat_triangle_ca_786ad2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8922,
+      "phases": {
+        "preparation": 0.0142,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0121,
+        "content_cleanup_final": 0.0134,
+        "media_svg": 0.1027,
+        "youtube": 0.0141,
+        "content_assembly": 0.5909,
+        "monetization": 0.105,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "Bas-Rhin_ad02bb",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4365,
+      "phases": {
+        "preparation": 0.0382,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.0199,
+        "content_cleanup_final": 0.045,
+        "media_svg": 0.1396,
+        "youtube": 0.0129,
+        "content_assembly": 0.9969,
+        "monetization": 0.0912,
+        "quality_write": 0.0918
+      }
+    },
+    {
+      "base_name": "Bas-Rhin_ad02bb_radar_venus_military_38b5f2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.6126,
+      "phases": {
+        "preparation": 0.0146,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0128,
+        "content_cleanup_final": 0.024,
+        "media_svg": 0.7669,
+        "youtube": 0.0108,
+        "content_assembly": 0.6339,
+        "monetization": 0.1004,
+        "quality_write": 0.0488
+      }
+    },
+    {
+      "base_name": "Rhone_ae79ce",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3594,
+      "phases": {
+        "preparation": 0.0368,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 0.0212,
+        "content_cleanup_final": 0.0386,
+        "media_svg": 0.147,
+        "youtube": 0.0129,
+        "content_assembly": 0.9534,
+        "monetization": 0.0721,
+        "quality_write": 0.0765
+      }
+    },
+    {
+      "base_name": "Haute-Saone_0bdc4b_villers_luxeuil_tria_ac0523",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8987,
+      "phases": {
+        "preparation": 0.0144,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0115,
+        "content_cleanup_final": 0.0149,
+        "media_svg": 0.0659,
+        "youtube": 0.0095,
+        "content_assembly": 0.6199,
+        "monetization": 0.1151,
+        "quality_write": 0.0471
+      }
+    },
+    {
+      "base_name": "Haute-Saone_0bdc4b",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3173,
+      "phases": {
+        "preparation": 0.0359,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0181,
+        "content_cleanup_final": 0.0335,
+        "media_svg": 0.1466,
+        "youtube": 0.0132,
+        "content_assembly": 0.9143,
+        "monetization": 0.0871,
+        "quality_write": 0.0679
+      }
+    },
+    {
+      "base_name": "Saone-et-Loire_d3ab2b_toulon_unresolved_ca_3c658c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.884,
+      "phases": {
+        "preparation": 0.0142,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0106,
+        "content_cleanup_final": 0.0223,
+        "media_svg": 0.0632,
+        "youtube": 0.0133,
+        "content_assembly": 0.6345,
+        "monetization": 0.0802,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "Paris_22390a_paris_cases_reassess_c6bee0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8558,
+      "phases": {
+        "preparation": 0.0145,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0111,
+        "content_cleanup_final": 0.0101,
+        "media_svg": 0.0689,
+        "youtube": 0.0142,
+        "content_assembly": 0.5779,
+        "monetization": 0.1181,
+        "quality_write": 0.0407
+      }
+    },
+    {
+      "base_name": "Paris_22390a_paris_sighting_patte_ca0952",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9696,
+      "phases": {
+        "preparation": 0.0144,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0118,
+        "content_cleanup_final": 0.0326,
+        "media_svg": 0.065,
+        "youtube": 0.0159,
+        "content_assembly": 0.669,
+        "monetization": 0.1086,
+        "quality_write": 0.0516
+      }
+    },
+    {
+      "base_name": "Seine-Maritime_c89706_pays_de_caux_1954_wa_5ef202",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9158,
+      "phases": {
+        "preparation": 0.0146,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0106,
+        "content_cleanup_final": 0.026,
+        "media_svg": 0.0722,
+        "youtube": 0.0174,
+        "content_assembly": 0.6304,
+        "monetization": 0.0981,
+        "quality_write": 0.0461
+      }
+    },
+    {
+      "base_name": "Seine-et-Marne_d85b24_unresolved_1994_case_7f48d4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8495,
+      "phases": {
+        "preparation": 0.0146,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0153,
+        "content_cleanup_final": 0.0155,
+        "media_svg": 0.0642,
+        "youtube": 0.0174,
+        "content_assembly": 0.5907,
+        "monetization": 0.0896,
+        "quality_write": 0.042
+      }
+    },
+    {
+      "base_name": "Deux-Sevres_ac4bfa_sainte_soline_eviden_9dedaf",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8454,
+      "phases": {
+        "preparation": 0.0141,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0142,
+        "content_cleanup_final": 0.0145,
+        "media_svg": 0.0701,
+        "youtube": 0.0126,
+        "content_assembly": 0.5984,
+        "monetization": 0.0797,
+        "quality_write": 0.0413
+      }
+    },
+    {
+      "base_name": "Deux-Sevres_ac4bfa",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3194,
+      "phases": {
+        "preparation": 0.036,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0237,
+        "content_cleanup_final": 0.0272,
+        "media_svg": 0.1471,
+        "youtube": 0.0204,
+        "content_assembly": 0.913,
+        "monetization": 0.0719,
+        "quality_write": 0.0795
+      }
+    },
+    {
+      "base_name": "Somme_f38fb9_somme_1954_ufo_wave_a5c9f1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9205,
+      "phases": {
+        "preparation": 0.0144,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0152,
+        "content_cleanup_final": 0.0261,
+        "media_svg": 0.0675,
+        "youtube": 0.0167,
+        "content_assembly": 0.6425,
+        "monetization": 0.0816,
+        "quality_write": 0.0559
+      }
+    },
+    {
+      "base_name": "Somme_f38fb9_somme_ufo_case_verdi_9fd01c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8416,
+      "phases": {
+        "preparation": 0.0144,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0144,
+        "content_cleanup_final": 0.0146,
+        "media_svg": 0.0728,
+        "youtube": 0.0143,
+        "content_assembly": 0.5878,
+        "monetization": 0.0785,
+        "quality_write": 0.0442
+      }
+    },
+    {
+      "base_name": "Tarn_a5fb02_gaillac_1952_angel_h_ffb5f7",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9043,
+      "phases": {
+        "preparation": 0.0144,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0107,
+        "content_cleanup_final": 0.0227,
+        "media_svg": 0.065,
+        "youtube": 0.0089,
+        "content_assembly": 0.6343,
+        "monetization": 0.1018,
+        "quality_write": 0.046
+      }
+    },
+    {
+      "base_name": "Tarn-et-Garonne_a4f8ba_golfech_ufo_evidence_41c628",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8648,
+      "phases": {
+        "preparation": 0.0147,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.013,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.0631,
+        "youtube": 0.0112,
+        "content_assembly": 0.6161,
+        "monetization": 0.0811,
+        "quality_write": 0.0484
+      }
+    },
+    {
+      "base_name": "Tarn-et-Garonne_a4f8ba_ordinary_causes_loca_403609",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9344,
+      "phases": {
+        "preparation": 0.0151,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0148,
+        "content_cleanup_final": 0.0249,
+        "media_svg": 0.0654,
+        "youtube": 0.0182,
+        "content_assembly": 0.6465,
+        "monetization": 0.0918,
+        "quality_write": 0.0571
+      }
+    },
+    {
+      "base_name": "Var_5cea87_saint_zacharie_moder_c629a0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8679,
+      "phases": {
+        "preparation": 0.0145,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0116,
+        "content_cleanup_final": 0.0221,
+        "media_svg": 0.0676,
+        "youtube": 0.0106,
+        "content_assembly": 0.6272,
+        "monetization": 0.0597,
+        "quality_write": 0.0539
+      }
+    },
+    {
+      "base_name": "Var_5cea87",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1791,
+      "phases": {
+        "preparation": 0.0361,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0185,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 0.132,
+        "youtube": 0.007,
+        "content_assembly": 0.8584,
+        "monetization": 0.0417,
+        "quality_write": 0.0661
+      }
+    },
+    {
+      "base_name": "Vienne_f0511b",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3675,
+      "phases": {
+        "preparation": 0.0359,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.0189,
+        "content_cleanup_final": 0.0385,
+        "media_svg": 0.1374,
+        "youtube": 0.0237,
+        "content_assembly": 0.9573,
+        "monetization": 0.0707,
+        "quality_write": 0.0842
+      }
+    },
+    {
+      "base_name": "Var_5cea87_trans_evidence_dispu_a8ee6a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8924,
+      "phases": {
+        "preparation": 0.014,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0101,
+        "content_cleanup_final": 0.0126,
+        "media_svg": 0.0645,
+        "youtube": 0.0093,
+        "content_assembly": 0.5896,
+        "monetization": 1.1502,
+        "quality_write": 0.0417
+      }
+    },
+    {
+      "base_name": "Vaucluse_17bae7_vaucluse_1954_wave_45cdca",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.903,
+      "phases": {
+        "preparation": 0.0143,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0132,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 0.0638,
+        "youtube": 0.0304,
+        "content_assembly": 0.619,
+        "monetization": 1.1002,
+        "quality_write": 0.0386
+      }
+    },
+    {
+      "base_name": "Vienne_f0511b_mouliere_ufo_flap_a0de32",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9029,
+      "phases": {
+        "preparation": 0.0147,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0028,
+        "content_cleanup_final": 0.0241,
+        "media_svg": 0.0684,
+        "youtube": 0.0169,
+        "content_assembly": 0.6401,
+        "monetization": 0.0897,
+        "quality_write": 0.0458
+      }
+    },
+    {
+      "base_name": "Haute-Vienne_e44500_limoges_1953_unresol_37cc60",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.896,
+      "phases": {
+        "preparation": 0.0142,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.012,
+        "content_cleanup_final": 0.0249,
+        "media_svg": 0.0671,
+        "youtube": 0.015,
+        "content_assembly": 0.6221,
+        "monetization": 0.0958,
+        "quality_write": 0.0443
+      }
+    },
+    {
+      "base_name": "Yonne_77d4a6",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1836,
+      "phases": {
+        "preparation": 0.0361,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0221,
+        "content_cleanup_final": 0.0171,
+        "media_svg": 0.1385,
+        "youtube": 0.0155,
+        "content_assembly": 0.8269,
+        "monetization": 0.0666,
+        "quality_write": 0.0605
+      }
+    },
+    {
+      "base_name": "Territoire_de_Belfor_8990a1_belfort_kite_cases_7d5427",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8728,
+      "phases": {
+        "preparation": 0.0145,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0137,
+        "content_cleanup_final": 0.0161,
+        "media_svg": 0.0653,
+        "youtube": 0.009,
+        "content_assembly": 0.6102,
+        "monetization": 0.0986,
+        "quality_write": 0.045
+      }
+    },
+    {
+      "base_name": "Territoire_de_Belfor_8990a1",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3066,
+      "phases": {
+        "preparation": 0.0359,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0186,
+        "content_cleanup_final": 0.0312,
+        "media_svg": 0.131,
+        "youtube": 0.014,
+        "content_assembly": 0.9145,
+        "monetization": 0.0824,
+        "quality_write": 0.0783
+      }
+    },
+    {
+      "base_name": "Territoire_de_Belfor_8990a1_grandvillars_black_s_77b66e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8953,
+      "phases": {
+        "preparation": 0.0148,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0125,
+        "content_cleanup_final": 0.0237,
+        "media_svg": 0.0622,
+        "youtube": 0.0157,
+        "content_assembly": 0.6379,
+        "monetization": 0.0796,
+        "quality_write": 0.0485
+      }
+    },
+    {
+      "base_name": "Hauts-de-Seine_2ccee8_vaucresson_unresolve_475275",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8371,
+      "phases": {
+        "preparation": 0.0142,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0169,
+        "content_cleanup_final": 0.0114,
+        "media_svg": 0.0638,
+        "youtube": 0.0131,
+        "content_assembly": 0.5843,
+        "monetization": 0.0942,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "Seine-Saint-Denis_af7f54_cloud_light_display_96355a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8486,
+      "phases": {
+        "preparation": 0.0146,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.017,
+        "content_cleanup_final": 0.0207,
+        "media_svg": 0.0673,
+        "youtube": 0.0102,
+        "content_assembly": 0.6044,
+        "monetization": 0.0676,
+        "quality_write": 0.0464
+      }
+    },
+    {
+      "base_name": "Hauts-de-Seine_2ccee8",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3516,
+      "phases": {
+        "preparation": 0.0356,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0232,
+        "content_cleanup_final": 0.0312,
+        "media_svg": 0.1524,
+        "youtube": 0.0168,
+        "content_assembly": 0.9193,
+        "monetization": 0.0907,
+        "quality_write": 0.0817
+      }
+    },
+    {
+      "base_name": "Seine-Saint-Denis_af7f54_saint_denis_balloon_d6bc15",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.838,
+      "phases": {
+        "preparation": 0.0142,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0149,
+        "content_cleanup_final": 0.0166,
+        "media_svg": 0.0663,
+        "youtube": 0.0116,
+        "content_assembly": 0.594,
+        "monetization": 0.0782,
+        "quality_write": 0.0417
+      }
+    },
+    {
+      "base_name": "Val-de-Marne_555905_val_de_marne_explana_d896df",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8867,
+      "phases": {
+        "preparation": 0.0145,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.018,
+        "content_cleanup_final": 0.0267,
+        "media_svg": 0.0644,
+        "youtube": 0.0158,
+        "content_assembly": 0.6365,
+        "monetization": 0.0584,
+        "quality_write": 0.052
+      }
+    },
+    {
+      "base_name": "Ain_fc7da0_ain_explained_ufo_ca_388a10",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.0439,
+      "phases": {
+        "preparation": 0.0146,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0159,
+        "content_cleanup_final": 0.0365,
+        "media_svg": 0.0623,
+        "youtube": 0.0171,
+        "content_assembly": 0.7218,
+        "monetization": 0.1007,
+        "quality_write": 0.0741
+      }
+    },
+    {
+      "base_name": "Ain_fc7da0_montluel_unexplained_1445ac",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.8782,
+      "phases": {
+        "preparation": 0.0144,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0123,
+        "content_cleanup_final": 0.019,
+        "media_svg": 0.0627,
+        "youtube": 0.0107,
+        "content_assembly": 0.6185,
+        "monetization": 0.094,
+        "quality_write": 0.0461
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 134,
+    "reused_pages": 154,
+    "rebuilt_pages": 134,
+    "error_pages": 0,
+    "page_work_wall_seconds": 84.6477,
+    "rebuilt_pages_per_minute": 94.982,
+    "queued_rebuild_pages_per_minute": 94.982,
+    "apparent_page_work_speedup": 1.8361,
+    "youtube_cache_prepare": {
+      "entries": 46780,
+      "updated": true,
+      "elapsed_seconds": 3.0453
+    },
+    "process_worker_diagnostics": {
+      "completed_pages": 134,
+      "successful_pages": 134,
+      "failed_pages": 0,
+      "worker_summary": {
+        "18760": {
+          "pages": 44,
+          "successes": 44,
+          "failures": 0,
+          "total_worker_seconds": 56.2761,
+          "max_worker_seconds": 4.7045,
+          "last_base_name": "Ain_fc7da0_montluel_unexplained_1445ac"
+        },
+        "26244": {
+          "pages": 45,
+          "successes": 45,
+          "failures": 0,
+          "total_worker_seconds": 53.5987,
+          "max_worker_seconds": 4.2427,
+          "last_base_name": "Ain_fc7da0_ain_explained_ufo_ca_388a10"
+        },
+        "20380": {
+          "pages": 45,
+          "successes": 45,
+          "failures": 0,
+          "total_worker_seconds": 51.2532,
+          "max_worker_seconds": 4.4031,
+          "last_base_name": "Val-de-Marne_555905_val_de_marne_explana_d896df"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "Allier_716dd6",
+          "level": 1,
+          "success": true,
+          "worker_pid": 18760,
+          "worker_duration_seconds": 4.7045,
+          "total_seconds": 4.6587,
+          "worker_started_at_utc": "2026-08-03T10:55:01.214944Z",
+          "worker_finished_at_utc": "2026-08-03T10:55:05.873738Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Allier_716dd6_unresolved_allier_ca_153093",
+          "level": 2,
+          "success": true,
+          "worker_pid": 20380,
+          "worker_duration_seconds": 4.4031,
+          "total_seconds": 4.3591,
+          "worker_started_at_utc": "2026-08-03T10:55:05.399202Z",
+          "worker_finished_at_utc": "2026-08-03T10:55:09.758305Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Allier_716dd6_explained_allier_sig_f7ca00",
+          "level": 2,
+          "success": true,
+          "worker_pid": 26244,
+          "worker_duration_seconds": 4.2427,
+          "total_seconds": 4.2017,
+          "worker_started_at_utc": "2026-08-03T10:55:03.310316Z",
+          "worker_finished_at_utc": "2026-08-03T10:55:07.512066Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Moselle_b6f07c_moselle_geipan_files_2118c6",
+          "level": 2,
+          "success": true,
+          "worker_pid": 18760,
+          "worker_duration_seconds": 2.0397,
+          "total_seconds": 1.9927,
+          "worker_started_at_utc": "2026-08-03T10:55:37.091442Z",
+          "worker_finished_at_utc": "2026-08-03T10:55:39.084190Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Loire_9faa19_loire_geipan_explana_91a382",
+          "level": 2,
+          "success": true,
+          "worker_pid": 18760,
+          "worker_duration_seconds": 1.9753,
+          "total_seconds": 1.9359,
+          "worker_started_at_utc": "2026-08-03T10:55:28.569455Z",
+          "worker_finished_at_utc": "2026-08-03T10:55:30.505378Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Vaucluse_17bae7_vaucluse_1954_wave_45cdca",
+          "level": 2,
+          "success": true,
+          "worker_pid": 20380,
+          "worker_duration_seconds": 1.9429,
+          "total_seconds": 1.903,
+          "worker_started_at_utc": "2026-08-03T10:55:50.986302Z",
+          "worker_finished_at_utc": "2026-08-03T10:55:52.889331Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Var_5cea87_trans_evidence_dispu_a8ee6a",
+          "level": 2,
+          "success": true,
+          "worker_pid": 26244,
+          "worker_duration_seconds": 1.9317,
+          "total_seconds": 1.8924,
+          "worker_started_at_utc": "2026-08-03T10:55:50.808613Z",
+          "worker_finished_at_utc": "2026-08-03T10:55:52.701071Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Cote-d_Or_6e3ab6",
+          "level": 1,
+          "success": true,
+          "worker_pid": 26244,
+          "worker_duration_seconds": 1.8915,
+          "total_seconds": 1.8482,
+          "worker_started_at_utc": "2026-08-03T10:55:19.779491Z",
+          "worker_finished_at_utc": "2026-08-03T10:55:21.627726Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Nord_dc64d1_quarouble_encounter_e04aec",
+          "level": 2,
+          "success": true,
+          "worker_pid": 18760,
+          "worker_duration_seconds": 1.8434,
+          "total_seconds": 1.803,
+          "worker_started_at_utc": "2026-08-03T10:55:39.133069Z",
+          "worker_finished_at_utc": "2026-08-03T10:55:40.936114Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Bas-Rhin_ad02bb_radar_venus_military_38b5f2",
+          "level": 2,
+          "success": true,
+          "worker_pid": 20380,
+          "worker_duration_seconds": 1.6542,
+          "total_seconds": 1.6126,
+          "worker_started_at_utc": "2026-08-03T10:55:43.817010Z",
+          "worker_finished_at_utc": "2026-08-03T10:55:45.429642Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}

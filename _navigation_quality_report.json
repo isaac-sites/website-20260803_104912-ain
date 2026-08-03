@@ -1,0 +1,3077 @@
+{
+  "generated_at_utc": "2026-08-03T10:57:20.369680Z",
+  "summary": {
+    "total_pages_with_permalink": 384,
+    "visible_pages": 288,
+    "hidden_pages": 96,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 471,
+    "inline_internal_target_page_count": 288,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 171,
+    "visible_pages_without_inline_outbound_links": 117,
+    "average_inline_inbound_links_per_visible_page": 1.64,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 288,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [
+      {
+        "basename": "Ain_fc7da0_ain_explained_ufo_ca_388a10",
+        "title": "Explained Cases",
+        "permalink": "/explained-cases-5f73e4/"
+      },
+      {
+        "basename": "Ain_fc7da0_montluel_unexplained_1445ac",
+        "title": "Montluel",
+        "permalink": "/montluel/"
+      },
+      {
+        "basename": "Allier_716dd6",
+        "title": "Why Allier's Strangest Sightings Changed With...",
+        "permalink": "/why-alliers-strangest-sightings-changed/"
+      },
+      {
+        "basename": "Alpes-Maritimes_efe25c",
+        "title": "Why So Many Riviera UFO Reports Fade",
+        "permalink": "/alpes-maritimes/"
+      },
+      {
+        "basename": "Ardeche_5d1281",
+        "title": "Ardeche UFOs Between Mystery and Misidentification",
+        "permalink": "/ardeche-ufos-between-mystery-and/"
+      },
+      {
+        "basename": "Ardeche_5d1281_ardeche_ufo_explanat_5e1776",
+        "title": "Likely Explanations",
+        "permalink": "/likely-explanations-c25d6b/"
+      },
+      {
+        "basename": "Ardeche_5d1281_pranles_unresolved_c_efbe67",
+        "title": "Pranles Case",
+        "permalink": "/pranles-case/"
+      },
+      {
+        "basename": "Ardennes_627650",
+        "title": "Why Ardennes UFO Stories Changed Under Scrutiny",
+        "permalink": "/why-ardennes-ufo-stories-changed-under/"
+      },
+      {
+        "basename": "Ariege_996ae1",
+        "title": "How Ariege's UFO Mysteries Changed With Evidence",
+        "permalink": "/how-arieges-ufo-mysteries-changed-with/"
+      },
+      {
+        "basename": "Ariege_996ae1_ariege_official_ufo_13bf80",
+        "title": "Official Files",
+        "permalink": "/official-files-b221a8/"
+      },
+      {
+        "basename": "Ariege_996ae1_belesta_lights_hoax_6e293d",
+        "title": "Belesta Hoax",
+        "permalink": "/belesta-hoax/"
+      },
+      {
+        "basename": "Aube_200d42",
+        "title": "What Aube's UFO Record Actually Reveals",
+        "permalink": "/what-aubes-ufo-record-actually-reveals/"
+      },
+      {
+        "basename": "Aube_200d42_classic_sightings_we_1a0d0b",
+        "title": "Classic Sightings",
+        "permalink": "/classic-sightings/"
+      },
+      {
+        "basename": "Aube_200d42_geipan_cases_ordinar_442bd5",
+        "title": "Official Cases",
+        "permalink": "/official-cases-1c7219/"
+      },
+      {
+        "basename": "Aude_f0dc3d_fonties_aude_effects_1f87d6",
+        "title": "Fonties Claims",
+        "permalink": "/fonties-claims/"
+      },
+      {
+        "basename": "Aude_f0dc3d_port_la_nouvelle_198_a49e17",
+        "title": "Port la Nouvelle",
+        "permalink": "/port-la-nouvelle/"
+      },
+      {
+        "basename": "Bas-Rhin_ad02bb",
+        "title": "Why Bas Rhin's UFO Record Still Divides Opinion",
+        "permalink": "/why-bas-rhins-ufo-record-still-divides/"
+      },
+      {
+        "basename": "Bouches-du-Rhone_a97972_marseille_ufo_explan_fdf80e",
+        "title": "Marseille Cases",
+        "permalink": "/marseille-cases/"
+      },
+      {
+        "basename": "Bouches-du-Rhone_a97972_martigues_etang_ufo_8ab8de",
+        "title": "Martigues",
+        "permalink": "/martigues/"
+      },
+      {
+        "basename": "Charente-Maritime_ed3a6b",
+        "title": "From Flying Saucers to Identified Debris",
+        "permalink": "/charente-maritime/"
+      },
+      {
+        "basename": "Charente_8acfde_cognac_radar_echoes_d41c02",
+        "title": "Cognac Radar",
+        "permalink": "/cognac-radar/"
+      },
+      {
+        "basename": "Cher_614205",
+        "title": "Strange Lights and Changing Verdicts in Cher",
+        "permalink": "/strange-lights-and-changing-verdicts/"
+      },
+      {
+        "basename": "Cher_614205_cher_1954_ufo_wave_e31bff",
+        "title": "1954 Wave",
+        "permalink": "/1954-wave-bd7e46/"
+      },
+      {
+        "basename": "Cher_614205_cher_official_ufo_fi_0832d9",
+        "title": "Official Files",
+        "permalink": "/official-files-4a42cc/"
+      },
+      {
+        "basename": "Correze_3e9490_1954_broken_alignmen_ffd430",
+        "title": "1954 Wave",
+        "permalink": "/1954-wave/"
+      },
+      {
+        "basename": "Correze_3e9490_official_ufo_files_98c8b0",
+        "title": "Official Files",
+        "permalink": "/official-files/"
+      },
+      {
+        "basename": "Cote-d_Or_6e3ab6",
+        "title": "Why Cote d'Or Became a French UFO Landmark",
+        "permalink": "/why-cote-dor-became-a-french-ufo/"
+      },
+      {
+        "basename": "Cote-d_Or_6e3ab6_late_1970s_ufo_cases_65aea5",
+        "title": "1970 s Cases",
+        "permalink": "/1970-s-cases/"
+      },
+      {
+        "basename": "Cote-d_Or_6e3ab6_poncey_1954_case_c8af5a",
+        "title": "Poncey 1954",
+        "permalink": "/poncey-1954/"
+      },
+      {
+        "basename": "Cotes-d_Armor_789c20",
+        "title": "Which Cotes d'Armor UFO Cases Still Defy Explanation?",
+        "permalink": "/which-cotes-darmor-ufo-cases-still-defy/"
+      },
+      {
+        "basename": "Cotes-d_Armor_789c20_binic_dinan_unknowns_eb25be",
+        "title": "Official Unknowns",
+        "permalink": "/official-unknowns/"
+      },
+      {
+        "basename": "Cotes-d_Armor_789c20_geipan_reassessed_ca_f00621",
+        "title": "Solved Sightings",
+        "permalink": "/solved-sightings/"
+      },
+      {
+        "basename": "Creuse_73fb1d",
+        "title": "From Humanoids to Airliners in Creuse Skies",
+        "permalink": "/from-humanoids-to-airliners-in-creuse/"
+      },
+      {
+        "basename": "Deux-Sevres_ac4bfa_sainte_soline_eviden_9dedaf",
+        "title": "Sainte Soline",
+        "permalink": "/sainte-soline/"
+      },
+      {
+        "basename": "Doubs_70fb5f",
+        "title": "Why Doubs UFO Reports Became Less Mysterious",
+        "permalink": "/why-doubs-ufo-reports-became-less/"
+      },
+      {
+        "basename": "Drome_06f265",
+        "title": "What Drome's UFO Record Actually Reveals",
+        "permalink": "/what-dromes-ufo-record-actually-reveals/"
+      },
+      {
+        "basename": "Drome_06f265_ordinary_lights_expl_bc4a48",
+        "title": "Common Explanations",
+        "permalink": "/common-explanations/"
+      },
+      {
+        "basename": "Drome_06f265_strongest_unresolved_6ae8b0",
+        "title": "Unresolved Cases",
+        "permalink": "/unresolved-cases-eca6a4/"
+      },
+      {
+        "basename": "Eure_4abf79",
+        "title": "Eure's UFO Stories Between Legend and Evidence",
+        "permalink": "/eures-ufo-stories-between-legend-and/"
+      },
+      {
+        "basename": "Eure_4abf79_evreux_1978_radar_170944",
+        "title": "Evreux 1978",
+        "permalink": "/evreux-1978/"
+      },
+      {
+        "basename": "Eure_4abf79_vernon_1954_legend_f69644",
+        "title": "Vernon 1954",
+        "permalink": "/vernon-1954/"
+      },
+      {
+        "basename": "Finistere_3f7bbd_modern_cases_investi_ecbd23",
+        "title": "Modern Cases",
+        "permalink": "/modern-cases/"
+      },
+      {
+        "basename": "Gard_40724c_gard_rocket_reentrie_ddf173",
+        "title": "Re entries",
+        "permalink": "/re-entries/"
+      },
+      {
+        "basename": "Gard_40724c_gard_ufo_explanation_7b6559",
+        "title": "Solved Cases",
+        "permalink": "/solved-cases/"
+      },
+      {
+        "basename": "Gers_631401",
+        "title": "Why Gers UFO Reports Often Change With Better Evidence",
+        "permalink": "/why-gers-ufo-reports-often-change-with/"
+      },
+      {
+        "basename": "Gers_631401_explained_gers_sight_24fe63",
+        "title": "Solved Cases",
+        "permalink": "/solved-cases-9bedff/"
+      },
+      {
+        "basename": "Gers_631401_unresolved_gers_repo_c4eb9c",
+        "title": "Unresolved Cases",
+        "permalink": "/unresolved-cases-00ec40/"
+      },
+      {
+        "basename": "Haut-Rhin_0c01ce",
+        "title": "Why Haut Rhin's Strangest Sightings Still Matter",
+        "permalink": "/why-haut-rhins-strangest-sightings-still/"
+      },
+      {
+        "basename": "Haute-Loire_12edf0",
+        "title": "Strange Lights, Local Legends and Official Answers",
+        "permalink": "/haute-loire/"
+      },
+      {
+        "basename": "Haute-Saone_0bdc4b_haute_saone_1954_wav_fe9706",
+        "title": "1954 Wave",
+        "permalink": "/1954-wave-d6a020/"
+      },
+      {
+        "basename": "Haute-Saone_0bdc4b_villers_luxeuil_tria_ac0523",
+        "title": "Villers Triangle",
+        "permalink": "/villers-triangle/"
+      },
+      {
+        "basename": "Haute-Savoie_3824c4",
+        "title": "Why Haute Savoie's UFO Stories Rarely Stay Unexplained",
+        "permalink": "/why-haute-savoies-ufo-stories-rarely/"
+      },
+      {
+        "basename": "Haute-Vienne_e44500",
+        "title": "Why Haute Vienne's UFO Record Still Intrigues",
+        "permalink": "/why-haute-viennes-ufo-record-still/"
+      },
+      {
+        "basename": "Hautes-Pyrenees_f6aaeb",
+        "title": "Why Hautes Pyrenees UFO Cases Rarely Stay Mysterious",
+        "permalink": "/why-hautes-pyrenees-ufo-cases-rarely/"
+      },
+      {
+        "basename": "Hautes-Pyrenees_f6aaeb_explained_tarbes_lou_5cf449",
+        "title": "Explained Cases",
+        "permalink": "/explained-cases-789b48/"
+      },
+      {
+        "basename": "Hautes-Pyrenees_f6aaeb_unresolved_official_554daf",
+        "title": "Unresolved Files",
+        "permalink": "/unresolved-files-8dc4b8/"
+      },
+      {
+        "basename": "Herault_0fa4db_familiar_light_expla_8abf9d",
+        "title": "False Alarms",
+        "permalink": "/false-alarms/"
+      },
+      {
+        "basename": "Herault_0fa4db_official_ufo_files_98c8b0",
+        "title": "Official Files",
+        "permalink": "/official-files-1fae2c/"
+      },
+      {
+        "basename": "Indre-et-Loire_b45e62",
+        "title": "From Flying Saucers to Misidentified Lights",
+        "permalink": "/indre-et-loire/"
+      },
+      {
+        "basename": "Indre_4b1413",
+        "title": "Why Indre's UFO Record Is More Revealing Than Mysterious",
+        "permalink": "/why-indres-ufo-record-is-more-revealing/"
+      },
+      {
+        "basename": "Isere_7db861",
+        "title": "Why Isere's Strangest Sightings Rarely Stay Strange",
+        "permalink": "/why-iseres-strangest-sightings-rarely/"
+      },
+      {
+        "basename": "Isere_7db861_grenoble_1990_ufo_wa_34ee2a",
+        "title": "1990 Wave",
+        "permalink": "/1990-wave/"
+      },
+      {
+        "basename": "Jura_f17a56",
+        "title": "Jura's UFO Stories Between Legend and Evidence",
+        "permalink": "/juras-ufo-stories-between-legend-and/"
+      },
+      {
+        "basename": "Jura_f17a56_jura_1970s_sightings_f9def5",
+        "title": "1970 s Flap",
+        "permalink": "/1970-s-flap/"
+      },
+      {
+        "basename": "Jura_f17a56_premanon_changing_st_0ef0be",
+        "title": "Prémanon",
+        "permalink": "/prémanon/"
+      },
+      {
+        "basename": "Landes_7a79d9",
+        "title": "What Landes UFO Records Actually Reveal",
+        "permalink": "/what-landes-ufo-records-actually-reveal/"
+      },
+      {
+        "basename": "Loire_9faa19",
+        "title": "Which Loire UFO Stories Survived Investigation?",
+        "permalink": "/which-loire-ufo-stories-survived/"
+      },
+      {
+        "basename": "Loiret_6d08aa",
+        "title": "Which Loiret UFO Cases Still Resist Explanation?",
+        "permalink": "/which-loiret-ufo-cases-still-resist/"
+      },
+      {
+        "basename": "Lot_4a2119",
+        "title": "Which Lot UFO Stories Survive Close Scrutiny?",
+        "permalink": "/which-lot-ufo-stories-survive-close/"
+      },
+      {
+        "basename": "Lot_4a2119_lot_1954_ufo_wave_0c6be2",
+        "title": "1954 Wave",
+        "permalink": "/1954-wave-a34388/"
+      },
+      {
+        "basename": "Lot_4a2119_sauzet_1990_reentry_580792",
+        "title": "Sauzet 1990",
+        "permalink": "/sauzet-1990/"
+      },
+      {
+        "basename": "Lozere_e8b6da_grandrieu_flare_case_5f6da9",
+        "title": "Grandrieu Flare",
+        "permalink": "/grandrieu-flare/"
+      },
+      {
+        "basename": "Lozere_e8b6da_mende_airline_encoun_cd0b84",
+        "title": "Mende Airliner",
+        "permalink": "/mende-airliner/"
+      },
+      {
+        "basename": "Maine-et-Loire_19238f",
+        "title": "Maine et Loire's UFO Record Without the Folklore",
+        "permalink": "/maine-et-loires-ufo-record-without-the/"
+      },
+      {
+        "basename": "Manche_e44581",
+        "title": "What Manche's UFO Record Actually Shows",
+        "permalink": "/what-manches-ufo-record-actually-shows/"
+      },
+      {
+        "basename": "Mayenne_6ca058",
+        "title": "Mayenne's UFO Stories Under the Evidence Test",
+        "permalink": "/mayennes-ufo-stories-under-the-evidence/"
+      },
+      {
+        "basename": "Meuse_6ed97d",
+        "title": "What Meuse's UFO Record Actually Reveals",
+        "permalink": "/what-meuses-ufo-record-actually-reveals/"
+      },
+      {
+        "basename": "Morbihan_61a3f8",
+        "title": "How Morbihan's UFO Mysteries Changed Over Time",
+        "permalink": "/how-morbihans-ufo-mysteries-changed-over/"
+      },
+      {
+        "basename": "Nievre_759cd1_ordinary_explanation_a805d0",
+        "title": "Solved Sightings",
+        "permalink": "/solved-sightings-490592/"
+      },
+      {
+        "basename": "Nievre_759cd1_unresolved_sightings_9888f1",
+        "title": "Unresolved Cases",
+        "permalink": "/unresolved-cases-37c032/"
+      },
+      {
+        "basename": "Oise_3dde58_aircraft_illusion_tr_1596c6",
+        "title": "Aircraft Illusions",
+        "permalink": "/aircraft-illusions/"
+      },
+      {
+        "basename": "Oise_3dde58_compiegne_unresolved_4570d8",
+        "title": "Compiègne Case",
+        "permalink": "/compiègne-case/"
+      },
+      {
+        "basename": "Orne_ab6076_argentan_evidence_ga_19e4cf",
+        "title": "Argentan 1992",
+        "permalink": "/argentan-1992/"
+      },
+      {
+        "basename": "Orne_ab6076_unresolved_modern_si_5bd164",
+        "title": "Modern Cases",
+        "permalink": "/modern-cases-9f9525/"
+      },
+      {
+        "basename": "Paris_22390a",
+        "title": "Why Paris UFO Cases Rarely Stay Unexplained",
+        "permalink": "/why-paris-ufo-cases-rarely-stay/"
+      },
+      {
+        "basename": "Pas-de-Calais_0ab2d0",
+        "title": "Which Pas de Calais UFO Cases Still Resist Explanation?",
+        "permalink": "/which-pas-de-calais-ufo-cases-still/"
+      },
+      {
+        "basename": "Puy-de-Dome_53d1d1_credible_witnesses_e_9a11bc",
+        "title": "Explained Cases",
+        "permalink": "/explained-cases-d41807/"
+      },
+      {
+        "basename": "Puy-de-Dome_53d1d1_unresolved_weak_evid_7cf947",
+        "title": "Unresolved Files",
+        "permalink": "/unresolved-files/"
+      },
+      {
+        "basename": "Pyrenees-Atlantiques_126d41",
+        "title": "Strange Lights Over Pyrenees Atlantiques Explained",
+        "permalink": "/strange-lights-over-pyrenees-atlantiques/"
+      },
+      {
+        "basename": "Pyrenees-Atlantiques_126d41_geipan_cases_misiden_8ec68c",
+        "title": "GEIPAN Cases",
+        "permalink": "/geipan-cases/"
+      },
+      {
+        "basename": "Pyrenees-Atlantiques_126d41_pau_helicopter_meteo_d3777e",
+        "title": "Pau Sightings",
+        "permalink": "/pau-sightings/"
+      },
+      {
+        "basename": "Pyrenees-Orientales_fc815c",
+        "title": "Which Pyrenees Orientales UFO Cases Still Resist...",
+        "permalink": "/which-pyrenees-orientales-ufo-cases/"
+      },
+      {
+        "basename": "Pyrenees-Orientales_fc815c_official_reviews_and_8e3a7d",
+        "title": "Cases Rechecked",
+        "permalink": "/cases-rechecked/"
+      },
+      {
+        "basename": "Pyrenees-Orientales_fc815c_thuir_1976_unresolve_19dcc0",
+        "title": "Thuir 1976",
+        "permalink": "/thuir-1976/"
+      },
+      {
+        "basename": "Rhone_ae79ce",
+        "title": "Why Rhone's UFO Mysteries Rarely Stay Mysterious",
+        "permalink": "/why-rhones-ufo-mysteries-rarely-stay/"
+      },
+      {
+        "basename": "Rhone_ae79ce_lyon_sky_misidentifi_b69dba",
+        "title": "Sky Misidentifications",
+        "permalink": "/sky-misidentifications/"
+      },
+      {
+        "basename": "Rhone_ae79ce_rhone_landmark_ufo_c_5dcccd",
+        "title": "Landmark Cases",
+        "permalink": "/landmark-cases-d7cb04/"
+      },
+      {
+        "basename": "Saone-et-Loire_d3ab2b",
+        "title": "What Saone et Loire's UFO Files Actually Reveal",
+        "permalink": "/what-saone-et-loires-ufo-files-actually/"
+      },
+      {
+        "basename": "Saone-et-Loire_d3ab2b_explained_reclassifi_7d7dfb",
+        "title": "Solved Cases",
+        "permalink": "/solved-cases-c46678/"
+      },
+      {
+        "basename": "Sarthe_70aab9",
+        "title": "From Saucer Headlines to Official UFO Files",
+        "permalink": "/sarthe/"
+      },
+      {
+        "basename": "Savoie_f57b8f",
+        "title": "Why Savoie's UFO Mysteries Usually Fade",
+        "permalink": "/why-savoies-ufo-mysteries-usually-fade/"
+      },
+      {
+        "basename": "Seine-et-Marne_d85b24",
+        "title": "Which Seine et Marne UFO Cases Still Defy Explanation?",
+        "permalink": "/which-seine-et-marne-ufo-cases-still/"
+      },
+      {
+        "basename": "Somme_f38fb9",
+        "title": "Why Somme's UFO Record Still Resists Easy Answers",
+        "permalink": "/why-sommes-ufo-record-still-resists-easy/"
+      },
+      {
+        "basename": "Tarn-et-Garonne_a4f8ba",
+        "title": "Strange Lights, Weak Files and One Landmark Case",
+        "permalink": "/tarn-et-garonne/"
+      },
+      {
+        "basename": "Tarn_a5fb02_gaillac_1952_angel_h_ffb5f7",
+        "title": "Gaillac 1952",
+        "permalink": "/gaillac-1952/"
+      },
+      {
+        "basename": "Tarn_a5fb02_tarn_official_ufo_fi_e8aaa3",
+        "title": "Official Files",
+        "permalink": "/official-files-f42632/"
+      },
+      {
+        "basename": "Val-d_Oise_9a8e5a",
+        "title": "From Alien Abduction Hoax to Unresolved Lights",
+        "permalink": "/val-d-oise/"
+      },
+      {
+        "basename": "Val-d_Oise_9a8e5a_cergy_pontoise_hoax_d72cc2",
+        "title": "Cergy Hoax",
+        "permalink": "/cergy-hoax/"
+      },
+      {
+        "basename": "Val-d_Oise_9a8e5a_geipan_unresolved_ai_ad97b7",
+        "title": "GEIPAN Cases",
+        "permalink": "/geipan-cases-a8799d/"
+      },
+      {
+        "basename": "Val-de-Marne_555905",
+        "title": "What Val de Marne's UFO Files Actually Reveal",
+        "permalink": "/what-val-de-marnes-ufo-files-actually/"
+      },
+      {
+        "basename": "Var_5cea87_saint_zacharie_moder_c629a0",
+        "title": "Modern Cases",
+        "permalink": "/modern-cases-43e634/"
+      },
+      {
+        "basename": "Var_5cea87_trans_evidence_dispu_a8ee6a",
+        "title": "Trans Case",
+        "permalink": "/trans-case/"
+      },
+      {
+        "basename": "Vendee_da066b",
+        "title": "When Strange Lights Crossed the Vendee Sky",
+        "permalink": "/when-strange-lights-crossed-the-vendee/"
+      },
+      {
+        "basename": "Vendee_da066b_vendee_1990_mass_sig_c13586",
+        "title": "1990 Sighting",
+        "permalink": "/1990-sighting/"
+      },
+      {
+        "basename": "Vendee_da066b_vendee_official_ufo_e688bf",
+        "title": "Official Cases",
+        "permalink": "/official-cases-6f19cf/"
+      },
+      {
+        "basename": "Vienne_f0511b",
+        "title": "From Flying Saucers to Official Case Files",
+        "permalink": "/vienne/"
+      },
+      {
+        "basename": "Vosges_53546a",
+        "title": "Why Vosges UFO Reports Rarely Stay Simple",
+        "permalink": "/why-vosges-ufo-reports-rarely-stay/"
+      }
+    ],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "Ain_fc7da0",
+        "title": "Which UFO Cases in Ain Still Resist Explanation?",
+        "permalink": "/which-ufo-cases-in-ain-still-resist/"
+      },
+      {
+        "basename": "Ain_fc7da0_ain_explained_ufo_ca_388a10",
+        "title": "Explained Cases",
+        "permalink": "/explained-cases-5f73e4/"
+      },
+      {
+        "basename": "Ain_fc7da0_montluel_unexplained_1445ac",
+        "title": "Montluel",
+        "permalink": "/montluel/"
+      },
+      {
+        "basename": "Aisne_b23b8e",
+        "title": "Which Aisne UFO Stories Withstand Scrutiny?",
+        "permalink": "/which-aisne-ufo-stories-withstand/"
+      },
+      {
+        "basename": "Aisne_b23b8e_aisne_geipan_files_39741a",
+        "title": "GEIPAN Files",
+        "permalink": "/geipan-files/"
+      },
+      {
+        "basename": "Aisne_b23b8e_soissons_1954_claim_dea6f0",
+        "title": "Soissons 1954",
+        "permalink": "/soissons-1954/"
+      },
+      {
+        "basename": "Allier_716dd6",
+        "title": "Why Allier's Strangest Sightings Changed With...",
+        "permalink": "/why-alliers-strangest-sightings-changed/"
+      },
+      {
+        "basename": "Allier_716dd6_explained_allier_sig_f7ca00",
+        "title": "Solved Mysteries",
+        "permalink": "/solved-mysteries/"
+      },
+      {
+        "basename": "Allier_716dd6_unresolved_allier_ca_153093",
+        "title": "Unresolved Cases",
+        "permalink": "/unresolved-cases/"
+      },
+      {
+        "basename": "Alpes-de-Haute-Prove_b1f7bc",
+        "title": "Why Valensole Still Defines a Department's UFO History",
+        "permalink": "/alpes-de-haute-provence/"
+      },
+      {
+        "basename": "Alpes-de-Haute-Prove_b1f7bc_meyronnes_volx_geipa_f4260c",
+        "title": "Other Cases",
+        "permalink": "/other-cases/"
+      },
+      {
+        "basename": "Alpes-de-Haute-Prove_b1f7bc_valensole_evidence_e_c04290",
+        "title": "Valensole",
+        "permalink": "/valensole/"
+      },
+      {
+        "basename": "Alpes-Maritimes_efe25c",
+        "title": "Why So Many Riviera UFO Reports Fade",
+        "permalink": "/alpes-maritimes/"
+      },
+      {
+        "basename": "Alpes-Maritimes_efe25c_riviera_cases_reasse_c5843c",
+        "title": "Landmark Cases",
+        "permalink": "/landmark-cases/"
+      },
+      {
+        "basename": "Alpes-Maritimes_efe25c_riviera_coastal_misi_30d7e0",
+        "title": "Coastal Illusions",
+        "permalink": "/coastal-illusions/"
+      },
+      {
+        "basename": "Ardeche_5d1281",
+        "title": "Ardeche UFOs Between Mystery and Misidentification",
+        "permalink": "/ardeche-ufos-between-mystery-and/"
+      },
+      {
+        "basename": "Ardeche_5d1281_ardeche_ufo_explanat_5e1776",
+        "title": "Likely Explanations",
+        "permalink": "/likely-explanations-c25d6b/"
+      },
+      {
+        "basename": "Ardeche_5d1281_pranles_unresolved_c_efbe67",
+        "title": "Pranles Case",
+        "permalink": "/pranles-case/"
+      },
+      {
+        "basename": "Ardennes_627650",
+        "title": "Why Ardennes UFO Stories Changed Under Scrutiny",
+        "permalink": "/why-ardennes-ufo-stories-changed-under/"
+      },
+      {
+        "basename": "Ardennes_627650_ardennes_case_reclas_5cd98e",
+        "title": "Case Reviews",
+        "permalink": "/case-reviews/"
+      },
+      {
+        "basename": "Ardennes_627650_vireux_wallerand_cig_454d3a",
+        "title": "Vireux Case",
+        "permalink": "/vireux-case/"
+      },
+      {
+        "basename": "Ariege_996ae1",
+        "title": "How Ariege's UFO Mysteries Changed With Evidence",
+        "permalink": "/how-arieges-ufo-mysteries-changed-with/"
+      },
+      {
+        "basename": "Ariege_996ae1_ariege_official_ufo_13bf80",
+        "title": "Official Files",
+        "permalink": "/official-files-b221a8/"
+      },
+      {
+        "basename": "Ariege_996ae1_belesta_lights_hoax_6e293d",
+        "title": "Belesta Hoax",
+        "permalink": "/belesta-hoax/"
+      },
+      {
+        "basename": "Aube_200d42",
+        "title": "What Aube's UFO Record Actually Reveals",
+        "permalink": "/what-aubes-ufo-record-actually-reveals/"
+      },
+      {
+        "basename": "Aube_200d42_classic_sightings_we_1a0d0b",
+        "title": "Classic Sightings",
+        "permalink": "/classic-sightings/"
+      },
+      {
+        "basename": "Aube_200d42_geipan_cases_ordinar_442bd5",
+        "title": "Official Cases",
+        "permalink": "/official-cases-1c7219/"
+      },
+      {
+        "basename": "Aude_f0dc3d",
+        "title": "Why Aude's Best Known UFO Cases Remain Unresolved",
+        "permalink": "/why-audes-best-known-ufo-cases-remain/"
+      },
+      {
+        "basename": "Aude_f0dc3d_fonties_aude_effects_1f87d6",
+        "title": "Fonties Claims",
+        "permalink": "/fonties-claims/"
+      },
+      {
+        "basename": "Aude_f0dc3d_port_la_nouvelle_198_a49e17",
+        "title": "Port la Nouvelle",
+        "permalink": "/port-la-nouvelle/"
+      },
+      {
+        "basename": "Aveyron_fecfb2",
+        "title": "Aveyron's UFO Cases Between Mystery and...",
+        "permalink": "/aveyrons-ufo-cases-between-mystery-and/"
+      },
+      {
+        "basename": "Aveyron_fecfb2_millau_1999_unresolv_7a84da",
+        "title": "Millau 1999",
+        "permalink": "/millau-1999/"
+      },
+      {
+        "basename": "Aveyron_fecfb2_roumagnac_ufo_legend_b919ea",
+        "title": "Roumagnac",
+        "permalink": "/roumagnac/"
+      },
+      {
+        "basename": "Bas-Rhin_ad02bb",
+        "title": "Why Bas Rhin's UFO Record Still Divides Opinion",
+        "permalink": "/why-bas-rhins-ufo-record-still-divides/"
+      },
+      {
+        "basename": "Bas-Rhin_ad02bb_radar_venus_military_38b5f2",
+        "title": "Radar Claims",
+        "permalink": "/radar-claims/"
+      },
+      {
+        "basename": "Bas-Rhin_ad02bb_selestat_triangle_ca_786ad2",
+        "title": "Sélestat Case",
+        "permalink": "/sélestat-case/"
+      },
+      {
+        "basename": "Bouches-du-Rhone_a97972",
+        "title": "Why Bouches du Rhone Produces So Many UFO Reports",
+        "permalink": "/why-bouches-du-rhone-produces-so-many/"
+      },
+      {
+        "basename": "Bouches-du-Rhone_a97972_marseille_ufo_explan_fdf80e",
+        "title": "Marseille Cases",
+        "permalink": "/marseille-cases/"
+      },
+      {
+        "basename": "Bouches-du-Rhone_a97972_martigues_etang_ufo_8ab8de",
+        "title": "Martigues",
+        "permalink": "/martigues/"
+      },
+      {
+        "basename": "Calvados_b13668",
+        "title": "Calvados UFOs Between Legend and Explanation",
+        "permalink": "/calvados-ufos-between-legend-and/"
+      },
+      {
+        "basename": "Calvados_b13668_caen_carpiquet_1973_cd5e28",
+        "title": "1973 Encounter",
+        "permalink": "/1973-encounter/"
+      },
+      {
+        "basename": "Calvados_b13668_official_calvados_ca_4d1e20",
+        "title": "Official Cases",
+        "permalink": "/official-cases-27d36c/"
+      },
+      {
+        "basename": "Cantal_202658",
+        "title": "Cantal's UFO Story Beyond the Mystery",
+        "permalink": "/cantals-ufo-story-beyond-the-mystery/"
+      },
+      {
+        "basename": "Cantal_202658_cantal_explained_sig_973248",
+        "title": "Other Sightings",
+        "permalink": "/other-sightings/"
+      },
+      {
+        "basename": "Cantal_202658_cussac_encounter_evi_0ba4ac",
+        "title": "Cussac",
+        "permalink": "/cussac/"
+      },
+      {
+        "basename": "Charente-Maritime_ed3a6b",
+        "title": "From Flying Saucers to Identified Debris",
+        "permalink": "/charente-maritime/"
+      },
+      {
+        "basename": "Charente-Maritime_ed3a6b_1954_saucer_wave_e31ba3",
+        "title": "1954 Wave",
+        "permalink": "/1954-wave-0e4366/"
+      },
+      {
+        "basename": "Charente-Maritime_ed3a6b_royan_cylinder_verdi_a000a6",
+        "title": "Royan Cylinder",
+        "permalink": "/royan-cylinder/"
+      },
+      {
+        "basename": "Charente_8acfde",
+        "title": "Why Charente's UFO Cases Remain Unresolved",
+        "permalink": "/why-charentes-ufo-cases-remain/"
+      },
+      {
+        "basename": "Charente_8acfde_angouleme_ruffec_cas_00c2fa",
+        "title": "Unresolved Cases",
+        "permalink": "/unresolved-cases-5c3bad/"
+      },
+      {
+        "basename": "Charente_8acfde_cognac_radar_echoes_d41c02",
+        "title": "Cognac Radar",
+        "permalink": "/cognac-radar/"
+      },
+      {
+        "basename": "Cher_614205",
+        "title": "Strange Lights and Changing Verdicts in Cher",
+        "permalink": "/strange-lights-and-changing-verdicts/"
+      },
+      {
+        "basename": "Cher_614205_cher_1954_ufo_wave_e31bff",
+        "title": "1954 Wave",
+        "permalink": "/1954-wave-bd7e46/"
+      },
+      {
+        "basename": "Cher_614205_cher_official_ufo_fi_0832d9",
+        "title": "Official Files",
+        "permalink": "/official-files-4a42cc/"
+      },
+      {
+        "basename": "Correze_3e9490",
+        "title": "Why Correze Matters in French UFO History",
+        "permalink": "/why-correze-matters-in-french-ufo/"
+      },
+      {
+        "basename": "Correze_3e9490_1954_broken_alignmen_ffd430",
+        "title": "1954 Wave",
+        "permalink": "/1954-wave/"
+      },
+      {
+        "basename": "Correze_3e9490_official_ufo_files_98c8b0",
+        "title": "Official Files",
+        "permalink": "/official-files/"
+      },
+      {
+        "basename": "Corse-du-Sud_8217c3",
+        "title": "One Unexplained Case in a Sparse UFO Archive",
+        "permalink": "/corse-du-sud/"
+      },
+      {
+        "basename": "Corse-du-Sud_8217c3_official_ufo_record_17fbba",
+        "title": "Official Record",
+        "permalink": "/official-record/"
+      },
+      {
+        "basename": "Corse-du-Sud_8217c3_zonza_unresolved_sig_917414",
+        "title": "Zonza Sighting",
+        "permalink": "/zonza-sighting/"
+      },
+      {
+        "basename": "Cote-d_Or_6e3ab6",
+        "title": "Why Cote d'Or Became a French UFO Landmark",
+        "permalink": "/why-cote-dor-became-a-french-ufo/"
+      },
+      {
+        "basename": "Cote-d_Or_6e3ab6_late_1970s_ufo_cases_65aea5",
+        "title": "1970 s Cases",
+        "permalink": "/1970-s-cases/"
+      },
+      {
+        "basename": "Cote-d_Or_6e3ab6_poncey_1954_case_c8af5a",
+        "title": "Poncey 1954",
+        "permalink": "/poncey-1954/"
+      },
+      {
+        "basename": "Cotes-d_Armor_789c20",
+        "title": "Which Cotes d'Armor UFO Cases Still Defy Explanation?",
+        "permalink": "/which-cotes-darmor-ufo-cases-still-defy/"
+      },
+      {
+        "basename": "Cotes-d_Armor_789c20_binic_dinan_unknowns_eb25be",
+        "title": "Official Unknowns",
+        "permalink": "/official-unknowns/"
+      },
+      {
+        "basename": "Cotes-d_Armor_789c20_geipan_reassessed_ca_f00621",
+        "title": "Solved Sightings",
+        "permalink": "/solved-sightings/"
+      },
+      {
+        "basename": "Creuse_73fb1d",
+        "title": "From Humanoids to Airliners in Creuse Skies",
+        "permalink": "/from-humanoids-to-airliners-in-creuse/"
+      },
+      {
+        "basename": "Creuse_73fb1d_alleyrat_humanoid_en_f484fa",
+        "title": "Alleyrat 1954",
+        "permalink": "/alleyrat-1954/"
+      },
+      {
+        "basename": "Creuse_73fb1d_official_creuse_ufo_c3f6dd",
+        "title": "Official Cases",
+        "permalink": "/official-cases-c518f6/"
+      },
+      {
+        "basename": "Deux-Sevres_ac4bfa",
+        "title": "How Strong Is the Deux Sevres UFO Record?",
+        "permalink": "/how-strong-is-the-deux-sevres-ufo-record/"
+      },
+      {
+        "basename": "Deux-Sevres_ac4bfa_claims_hoaxes_explan_a53598",
+        "title": "Claims Explained",
+        "permalink": "/claims-explained/"
+      },
+      {
+        "basename": "Deux-Sevres_ac4bfa_sainte_soline_eviden_9dedaf",
+        "title": "Sainte Soline",
+        "permalink": "/sainte-soline/"
+      },
+      {
+        "basename": "Dordogne_e9b4bd",
+        "title": "Why Dordogne's UFO Mysteries Often Faded",
+        "permalink": "/why-dordognes-ufo-mysteries-often-faded/"
+      },
+      {
+        "basename": "Dordogne_e9b4bd_electrical_light_cas_55ce9a",
+        "title": "Electrical Lights",
+        "permalink": "/electrical-lights/"
+      },
+      {
+        "basename": "Dordogne_e9b4bd_military_aircraft_ca_3ec388",
+        "title": "Military Aircraft",
+        "permalink": "/military-aircraft/"
+      },
+      {
+        "basename": "Doubs_70fb5f",
+        "title": "Why Doubs UFO Reports Became Less Mysterious",
+        "permalink": "/why-doubs-ufo-reports-became-less/"
+      },
+      {
+        "basename": "Doubs_70fb5f_doubs_solved_sightin_d06205",
+        "title": "Solved Sightings",
+        "permalink": "/solved-sightings-c89df3/"
+      },
+      {
+        "basename": "Doubs_70fb5f_geipan_doubs_files_59c5b2",
+        "title": "GEIPAN Files",
+        "permalink": "/geipan-files-aadf4b/"
+      },
+      {
+        "basename": "Drome_06f265",
+        "title": "What Drome's UFO Record Actually Reveals",
+        "permalink": "/what-dromes-ufo-record-actually-reveals/"
+      },
+      {
+        "basename": "Drome_06f265_ordinary_lights_expl_bc4a48",
+        "title": "Common Explanations",
+        "permalink": "/common-explanations/"
+      },
+      {
+        "basename": "Drome_06f265_strongest_unresolved_6ae8b0",
+        "title": "Unresolved Cases",
+        "permalink": "/unresolved-cases-eca6a4/"
+      },
+      {
+        "basename": "Essonne_7f5f7b",
+        "title": "Why Essonne's UFO Cases Often Defy First Impressions",
+        "permalink": "/why-essonnes-ufo-cases-often-defy-first/"
+      },
+      {
+        "basename": "Essonne_7f5f7b_moon_venus_false_mot_276ab5",
+        "title": "Sky Illusions",
+        "permalink": "/sky-illusions/"
+      },
+      {
+        "basename": "Essonne_7f5f7b_saint_hilaire_eviden_312a92",
+        "title": "Saint Hilaire",
+        "permalink": "/saint-hilaire/"
+      },
+      {
+        "basename": "Eure-et-Loir_aac377",
+        "title": "Why Eure et Loir's UFO Mysteries Often Weakened",
+        "permalink": "/why-eure-et-loirs-ufo-mysteries-often/"
+      },
+      {
+        "basename": "Eure-et-Loir_aac377_authon_venus_case_7c1114",
+        "title": "Authon Case",
+        "permalink": "/authon-case/"
+      },
+      {
+        "basename": "Eure-et-Loir_aac377_reports_over_time_527c9e",
+        "title": "Reports Over Time",
+        "permalink": "/reports-over-time/"
+      },
+      {
+        "basename": "Eure_4abf79",
+        "title": "Eure's UFO Stories Between Legend and Evidence",
+        "permalink": "/eures-ufo-stories-between-legend-and/"
+      },
+      {
+        "basename": "Eure_4abf79_evreux_1978_radar_170944",
+        "title": "Evreux 1978",
+        "permalink": "/evreux-1978/"
+      },
+      {
+        "basename": "Eure_4abf79_vernon_1954_legend_f69644",
+        "title": "Vernon 1954",
+        "permalink": "/vernon-1954/"
+      },
+      {
+        "basename": "Finistere_3f7bbd",
+        "title": "Why Finistere's Strangest UFO Cases Remain Unsettled",
+        "permalink": "/why-finisteres-strangest-ufo-cases/"
+      },
+      {
+        "basename": "Finistere_3f7bbd_landivisiau_1979_evi_5f9f00",
+        "title": "Landivisiau",
+        "permalink": "/landivisiau/"
+      },
+      {
+        "basename": "Finistere_3f7bbd_modern_cases_investi_ecbd23",
+        "title": "Modern Cases",
+        "permalink": "/modern-cases/"
+      },
+      {
+        "basename": "Gard_40724c",
+        "title": "Why Gard's Strangest Lights Rarely Stayed Mysterious",
+        "permalink": "/why-gards-strangest-lights-rarely-stayed/"
+      },
+      {
+        "basename": "Gard_40724c_gard_rocket_reentrie_ddf173",
+        "title": "Re entries",
+        "permalink": "/re-entries/"
+      },
+      {
+        "basename": "Gard_40724c_gard_ufo_explanation_7b6559",
+        "title": "Solved Cases",
+        "permalink": "/solved-cases/"
+      },
+      {
+        "basename": "Gers_631401",
+        "title": "Why Gers UFO Reports Often Change With Better Evidence",
+        "permalink": "/why-gers-ufo-reports-often-change-with/"
+      },
+      {
+        "basename": "Gers_631401_explained_gers_sight_24fe63",
+        "title": "Solved Cases",
+        "permalink": "/solved-cases-9bedff/"
+      },
+      {
+        "basename": "Gers_631401_unresolved_gers_repo_c4eb9c",
+        "title": "Unresolved Cases",
+        "permalink": "/unresolved-cases-00ec40/"
+      },
+      {
+        "basename": "Gironde_99a85b",
+        "title": "Why Gironde's Strangest UFO Cases Still Matter",
+        "permalink": "/why-girondes-strangest-ufo-cases-still/"
+      },
+      {
+        "basename": "Gironde_99a85b_gironde_official_rec_8b918f",
+        "title": "Official Record",
+        "permalink": "/official-record-634f2c/"
+      },
+      {
+        "basename": "Gironde_99a85b_gujan_mestras_case_a182ba",
+        "title": "Gujan Mestras",
+        "permalink": "/gujan-mestras/"
+      },
+      {
+        "basename": "Haut-Rhin_0c01ce",
+        "title": "Why Haut Rhin's Strangest Sightings Still Matter",
+        "permalink": "/why-haut-rhins-strangest-sightings-still/"
+      },
+      {
+        "basename": "Haut-Rhin_0c01ce_haut_rhin_sightings_515573",
+        "title": "Sightings Over Time",
+        "permalink": "/sightings-over-time/"
+      },
+      {
+        "basename": "Haut-Rhin_0c01ce_huningue_ufo_evidenc_07b8af",
+        "title": "Huningue Case",
+        "permalink": "/huningue-case/"
+      },
+      {
+        "basename": "Haute-Corse_b2c532",
+        "title": "What Haute Corse's UFO Files Actually Reveal",
+        "permalink": "/what-haute-corses-ufo-files-actually/"
+      },
+      {
+        "basename": "Haute-Corse_b2c532_aircraft_misidentifi_91c807",
+        "title": "Aircraft Cases",
+        "permalink": "/aircraft-cases/"
+      },
+      {
+        "basename": "Haute-Corse_b2c532_geipan_records_unres_b1da58",
+        "title": "Official Files",
+        "permalink": "/official-files-d8abc5/"
+      },
+      {
+        "basename": "Haute-Garonne_34cc0a",
+        "title": "Why Haute Garonne's Strangest Sightings Remain Uncertain",
+        "permalink": "/why-haute-garonnes-strangest-sightings/"
+      },
+      {
+        "basename": "Haute-Garonne_34cc0a_geipan_case_reassess_0e9117",
+        "title": "Case Reviews",
+        "permalink": "/case-reviews-8f4a8a/"
+      },
+      {
+        "basename": "Haute-Garonne_34cc0a_sainte_foy_unresolve_a38e86",
+        "title": "Sainte Foy",
+        "permalink": "/sainte-foy/"
+      },
+      {
+        "basename": "Haute-Loire_12edf0",
+        "title": "Strange Lights, Local Legends and Official Answers",
+        "permalink": "/haute-loire/"
+      },
+      {
+        "basename": "Haute-Loire_12edf0_geipan_haute_loire_c_e4c19d",
+        "title": "Official Findings",
+        "permalink": "/official-findings-62aacf/"
+      },
+      {
+        "basename": "Haute-Loire_12edf0_haute_loire_1954_wav_d0248d",
+        "title": "1954 Wave",
+        "permalink": "/1954-wave-ab6a6e/"
+      },
+      {
+        "basename": "Haute-Marne_12dda3",
+        "title": "Haute Marne's UFO Record Under the Microscope",
+        "permalink": "/haute-marnes-ufo-record-under-the/"
+      },
+      {
+        "basename": "Haute-Marne_12dda3_explained_haute_marn_3e93c0",
+        "title": "Explained Cases",
+        "permalink": "/explained-cases-46688d/"
+      },
+      {
+        "basename": "Haute-Marne_12dda3_saint_dizier_lights_403696",
+        "title": "Saint Dizier",
+        "permalink": "/saint-dizier/"
+      },
+      {
+        "basename": "Haute-Saone_0bdc4b",
+        "title": "From 1954 Saucer Stories to an Unresolved Triangle",
+        "permalink": "/haute-saone/"
+      },
+      {
+        "basename": "Haute-Saone_0bdc4b_haute_saone_1954_wav_fe9706",
+        "title": "1954 Wave",
+        "permalink": "/1954-wave-d6a020/"
+      },
+      {
+        "basename": "Haute-Saone_0bdc4b_villers_luxeuil_tria_ac0523",
+        "title": "Villers Triangle",
+        "permalink": "/villers-triangle/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "Aisne_b23b8e",
+        "title": "Which Aisne UFO Stories Withstand Scrutiny?",
+        "permalink": "/which-aisne-ufo-stories-withstand/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Allier_716dd6",
+        "title": "Why Allier's Strangest Sightings Changed With...",
+        "permalink": "/why-alliers-strangest-sightings-changed/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Alpes-de-Haute-Prove_b1f7bc",
+        "title": "Why Valensole Still Defines a Department's UFO History",
+        "permalink": "/alpes-de-haute-provence/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Alpes-de-Haute-Prove_b1f7bc_valensole_evidence_e_c04290",
+        "title": "Valensole",
+        "permalink": "/valensole/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Alpes-Maritimes_efe25c",
+        "title": "Why So Many Riviera UFO Reports Fade",
+        "permalink": "/alpes-maritimes/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Ardennes_627650",
+        "title": "Why Ardennes UFO Stories Changed Under Scrutiny",
+        "permalink": "/why-ardennes-ufo-stories-changed-under/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Aveyron_fecfb2",
+        "title": "Aveyron's UFO Cases Between Mystery and...",
+        "permalink": "/aveyrons-ufo-cases-between-mystery-and/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Bas-Rhin_ad02bb",
+        "title": "Why Bas Rhin's UFO Record Still Divides Opinion",
+        "permalink": "/why-bas-rhins-ufo-record-still-divides/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Calvados_b13668",
+        "title": "Calvados UFOs Between Legend and Explanation",
+        "permalink": "/calvados-ufos-between-legend-and/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Cantal_202658",
+        "title": "Cantal's UFO Story Beyond the Mystery",
+        "permalink": "/cantals-ufo-story-beyond-the-mystery/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Cantal_202658_cussac_encounter_evi_0ba4ac",
+        "title": "Cussac",
+        "permalink": "/cussac/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Charente-Maritime_ed3a6b",
+        "title": "From Flying Saucers to Identified Debris",
+        "permalink": "/charente-maritime/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Corse-du-Sud_8217c3",
+        "title": "One Unexplained Case in a Sparse UFO Archive",
+        "permalink": "/corse-du-sud/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Creuse_73fb1d",
+        "title": "From Humanoids to Airliners in Creuse Skies",
+        "permalink": "/from-humanoids-to-airliners-in-creuse/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Deux-Sevres_ac4bfa_sainte_soline_eviden_9dedaf",
+        "title": "Sainte Soline",
+        "permalink": "/sainte-soline/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Dordogne_e9b4bd",
+        "title": "Why Dordogne's UFO Mysteries Often Faded",
+        "permalink": "/why-dordognes-ufo-mysteries-often-faded/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Doubs_70fb5f",
+        "title": "Why Doubs UFO Reports Became Less Mysterious",
+        "permalink": "/why-doubs-ufo-reports-became-less/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Essonne_7f5f7b",
+        "title": "Why Essonne's UFO Cases Often Defy First Impressions",
+        "permalink": "/why-essonnes-ufo-cases-often-defy-first/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Eure-et-Loir_aac377",
+        "title": "Why Eure et Loir's UFO Mysteries Often Weakened",
+        "permalink": "/why-eure-et-loirs-ufo-mysteries-often/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Gironde_99a85b",
+        "title": "Why Gironde's Strangest UFO Cases Still Matter",
+        "permalink": "/why-girondes-strangest-ufo-cases-still/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Haut-Rhin_0c01ce",
+        "title": "Why Haut Rhin's Strangest Sightings Still Matter",
+        "permalink": "/why-haut-rhins-strangest-sightings-still/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Haute-Corse_b2c532",
+        "title": "What Haute Corse's UFO Files Actually Reveal",
+        "permalink": "/what-haute-corses-ufo-files-actually/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Haute-Garonne_34cc0a",
+        "title": "Why Haute Garonne's Strangest Sightings Remain Uncertain",
+        "permalink": "/why-haute-garonnes-strangest-sightings/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Haute-Loire_12edf0",
+        "title": "Strange Lights, Local Legends and Official Answers",
+        "permalink": "/haute-loire/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Haute-Marne_12dda3",
+        "title": "Haute Marne's UFO Record Under the Microscope",
+        "permalink": "/haute-marnes-ufo-record-under-the/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Haute-Savoie_3824c4",
+        "title": "Why Haute Savoie's UFO Stories Rarely Stay Unexplained",
+        "permalink": "/why-haute-savoies-ufo-stories-rarely/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Haute-Vienne_e44500",
+        "title": "Why Haute Vienne's UFO Record Still Intrigues",
+        "permalink": "/why-haute-viennes-ufo-record-still/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Hautes-Alpes_6bdcb1",
+        "title": "Why Hautes Alpes UFO Reports Rarely Stayed Unexplained",
+        "permalink": "/why-hautes-alpes-ufo-reports-rarely/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Hauts-de-Seine_2ccee8",
+        "title": "Why One Hauts de Seine UFO Case Still Resists...",
+        "permalink": "/why-one-hauts-de-seine-ufo-case-still/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Ille-et-Vilaine_a0a684",
+        "title": "Which Ille et Vilaine UFO Cases Still Resist...",
+        "permalink": "/which-ille-et-vilaine-ufo-cases-still/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Indre-et-Loire_b45e62",
+        "title": "From Flying Saucers to Misidentified Lights",
+        "permalink": "/indre-et-loire/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Indre_4b1413",
+        "title": "Why Indre's UFO Record Is More Revealing Than Mysterious",
+        "permalink": "/why-indres-ufo-record-is-more-revealing/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Landes_7a79d9",
+        "title": "What Landes UFO Records Actually Reveal",
+        "permalink": "/what-landes-ufo-records-actually-reveal/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Loir-et-Cher_7a21fd",
+        "title": "When Strange Lights Met Stronger Explanations",
+        "permalink": "/loir-et-cher/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Loire-Atlantique_ea6d7d",
+        "title": "Which Loire Atlantique UFO Cases Still Resist...",
+        "permalink": "/which-loire-atlantique-ufo-cases-still/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Loire-Atlantique_ea6d7d_ordinary_explanation_48ebfb",
+        "title": "Likely Explanations",
+        "permalink": "/likely-explanations/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Loire_9faa19",
+        "title": "Which Loire UFO Stories Survived Investigation?",
+        "permalink": "/which-loire-ufo-stories-survived/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Loiret_6d08aa",
+        "title": "Which Loiret UFO Cases Still Resist Explanation?",
+        "permalink": "/which-loiret-ufo-cases-still-resist/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Lot-et-Garonne_6df799",
+        "title": "Which Lot et Garonne UFO Cases Still Resist Explanation?",
+        "permalink": "/which-lot-et-garonne-ufo-cases-still/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Maine-et-Loire_19238f",
+        "title": "Maine et Loire's UFO Record Without the Folklore",
+        "permalink": "/maine-et-loires-ufo-record-without-the/",
+        "inline_inbound_count": 3
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "Allier_716dd6",
+        "to": "Ain_fc7da0",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Aisne_b23b8e",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Alpes-Maritimes_efe25c",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Alpes-de-Haute-Prove_b1f7bc",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Ardeche_5d1281",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Ardennes_627650",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Ariege_996ae1",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Aube_200d42",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Aude_f0dc3d",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Aveyron_fecfb2",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Bas-Rhin_ad02bb",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Bouches-du-Rhone_a97972",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Calvados_b13668",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Cantal_202658",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Charente-Maritime_ed3a6b",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Charente_8acfde",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Cher_614205",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Correze_3e9490",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Corse-du-Sud_8217c3",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Cote-d_Or_6e3ab6",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Cotes-d_Armor_789c20",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Creuse_73fb1d",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Deux-Sevres_ac4bfa",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Dordogne_e9b4bd",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Doubs_70fb5f",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Drome_06f265",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Essonne_7f5f7b",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Eure-et-Loir_aac377",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Eure_4abf79",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Finistere_3f7bbd",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Gard_40724c",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Gers_631401",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Gironde_99a85b",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Haut-Rhin_0c01ce",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Haute-Corse_b2c532",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Haute-Garonne_34cc0a",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Haute-Loire_12edf0",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Haute-Marne_12dda3",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Haute-Saone_0bdc4b",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Haute-Savoie_3824c4",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Haute-Vienne_e44500",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Hautes-Alpes_6bdcb1",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Hautes-Pyrenees_f6aaeb",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Hauts-de-Seine_2ccee8",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Herault_0fa4db",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Ille-et-Vilaine_a0a684",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Indre-et-Loire_b45e62",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Indre_4b1413",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Isere_7db861",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Jura_f17a56",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Landes_7a79d9",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Loir-et-Cher_7a21fd",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Loire-Atlantique_ea6d7d",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Loire_9faa19",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Loiret_6d08aa",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Lot-et-Garonne_6df799",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Lot_4a2119",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Lozere_e8b6da",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Maine-et-Loire_19238f",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Manche_e44581",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Marne_763128",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Mayenne_6ca058",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Meurthe-et-Moselle_cbfe8a",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Meuse_6ed97d",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Morbihan_61a3f8",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Moselle_b6f07c",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Nievre_759cd1",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Nord_dc64d1",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Oise_3dde58",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Orne_ab6076",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Paris_22390a",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Pas-de-Calais_0ab2d0",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Puy-de-Dome_53d1d1",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Pyrenees-Atlantiques_126d41",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Pyrenees-Orientales_fc815c",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Rhone_ae79ce",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Saone-et-Loire_d3ab2b",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Sarthe_70aab9",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Savoie_f57b8f",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Seine-Maritime_c89706",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Seine-Saint-Denis_af7f54",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Seine-et-Marne_d85b24",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Somme_f38fb9",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Tarn-et-Garonne_a4f8ba",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Tarn_a5fb02",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Territoire_de_Belfor_8990a1",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Val-d_Oise_9a8e5a",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Val-de-Marne_555905",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Var_5cea87",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Vaucluse_17bae7",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Vendee_da066b",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Vienne_f0511b",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Vosges_53546a",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Yonne_77d4a6",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Yvelines_722ea1",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Allier_716dd6_explained_allier_sig_f7ca00",
+        "type": "child"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Allier_716dd6_index",
+        "type": "child"
+      },
+      {
+        "from": "Allier_716dd6",
+        "to": "Allier_716dd6_unresolved_allier_ca_153093",
+        "type": "child"
+      },
+      {
+        "from": "Allier_716dd6_explained_allier_sig_f7ca00",
+        "to": "Allier_716dd6",
+        "type": "parent"
+      },
+      {
+        "from": "Allier_716dd6_explained_allier_sig_f7ca00",
+        "to": "Allier_716dd6_unresolved_allier_ca_153093",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6_explained_allier_sig_f7ca00",
+        "to": "Allier_716dd6",
+        "type": "ancestor"
+      },
+      {
+        "from": "Allier_716dd6_unresolved_allier_ca_153093",
+        "to": "Allier_716dd6",
+        "type": "parent"
+      },
+      {
+        "from": "Allier_716dd6_unresolved_allier_ca_153093",
+        "to": "Allier_716dd6_explained_allier_sig_f7ca00",
+        "type": "sibling"
+      },
+      {
+        "from": "Allier_716dd6_unresolved_allier_ca_153093",
+        "to": "Allier_716dd6",
+        "type": "ancestor"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Ain_fc7da0",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Aisne_b23b8e",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Allier_716dd6",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Alpes-Maritimes_efe25c",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Alpes-de-Haute-Prove_b1f7bc",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Ardeche_5d1281",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Ariege_996ae1",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Aube_200d42",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Aude_f0dc3d",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Aveyron_fecfb2",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Bas-Rhin_ad02bb",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Bouches-du-Rhone_a97972",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Calvados_b13668",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Cantal_202658",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Charente-Maritime_ed3a6b",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Charente_8acfde",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Cher_614205",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Correze_3e9490",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Corse-du-Sud_8217c3",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Cote-d_Or_6e3ab6",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Cotes-d_Armor_789c20",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Creuse_73fb1d",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Deux-Sevres_ac4bfa",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Dordogne_e9b4bd",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Doubs_70fb5f",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Drome_06f265",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Essonne_7f5f7b",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Eure-et-Loir_aac377",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Eure_4abf79",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Finistere_3f7bbd",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Gard_40724c",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Gers_631401",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Gironde_99a85b",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Haut-Rhin_0c01ce",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Haute-Corse_b2c532",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Haute-Garonne_34cc0a",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Haute-Loire_12edf0",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Haute-Marne_12dda3",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Haute-Saone_0bdc4b",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Haute-Savoie_3824c4",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Haute-Vienne_e44500",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Hautes-Alpes_6bdcb1",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Hautes-Pyrenees_f6aaeb",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Hauts-de-Seine_2ccee8",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Herault_0fa4db",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Ille-et-Vilaine_a0a684",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Indre-et-Loire_b45e62",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Indre_4b1413",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Isere_7db861",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Jura_f17a56",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Landes_7a79d9",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Loir-et-Cher_7a21fd",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Loire-Atlantique_ea6d7d",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Loire_9faa19",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Loiret_6d08aa",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Lot-et-Garonne_6df799",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Lot_4a2119",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Lozere_e8b6da",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Maine-et-Loire_19238f",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Manche_e44581",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Marne_763128",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Mayenne_6ca058",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Meurthe-et-Moselle_cbfe8a",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Meuse_6ed97d",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Morbihan_61a3f8",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Moselle_b6f07c",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Nievre_759cd1",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Nord_dc64d1",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Oise_3dde58",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Orne_ab6076",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Paris_22390a",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Pas-de-Calais_0ab2d0",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Puy-de-Dome_53d1d1",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Pyrenees-Atlantiques_126d41",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Pyrenees-Orientales_fc815c",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Rhone_ae79ce",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Saone-et-Loire_d3ab2b",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Sarthe_70aab9",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Savoie_f57b8f",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Seine-Maritime_c89706",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Seine-Saint-Denis_af7f54",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Seine-et-Marne_d85b24",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Somme_f38fb9",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Tarn-et-Garonne_a4f8ba",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Tarn_a5fb02",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Territoire_de_Belfor_8990a1",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Val-d_Oise_9a8e5a",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Val-de-Marne_555905",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Var_5cea87",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Vaucluse_17bae7",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Vendee_da066b",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Vienne_f0511b",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Vosges_53546a",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Yonne_77d4a6",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Yvelines_722ea1",
+        "type": "sibling"
+      },
+      {
+        "from": "Ardennes_627650",
+        "to": "Ardennes_627650_ardennes_case_reclas_5cd98e",
+        "type": "child"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "Allier_716dd6_explained_allier_sig_f7ca00",
+        "to": "Allier_716dd6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Allier_716dd6_unresolved_allier_ca_153093",
+        "to": "Allier_716dd6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Ardennes_627650_ardennes_case_reclas_5cd98e",
+        "to": "Ardennes_627650",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Ardennes_627650_vireux_wallerand_cig_454d3a",
+        "to": "Ardennes_627650",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Aveyron_fecfb2",
+        "to": "Aveyron_fecfb2_millau_1999_unresolv_7a84da",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Aveyron_fecfb2",
+        "to": "Aveyron_fecfb2_roumagnac_ufo_legend_b919ea",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Aveyron_fecfb2_millau_1999_unresolv_7a84da",
+        "to": "Aveyron_fecfb2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Aveyron_fecfb2_roumagnac_ufo_legend_b919ea",
+        "to": "Aveyron_fecfb2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Correze_3e9490",
+        "to": "Correze_3e9490_official_ufo_files_98c8b0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Dordogne_e9b4bd",
+        "to": "Dordogne_e9b4bd_military_aircraft_ca_3ec388",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Dordogne_e9b4bd_electrical_light_cas_55ce9a",
+        "to": "Dordogne_e9b4bd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Dordogne_e9b4bd_military_aircraft_ca_3ec388",
+        "to": "Dordogne_e9b4bd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Finistere_3f7bbd",
+        "to": "Finistere_3f7bbd_landivisiau_1979_evi_5f9f00",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Finistere_3f7bbd_landivisiau_1979_evi_5f9f00",
+        "to": "Finistere_3f7bbd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Isere_7db861_isere_geipan_case_pa_c885b7",
+        "to": "Isere_7db861_grenoble_1990_ufo_wa_34ee2a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Loire-Atlantique_ea6d7d",
+        "to": "Loire-Atlantique_ea6d7d_ordinary_explanation_48ebfb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Loire-Atlantique_ea6d7d_nantes_1979_unresolv_ae5afe",
+        "to": "Loire-Atlantique_ea6d7d_ordinary_explanation_48ebfb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Loire-Atlantique_ea6d7d_nantes_1979_unresolv_ae5afe",
+        "to": "Loire-Atlantique_ea6d7d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Loire-Atlantique_ea6d7d_ordinary_explanation_48ebfb",
+        "to": "Loire-Atlantique_ea6d7d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Orne_ab6076",
+        "to": "Orne_ab6076_unresolved_modern_si_5bd164",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Pas-de-Calais_0ab2d0_1954_coastal_photo_27db7c",
+        "to": "Pas-de-Calais_0ab2d0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Pas-de-Calais_0ab2d0_longuenesse_official_8b6571",
+        "to": "Pas-de-Calais_0ab2d0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Haut-Rhin_0c01ce_haut_rhin_sightings_515573",
+        "to": "Haut-Rhin_0c01ce",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Haut-Rhin_0c01ce_huningue_ufo_evidenc_07b8af",
+        "to": "Haut-Rhin_0c01ce",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Sarthe_70aab9_sarthe_official_ufo_b00379",
+        "to": "Sarthe_70aab9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Sarthe_70aab9_sarthe_1954_ufo_wave_b7bb39",
+        "to": "Sarthe_70aab9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Aisne_b23b8e",
+        "to": "Aisne_b23b8e_aisne_geipan_files_39741a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Aisne_b23b8e_aisne_geipan_files_39741a",
+        "to": "Aisne_b23b8e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Aisne_b23b8e_soissons_1954_claim_dea6f0",
+        "to": "Aisne_b23b8e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alpes-de-Haute-Prove_b1f7bc",
+        "to": "Alpes-de-Haute-Prove_b1f7bc_valensole_evidence_e_c04290",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alpes-de-Haute-Prove_b1f7bc_meyronnes_volx_geipa_f4260c",
+        "to": "Alpes-de-Haute-Prove_b1f7bc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alpes-de-Haute-Prove_b1f7bc_meyronnes_volx_geipa_f4260c",
+        "to": "Alpes-de-Haute-Prove_b1f7bc_valensole_evidence_e_c04290",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alpes-de-Haute-Prove_b1f7bc_valensole_evidence_e_c04290",
+        "to": "Alpes-de-Haute-Prove_b1f7bc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Hautes-Alpes_6bdcb1",
+        "to": "Hautes-Alpes_6bdcb1_geipan_record_patter_8a6847",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Hautes-Alpes_6bdcb1_tallard_2013_flap_f21378",
+        "to": "Hautes-Alpes_6bdcb1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Hautes-Alpes_6bdcb1_geipan_record_patter_8a6847",
+        "to": "Hautes-Alpes_6bdcb1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alpes-Maritimes_efe25c_riviera_cases_reasse_c5843c",
+        "to": "Alpes-Maritimes_efe25c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Alpes-Maritimes_efe25c_riviera_coastal_misi_30d7e0",
+        "to": "Alpes-Maritimes_efe25c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Aude_f0dc3d",
+        "to": "Aude_f0dc3d_port_la_nouvelle_198_a49e17",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bouches-du-Rhone_a97972",
+        "to": "Bouches-du-Rhone_a97972_martigues_etang_ufo_8ab8de",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Calvados_b13668",
+        "to": "Calvados_b13668_caen_carpiquet_1973_cd5e28",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Calvados_b13668_caen_carpiquet_1973_cd5e28",
+        "to": "Calvados_b13668",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Calvados_b13668_official_calvados_ca_4d1e20",
+        "to": "Calvados_b13668",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cantal_202658",
+        "to": "Cantal_202658_cussac_encounter_evi_0ba4ac",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cantal_202658_cantal_explained_sig_973248",
+        "to": "Cantal_202658",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cantal_202658_cantal_explained_sig_973248",
+        "to": "Cantal_202658_cussac_encounter_evi_0ba4ac",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cantal_202658_cussac_encounter_evi_0ba4ac",
+        "to": "Cantal_202658",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Charente_8acfde",
+        "to": "Charente_8acfde_cognac_radar_echoes_d41c02",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Charente_8acfde_angouleme_ruffec_cas_00c2fa",
+        "to": "Charente_8acfde",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Charente-Maritime_ed3a6b_1954_saucer_wave_e31ba3",
+        "to": "Charente-Maritime_ed3a6b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Charente-Maritime_ed3a6b_royan_cylinder_verdi_a000a6",
+        "to": "Charente-Maritime_ed3a6b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Corse-du-Sud_8217c3",
+        "to": "Corse-du-Sud_8217c3_official_ufo_record_17fbba",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Corse-du-Sud_8217c3_official_ufo_record_17fbba",
+        "to": "Corse-du-Sud_8217c3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Corse-du-Sud_8217c3_zonza_unresolved_sig_917414",
+        "to": "Corse-du-Sud_8217c3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Haute-Corse_b2c532",
+        "to": "Haute-Corse_b2c532_geipan_records_unres_b1da58",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Haute-Corse_b2c532_aircraft_misidentifi_91c807",
+        "to": "Haute-Corse_b2c532",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Haute-Corse_b2c532_geipan_records_unres_b1da58",
+        "to": "Haute-Corse_b2c532",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Creuse_73fb1d_official_creuse_ufo_c3f6dd",
+        "to": "Creuse_73fb1d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Creuse_73fb1d_alleyrat_humanoid_en_f484fa",
+        "to": "Creuse_73fb1d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Doubs_70fb5f_geipan_doubs_files_59c5b2",
+        "to": "Doubs_70fb5f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Doubs_70fb5f_doubs_solved_sightin_d06205",
+        "to": "Doubs_70fb5f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Eure-et-Loir_aac377",
+        "to": "Eure-et-Loir_aac377_authon_venus_case_7c1114",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Eure-et-Loir_aac377_authon_venus_case_7c1114",
+        "to": "Eure-et-Loir_aac377",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Eure-et-Loir_aac377_reports_over_time_527c9e",
+        "to": "Eure-et-Loir_aac377",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Gard_40724c",
+        "to": "Gard_40724c_gard_ufo_explanation_7b6559",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Haute-Garonne_34cc0a",
+        "to": "Haute-Garonne_34cc0a_sainte_foy_unresolve_a38e86",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Haute-Garonne_34cc0a_geipan_case_reassess_0e9117",
+        "to": "Haute-Garonne_34cc0a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Haute-Garonne_34cc0a_sainte_foy_unresolve_a38e86",
+        "to": "Haute-Garonne_34cc0a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Gironde_99a85b",
+        "to": "Gironde_99a85b_gironde_official_rec_8b918f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Gironde_99a85b_gujan_mestras_case_a182ba",
+        "to": "Gironde_99a85b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Gironde_99a85b_gironde_official_rec_8b918f",
+        "to": "Gironde_99a85b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Gironde_99a85b_gironde_official_rec_8b918f",
+        "to": "Gironde_99a85b_gujan_mestras_case_a182ba",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Herault_0fa4db",
+        "to": "Herault_0fa4db_official_ufo_files_98c8b0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Ille-et-Vilaine_a0a684",
+        "to": "Ille-et-Vilaine_a0a684_1990_rocket_reentry_5c81de",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Ille-et-Vilaine_a0a684_1990_rocket_reentry_5c81de",
+        "to": "Ille-et-Vilaine_a0a684",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Ille-et-Vilaine_a0a684_unresolved_noyal_etr_6fd046",
+        "to": "Ille-et-Vilaine_a0a684",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Indre_4b1413_unresolved_issoudun_6c6a70",
+        "to": "Indre_4b1413",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Indre_4b1413_indre_likely_explana_0929ba",
+        "to": "Indre_4b1413",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Indre-et-Loire_b45e62_geipan_explained_sig_21e1da",
+        "to": "Indre-et-Loire_b45e62",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Indre-et-Loire_b45e62_marcilly_encounter_h_90ef48",
+        "to": "Indre-et-Loire_b45e62",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Landes_7a79d9_cazeres_unresolved_c_3d0817",
+        "to": "Landes_7a79d9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Landes_7a79d9_explained_and_weak_c_af5c59",
+        "to": "Landes_7a79d9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Loir-et-Cher_7a21fd",
+        "to": "Loir-et-Cher_7a21fd_1990_rocket_reentry_5c81de",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Loir-et-Cher_7a21fd",
+        "to": "Loir-et-Cher_7a21fd_ternay_forestry_expl_a678b7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Loir-et-Cher_7a21fd_1990_rocket_reentry_5c81de",
+        "to": "Loir-et-Cher_7a21fd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Loir-et-Cher_7a21fd_ternay_forestry_expl_a678b7",
+        "to": "Loir-et-Cher_7a21fd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Loire_9faa19_loire_1954_ufo_stori_f477c1",
+        "to": "Loire_9faa19",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Loire_9faa19_loire_geipan_explana_91a382",
+        "to": "Loire_9faa19",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Haute-Loire_12edf0_geipan_haute_loire_c_e4c19d",
+        "to": "Haute-Loire_12edf0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Haute-Loire_12edf0_haute_loire_1954_wav_d0248d",
+        "to": "Haute-Loire_12edf0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Loiret_6d08aa_a10_unresolved_sight_a16fc9",
+        "to": "Loiret_6d08aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Loiret_6d08aa_loiret_explained_sig_5d9565",
+        "to": "Loiret_6d08aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Lot-et-Garonne_6df799",
+        "to": "Lot-et-Garonne_6df799_unresolved_casteljal_2b7e7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Lot-et-Garonne_6df799_historic_wave_lachap_2e85bd",
+        "to": "Lot-et-Garonne_6df799",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Lot-et-Garonne_6df799_unresolved_casteljal_2b7e7e",
+        "to": "Lot-et-Garonne_6df799",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Lozere_e8b6da",
+        "to": "Lozere_e8b6da_grandrieu_flare_case_5f6da9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Maine-et-Loire_19238f_late_1970s_sighting_f33215",
+        "to": "Maine-et-Loire_19238f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Maine-et-Loire_19238f_official_explanation_9e50c7",
+        "to": "Maine-et-Loire_19238f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Manche_e44581_manche_reports_and_e_ff7d4a",
+        "to": "Manche_e44581",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Manche_e44581_saint_lo_2012_lights_ea45ca",
+        "to": "Manche_e44581",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Marne_763128",
+        "to": "Marne_763128_marne_geipan_classif_a9c65a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Marne_763128_broyes_sommesous_veh_ed28dc",
+        "to": "Marne_763128",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Marne_763128_marne_geipan_classif_a9c65a",
+        "to": "Marne_763128",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Haute-Marne_12dda3",
+        "to": "Haute-Marne_12dda3_saint_dizier_lights_403696",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Haute-Marne_12dda3_saint_dizier_lights_403696",
+        "to": "Haute-Marne_12dda3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Haute-Marne_12dda3_explained_haute_marn_3e93c0",
+        "to": "Haute-Marne_12dda3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Mayenne_6ca058_official_ufo_files_98c8b0",
+        "to": "Mayenne_6ca058",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Mayenne_6ca058_meral_landing_claim_7edfbc",
+        "to": "Mayenne_6ca058",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Mayenne_6ca058_meral_landing_claim_7edfbc",
+        "to": "Mayenne_6ca058_official_ufo_files_98c8b0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Meurthe-et-Moselle_cbfe8a",
+        "to": "Meurthe-et-Moselle_cbfe8a_toul_longwy_1954_wav_e4a1ea",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Meurthe-et-Moselle_cbfe8a",
+        "to": "Meurthe-et-Moselle_cbfe8a_amaranth_case_eviden_0801e6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Meurthe-et-Moselle_cbfe8a_amaranth_case_eviden_0801e6",
+        "to": "Meurthe-et-Moselle_cbfe8a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Meurthe-et-Moselle_cbfe8a_toul_longwy_1954_wav_e4a1ea",
+        "to": "Meurthe-et-Moselle_cbfe8a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Meuse_6ed97d_meuse_1976_ufo_clust_31e803",
+        "to": "Meuse_6ed97d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Meuse_6ed97d_meuse_lantern_ufo_ca_a9e73a",
+        "to": "Meuse_6ed97d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Morbihan_61a3f8_morbihan_geipan_recl_73078e",
+        "to": "Morbihan_61a3f8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Morbihan_61a3f8_pontivy_1954_ufo_wav_214a1f",
+        "to": "Morbihan_61a3f8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Moselle_b6f07c",
+        "to": "Moselle_b6f07c_moselle_1954_ufo_wav_cfdafb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Moselle_b6f07c_moselle_1954_ufo_wav_cfdafb",
+        "to": "Moselle_b6f07c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Moselle_b6f07c_moselle_geipan_files_2118c6",
+        "to": "Moselle_b6f07c",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}

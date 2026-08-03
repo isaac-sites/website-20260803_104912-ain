@@ -1,0 +1,1575 @@
+---
+level: 1
+basename: Alpes-de-Haute-Prove_b1f7bc
+child_basenames:
+- Alpes-de-Haute-Prove_b1f7bc_index
+- Alpes-de-Haute-Prove_b1f7bc_meyronnes_volx_geipa_f4260c
+- Alpes-de-Haute-Prove_b1f7bc_valensole_evidence_e_c04290
+sibling_basenames:
+- Ain_fc7da0
+- Aisne_b23b8e
+- Allier_716dd6
+- Alpes-Maritimes_efe25c
+- Ardeche_5d1281
+- Ardennes_627650
+- Ariege_996ae1
+- Aube_200d42
+- Aude_f0dc3d
+- Aveyron_fecfb2
+- Bas-Rhin_ad02bb
+- Bouches-du-Rhone_a97972
+- Calvados_b13668
+- Cantal_202658
+- Charente-Maritime_ed3a6b
+- Charente_8acfde
+- Cher_614205
+- Correze_3e9490
+- Corse-du-Sud_8217c3
+- Cote-d_Or_6e3ab6
+- Cotes-d_Armor_789c20
+- Creuse_73fb1d
+- Deux-Sevres_ac4bfa
+- Dordogne_e9b4bd
+- Doubs_70fb5f
+- Drome_06f265
+- Essonne_7f5f7b
+- Eure-et-Loir_aac377
+- Eure_4abf79
+- Finistere_3f7bbd
+- Gard_40724c
+- Gers_631401
+- Gironde_99a85b
+- Haut-Rhin_0c01ce
+- Haute-Corse_b2c532
+- Haute-Garonne_34cc0a
+- Haute-Loire_12edf0
+- Haute-Marne_12dda3
+- Haute-Saone_0bdc4b
+- Haute-Savoie_3824c4
+- Haute-Vienne_e44500
+- Hautes-Alpes_6bdcb1
+- Hautes-Pyrenees_f6aaeb
+- Hauts-de-Seine_2ccee8
+- Herault_0fa4db
+- Ille-et-Vilaine_a0a684
+- Indre-et-Loire_b45e62
+- Indre_4b1413
+- Isere_7db861
+- Jura_f17a56
+- Landes_7a79d9
+- Loir-et-Cher_7a21fd
+- Loire-Atlantique_ea6d7d
+- Loire_9faa19
+- Loiret_6d08aa
+- Lot-et-Garonne_6df799
+- Lot_4a2119
+- Lozere_e8b6da
+- Maine-et-Loire_19238f
+- Manche_e44581
+- Marne_763128
+- Mayenne_6ca058
+- Meurthe-et-Moselle_cbfe8a
+- Meuse_6ed97d
+- Morbihan_61a3f8
+- Moselle_b6f07c
+- Nievre_759cd1
+- Nord_dc64d1
+- Oise_3dde58
+- Orne_ab6076
+- Paris_22390a
+- Pas-de-Calais_0ab2d0
+- Puy-de-Dome_53d1d1
+- Pyrenees-Atlantiques_126d41
+- Pyrenees-Orientales_fc815c
+- Rhone_ae79ce
+- Saone-et-Loire_d3ab2b
+- Sarthe_70aab9
+- Savoie_f57b8f
+- Seine-Maritime_c89706
+- Seine-Saint-Denis_af7f54
+- Seine-et-Marne_d85b24
+- Somme_f38fb9
+- Tarn-et-Garonne_a4f8ba
+- Tarn_a5fb02
+- Territoire_de_Belfor_8990a1
+- Val-d_Oise_9a8e5a
+- Val-de-Marne_555905
+- Var_5cea87
+- Vaucluse_17bae7
+- Vendee_da066b
+- Vienne_f0511b
+- Vosges_53546a
+- Yonne_77d4a6
+- Yvelines_722ea1
+tags:
+- alpes-de-haute-provence
+keywords:
+- alpes-de-haute-provence
+affiliate_category: alpes-de-haute-provence
+show_ads: true
+description: 'Alpes-de-Haute-Provence occupies an unusually prominent place in French UFO history because of one event: the alleged Valensole encounter of 1 July 1965.'
+hero_summary: 'Alpes-de-Haute-Provence occupies an unusually prominent place in French UFO history because of one event: the alleged Valensole encounter of 1 July 1965. Farmer Maurice Masse reported seeing a compact landed craft, two small occupants and a beam-like device that temporarily immobilised him.'
+layout: default
+permalink: /alpes-de-haute-provence/
+nav_short_title: Why Valensole Still Defines a Department's UFO History
+title: Why Valensole Still Defines a Department's UFO History
+title_full: Why Valensole Still Defines a Department's UFO History
+display_title_short: Why Valensole Still Defines a Department's UFO History
+display_title: Why Valensole Still Defines a Department's UFO History
+heading_title: Why Valensole Still Defines a Department's UFO History
+page_heading_title: Why Valensole Still Defines a Department's UFO History
+source_count: 107
+infographic_count: 3
+page_website_name: UFOs of Alpes de Haute Provence
+page_banner_line: Evidence-led accounts of the department's most debated UFO reports.
+site_website_name: UFOs of Alpes de Haute Provence
+site_banner_line: Evidence-led accounts of the department's most debated UFO reports.
+site_visual_identity: signal-cobalt
+site_visual_identity_confidence: high
+site_visual_motif: horizon
+site_typography_tone: editorial
+site_image_description: A lavender field near Valensole with a shallow disturbed patch in the soil, distant hills, and a small oval object hovering low...
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  report_details: Report details
+  report_actions: Report actions
+  sources: sources
+  graphics: graphics
+  share_page: Share
+  copy_link: Copy link
+  download_social_image: Download image
+  cite_page: Cite page
+  print_save: Print / save
+  share_opened: Share dialog opened
+  share_unavailable: Sharing unavailable; link copied
+  social_image_downloaded: Image download started
+  link_copied: Link copied
+  citation_copied: Citation copied
+  copy_failed: Copy failed
+  topics: Topics
+  explore_another_branch: Explore another branch
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-29 09:18:42'
+sibling_links:
+- basename: Alpes-Maritimes_efe25c
+  title: Alpes Maritimes UFOs
+  permalink: /alpes-maritimes/
+  short_title: Alpes Maritimes UFOs
+- basename: Ardeche_5d1281
+  title: Ardeche UFOs
+  permalink: /ardeche-ufos-between-mystery-and/
+  short_title: Ardeche UFOs
+- basename: Aveyron_fecfb2
+  title: Aveyron UFOs
+  permalink: /aveyrons-ufo-cases-between-mystery-and/
+  short_title: Aveyron UFOs
+- basename: Calvados_b13668
+  title: Calvados UFOs
+  permalink: /calvados-ufos-between-legend-and/
+  short_title: Calvados UFOs
+- basename: Cantal_202658
+  title: Cantal UFOs
+  permalink: /cantals-ufo-story-beyond-the-mystery/
+  short_title: Cantal UFOs
+- basename: Charente-Maritime_ed3a6b
+  title: Charente Maritime UFOs
+  permalink: /charente-maritime/
+  short_title: Charente Maritime UFOs
+- basename: Corse-du-Sud_8217c3
+  title: Corse du Sud UFOs
+  permalink: /corse-du-sud/
+  short_title: Corse du Sud UFOs
+- basename: Eure_4abf79
+  title: Eure
+  permalink: /eures-ufo-stories-between-legend-and/
+  short_title: Eure
+- basename: Creuse_73fb1d
+  title: Creuse UFOs
+  permalink: /from-humanoids-to-airliners-in-creuse/
+  short_title: Creuse UFOs
+- basename: Haute-Loire_12edf0
+  title: Haute Loire UFOs
+  permalink: /haute-loire/
+  short_title: Haute Loire UFOs
+- basename: Haute-Marne_12dda3
+  title: Haute Marne UFOs
+  permalink: /haute-marnes-ufo-record-under-the/
+  short_title: Haute Marne UFOs
+- basename: Haute-Saone_0bdc4b
+  title: Haute Saone UFOs
+  permalink: /haute-saone/
+  short_title: Haute Saone UFOs
+- basename: Ariege_996ae1
+  title: Ariege UFOs
+  permalink: /how-arieges-ufo-mysteries-changed-with/
+  short_title: Ariege UFOs
+- basename: Morbihan_61a3f8
+  title: Morbihan UFOs
+  permalink: /how-morbihans-ufo-mysteries-changed-over/
+  short_title: Morbihan UFOs
+- basename: Seine-Saint-Denis_af7f54
+  title: Seine Saint Denis UFOs
+  permalink: /how-seine-saint-denis-turned-ufos-into/
+  short_title: Seine Saint Denis UFOs
+- basename: Deux-Sevres_ac4bfa
+  title: Deux Sevres UFOs
+  permalink: /how-strong-is-the-deux-sevres-ufo-record/
+  short_title: Deux Sevres UFOs
+- basename: Indre-et-Loire_b45e62
+  title: Touraine UFOs
+  permalink: /indre-et-loire/
+  short_title: Touraine UFOs
+- basename: Jura_f17a56
+  title: Jura UFOs
+  permalink: /juras-ufo-stories-between-legend-and/
+  short_title: Jura UFOs
+- basename: Loir-et-Cher_7a21fd
+  title: Loir et Cher UFOs
+  permalink: /loir-et-cher/
+  short_title: Loir et Cher UFOs
+- basename: Maine-et-Loire_19238f
+  title: Maine et Loire UFOs
+  permalink: /maine-et-loires-ufo-record-without-the/
+  short_title: Maine et Loire UFOs
+- basename: Mayenne_6ca058
+  title: Mayenne UFOs
+  permalink: /mayennes-ufo-stories-under-the-evidence/
+  short_title: Mayenne UFOs
+- basename: Meurthe-et-Moselle_cbfe8a
+  title: Meurthe et Moselle UFOs
+  permalink: /meurthe-et-moselle/
+  short_title: Meurthe et Moselle UFOs
+- basename: Nord_dc64d1
+  title: Nord UFOs
+  permalink: /nords-ufo-history-between-mystery-and/
+  short_title: Nord UFOs
+- basename: Puy-de-Dome_53d1d1
+  title: Puy de Dome UFOs
+  permalink: /puy-de-dome/
+  short_title: Puy de Dome UFOs
+- basename: Sarthe_70aab9
+  title: Sarthe UFOs
+  permalink: /sarthe/
+  short_title: Sarthe UFOs
+- basename: Cher_614205
+  title: Cher UFOs
+  permalink: /strange-lights-and-changing-verdicts/
+  short_title: Cher UFOs
+- basename: Pyrenees-Atlantiques_126d41
+  title: Pyrenees Atlantiques UFOs
+  permalink: /strange-lights-over-pyrenees-atlantiques/
+  short_title: Pyrenees Atlantiques UFOs
+- basename: Tarn-et-Garonne_a4f8ba
+  title: Tarn et Garonne UFOs
+  permalink: /tarn-et-garonne/
+  short_title: Tarn et Garonne UFOs
+- basename: Tarn_a5fb02
+  title: Tarn UFOs
+  permalink: /tarns-ufo-stories-between-mystery-and/
+  short_title: Tarn UFOs
+- basename: Territoire_de_Belfor_8990a1
+  title: Belfort UFOs
+  permalink: /territoire-de-belfort/
+  short_title: Belfort UFOs
+- basename: Val-d_Oise_9a8e5a
+  title: Val d'Oise UFOs
+  permalink: /val-d-oise/
+  short_title: Val d'Oise UFOs
+- basename: Vienne_f0511b
+  title: Vienne UFOs
+  permalink: /vienne/
+  short_title: Vienne UFOs
+- basename: Aube_200d42
+  title: Aube UFOs
+  permalink: /what-aubes-ufo-record-actually-reveals/
+  short_title: Aube UFOs
+- basename: Drome_06f265
+  title: Drome UFOs
+  permalink: /what-dromes-ufo-record-actually-reveals/
+  short_title: Drome UFOs
+- basename: Haute-Corse_b2c532
+  title: Haute Corse UFOs
+  permalink: /what-haute-corses-ufo-files-actually/
+  short_title: Haute Corse UFOs
+- basename: Landes_7a79d9
+  title: Landes UFOs
+  permalink: /what-landes-ufo-records-actually-reveal/
+  short_title: Landes UFOs
+- basename: Manche_e44581
+  title: Manche UFO Files
+  permalink: /what-manches-ufo-record-actually-shows/
+  short_title: Manche UFO Files
+- basename: Meuse_6ed97d
+  title: Meuse UFOs
+  permalink: /what-meuses-ufo-record-actually-reveals/
+  short_title: Meuse UFOs
+- basename: Nievre_759cd1
+  title: Nievre UFOs
+  permalink: /what-nievres-ufo-files-actually-reveal/
+  short_title: Nievre UFOs
+- basename: Saone-et-Loire_d3ab2b
+  title: Saone et Loire UFOs
+  permalink: /what-saone-et-loires-ufo-files-actually/
+  short_title: Saone et Loire UFOs
+- basename: Val-de-Marne_555905
+  title: Val de Marne UFOs
+  permalink: /what-val-de-marnes-ufo-files-actually/
+  short_title: Val de Marne UFOs
+- basename: Yvelines_722ea1
+  title: Yvelines UFOs
+  permalink: /what-yvelines-ufo-reports-actually/
+  short_title: Yvelines UFOs
+- basename: Vendee_da066b
+  title: Vendee UFO Files
+  permalink: /when-strange-lights-crossed-the-vendee/
+  short_title: Vendee UFO Files
+- basename: Aisne_b23b8e
+  title: Aisne UFO Files
+  permalink: /which-aisne-ufo-stories-withstand/
+  short_title: Aisne UFO Files
+- basename: Cotes-d_Armor_789c20
+  title: Cotes d'Armor UFOs
+  permalink: /which-cotes-darmor-ufo-cases-still-defy/
+  short_title: Cotes d'Armor UFOs
+- basename: Ille-et-Vilaine_a0a684
+  title: Ille et Vilaine UFOs
+  permalink: /which-ille-et-vilaine-ufo-cases-still/
+  short_title: Ille et Vilaine UFOs
+- basename: Loire-Atlantique_ea6d7d
+  title: Loire Atlantique
+  permalink: /which-loire-atlantique-ufo-cases-still/
+  short_title: Loire Atlantique
+- basename: Loire_9faa19
+  title: Loire UFOs
+  permalink: /which-loire-ufo-stories-survived/
+  short_title: Loire UFOs
+- basename: Loiret_6d08aa
+  title: Loiret UFOs
+  permalink: /which-loiret-ufo-cases-still-resist/
+  short_title: Loiret UFOs
+- basename: Lot-et-Garonne_6df799
+  title: Lot et Garonne UFOs
+  permalink: /which-lot-et-garonne-ufo-cases-still/
+  short_title: Lot et Garonne UFOs
+- basename: Lot_4a2119
+  title: Lot UFOs
+  permalink: /which-lot-ufo-stories-survive-close/
+  short_title: Lot UFOs
+- basename: Moselle_b6f07c
+  title: Moselle UFOs
+  permalink: /which-moselle-ufo-cases-still-resist/
+  short_title: Moselle UFOs
+- basename: Orne_ab6076
+  title: Orne UFOs
+  permalink: /which-orne-ufo-cases-still-resist/
+  short_title: Orne UFOs
+- basename: Pas-de-Calais_0ab2d0
+  title: Pas de Calais UFOs
+  permalink: /which-pas-de-calais-ufo-cases-still/
+  short_title: Pas de Calais UFOs
+- basename: Pyrenees-Orientales_fc815c
+  title: Pyrenees Orientales UFOs
+  permalink: /which-pyrenees-orientales-ufo-cases/
+  short_title: Pyrenees Orientales UFOs
+- basename: Seine-et-Marne_d85b24
+  title: Seine et Marne UFOs
+  permalink: /which-seine-et-marne-ufo-cases-still/
+  short_title: Seine et Marne UFOs
+- basename: Ain_fc7da0
+  title: Ain UFO Files
+  permalink: /which-ufo-cases-in-ain-still-resist/
+  short_title: Ain UFO Files
+- basename: Allier_716dd6
+  title: Allier UFOs
+  permalink: /why-alliers-strangest-sightings-changed/
+  short_title: Allier UFOs
+- basename: Ardennes_627650
+  title: Ardennes UFO Files
+  permalink: /why-ardennes-ufo-stories-changed-under/
+  short_title: Ardennes UFO Files
+- basename: Aude_f0dc3d
+  title: Aude UFO Files
+  permalink: /why-audes-best-known-ufo-cases-remain/
+  short_title: Aude UFO Files
+- basename: Bas-Rhin_ad02bb
+  title: Bas Rhin UFOs
+  permalink: /why-bas-rhins-ufo-record-still-divides/
+  short_title: Bas Rhin UFOs
+- basename: Bouches-du-Rhone_a97972
+  title: Bouches du Rhone UFOs
+  permalink: /why-bouches-du-rhone-produces-so-many/
+  short_title: Bouches du Rhone UFOs
+- basename: Charente_8acfde
+  title: Charente UFOs
+  permalink: /why-charentes-ufo-cases-remain/
+  short_title: Charente UFOs
+- basename: Correze_3e9490
+  title: Correze UFO Files
+  permalink: /why-correze-matters-in-french-ufo/
+  short_title: Correze UFO Files
+- basename: Cote-d_Or_6e3ab6
+  title: Cote d'Or UFOs
+  permalink: /why-cote-dor-became-a-french-ufo/
+  short_title: Cote d'Or UFOs
+- basename: Dordogne_e9b4bd
+  title: Dordogne UFOs
+  permalink: /why-dordognes-ufo-mysteries-often-faded/
+  short_title: Dordogne UFOs
+- basename: Doubs_70fb5f
+  title: Doubs UFOs
+  permalink: /why-doubs-ufo-reports-became-less/
+  short_title: Doubs UFOs
+- basename: Essonne_7f5f7b
+  title: Essonne UFOs
+  permalink: /why-essonnes-ufo-cases-often-defy-first/
+  short_title: Essonne UFOs
+- basename: Eure-et-Loir_aac377
+  title: Eure et Loir UFOs
+  permalink: /why-eure-et-loirs-ufo-mysteries-often/
+  short_title: Eure et Loir UFOs
+- basename: Finistere_3f7bbd
+  title: Finistere UFOs
+  permalink: /why-finisteres-strangest-ufo-cases/
+  short_title: Finistere UFOs
+- basename: Gard_40724c
+  title: Gard UFO Files
+  permalink: /why-gards-strangest-lights-rarely-stayed/
+  short_title: Gard UFO Files
+- basename: Gers_631401
+  title: Gers UFOs
+  permalink: /why-gers-ufo-reports-often-change-with/
+  short_title: Gers UFOs
+- basename: Gironde_99a85b
+  title: Gironde UFOs
+  permalink: /why-girondes-strangest-ufo-cases-still/
+  short_title: Gironde UFOs
+- basename: Haut-Rhin_0c01ce
+  title: Haut Rhin
+  permalink: /why-haut-rhins-strangest-sightings-still/
+  short_title: Haut Rhin
+- basename: Haute-Garonne_34cc0a
+  title: Haute Garonne UFOs
+  permalink: /why-haute-garonnes-strangest-sightings/
+  short_title: Haute Garonne UFOs
+- basename: Haute-Savoie_3824c4
+  title: Haute Savoie UFOs
+  permalink: /why-haute-savoies-ufo-stories-rarely/
+  short_title: Haute Savoie UFOs
+- basename: Haute-Vienne_e44500
+  title: Haute Vienne UFOs
+  permalink: /why-haute-viennes-ufo-record-still/
+  short_title: Haute Vienne UFOs
+- basename: Hautes-Alpes_6bdcb1
+  title: Hautes Alpes UFOs
+  permalink: /why-hautes-alpes-ufo-reports-rarely/
+  short_title: Hautes Alpes UFOs
+- basename: Hautes-Pyrenees_f6aaeb
+  title: Hautes Pyrenees UFOs
+  permalink: /why-hautes-pyrenees-ufo-cases-rarely/
+  short_title: Hautes Pyrenees UFOs
+- basename: Herault_0fa4db
+  title: Herault UFO Files
+  permalink: /why-heraults-ufo-record-looks-stranger/
+  short_title: Herault UFO Files
+- basename: Indre_4b1413
+  title: Indre UFOs
+  permalink: /why-indres-ufo-record-is-more-revealing/
+  short_title: Indre UFOs
+- basename: Isere_7db861
+  title: Isere UFOs
+  permalink: /why-iseres-strangest-sightings-rarely/
+  short_title: Isere UFOs
+- basename: Lozere_e8b6da
+  title: Lozere UFO Files
+  permalink: /why-lozeres-strangest-ufo-reports/
+  short_title: Lozere UFO Files
+- basename: Marne_763128
+  title: Marne UFOs
+  permalink: /why-marnes-strangest-ufo-cases-remain/
+  short_title: Marne UFOs
+- basename: Oise_3dde58
+  title: Oise UFOs
+  permalink: /why-oise-keeps-producing-convincing-ufo/
+  short_title: Oise UFOs
+- basename: Hauts-de-Seine_2ccee8
+  title: Hauts de Seine UFOs
+  permalink: /why-one-hauts-de-seine-ufo-case-still/
+  short_title: Hauts de Seine UFOs
+- basename: Paris_22390a
+  title: Paris UFO Files
+  permalink: /why-paris-ufo-cases-rarely-stay/
+  short_title: Paris UFO Files
+- basename: Rhone_ae79ce
+  title: Rhone UFOs
+  permalink: /why-rhones-ufo-mysteries-rarely-stay/
+  short_title: Rhone UFOs
+- basename: Savoie_f57b8f
+  title: Savoie UFOs
+  permalink: /why-savoies-ufo-mysteries-usually-fade/
+  short_title: Savoie UFOs
+- basename: Seine-Maritime_c89706
+  title: Seine Maritime UFOs
+  permalink: /why-seine-maritimes-strangest-sightings/
+  short_title: Seine Maritime UFOs
+- basename: Somme_f38fb9
+  title: Somme UFO Files
+  permalink: /why-sommes-ufo-record-still-resists-easy/
+  short_title: Somme UFO Files
+- basename: Var_5cea87
+  title: Var UFOs
+  permalink: /why-vars-ufo-reputation-rests-on-two/
+  short_title: Var UFOs
+- basename: Vaucluse_17bae7
+  title: Vaucluse UFOs
+  permalink: /why-vaucluses-strangest-sightings-still/
+  short_title: Vaucluse UFOs
+- basename: Vosges_53546a
+  title: Vosges UFOs
+  permalink: /why-vosges-ufo-reports-rarely-stay/
+  short_title: Vosges UFOs
+- basename: Yonne_77d4a6
+  title: Yonne UFOs
+  permalink: /why-yonnes-ufo-history-looks-stranger/
+  short_title: Yonne UFOs
+child_links:
+- basename: Alpes-de-Haute-Prove_b1f7bc_meyronnes_volx_geipa_f4260c
+  title: Other Cases | Alpes de Haute Provence
+  permalink: /other-cases/
+  short_title: Other Cases
+  heading_title: Which Other Local UFO Reports Remain Unresolved?
+- basename: Alpes-de-Haute-Prove_b1f7bc_valensole_evidence_e_c04290
+  title: Valensole | Alpes de Haute Provence
+  permalink: /valensole/
+  short_title: Valensole
+  heading_title: Did the Valensole Evidence Survive Serious Scrutiny?
+has_inline_related_reports_panel: true
+next_link:
+  basename: Alpes-Maritimes_efe25c
+  title: Alpes Maritimes UFOs
+  permalink: /alpes-maritimes/
+  short_title: Alpes Maritimes UFOs
+header:
+  og_image: /assets/images/Alpes-de-Haute-Prove_b1f7bc-overview-social-card.jpg
+  preview_image: /assets/images/Alpes-de-Haute-Prove_b1f7bc-overview.webp
+share_hook: 'Alpes-de-Haute-Provence occupies an unusually prominent place in French UFO history because of one event: the alleged Valensole encounter of 1 July...'
+image: /assets/images/Alpes-de-Haute-Prove_b1f7bc-overview-social-card.jpg
+---
+
+## Introduction
+
+Alpes-de-Haute-Provence occupies an unusually prominent place in French UFO history because of one event: the alleged [Valensole]({{ 'valensole/' | relative_url }}) encounter of 1 July 1965. Farmer Maurice Masse reported seeing a compact landed craft, two small occupants and a beam-like device that temporarily immobilised him. Gendarmes recorded marks in the soil, and the case was later placed in the unexplained category by France’s official UFO investigation service. Yet the surviving evidence rests chiefly on one witness, belated specialist investigation and disputed physical traces. Military-helicopter activity, misperception and fabrication have all been proposed without conclusively resolving the story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1965-07-00050" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">GEIPANle GEPANNo information is available for this page</span><span class="citation-popover-snippet">GEIPANle GEPANNo information is available for this page</span></span></span>
+
+
+
+<img src="{{ "/assets/images/Alpes-de-Haute-Prove_b1f7bc-overview.webp" | relative_url }}" alt="Overview image for Alpes de Haute Provence" loading="eager" decoding="sync" fetchpriority="high">
+
+The department’s wider record is less dramatic. Public GEIPAN data contain dozens of reports from places including Meyronnes, Volx, Les Mées, Sisteron, Barcelonnette and Digne-les-Bains, but most have been explained, judged probably explained or left undecidable because information is missing. Only Valensole and the much later Volx sighting stand out as officially unexplained cases in the current departmental dataset. That distinction matters: “unexplained” means that investigators could not identify a phenomenon from the available evidence, not that they confirmed an extraordinary vehicle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://carteovni.fr/departement/alpes-de-haute-provence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carteovni.fr">[carteovni.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carteovni.fr</span><span class="citation-popover-title">alpes de haute provence</span><span class="citation-popover-snippet">OVNI dans le Alpes-de-Haute-Provence (04) — CarteOvni.frToutes les observations d&#x27;OVNI dans le département Alpes-de-Haute-Provence (04)...</span></span></span>
+
+## Valensole: the department’s defining case
+
+Maurice Masse, a 41-year-old lavender farmer, said that he was working near Valensole early on 1 July 1965 when he heard a whistling sound. Approaching what he initially thought might be a helicopter, he reportedly saw an oval or rugby-ball-shaped object resting above the ground on several supports. Near it were two small figures. Masse said that one pointed a tube-like instrument towards him, after which he became unable to move until the figures entered the object and it departed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1965-07-00050" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">GEIPANle GEPANNo information is available for this page</span><span class="citation-popover-snippet">GEIPANle GEPANNo information is available for this page</span></span></span>
+
+Accounts published over the years vary in wording and detail. The object has been described as roughly the size of a Renault Dauphine, with a transparent upper section, a sliding opening and six leg-like supports around a central pivot. Masse consistently rejected the press label of “flying saucer” and later insisted that he knew what helicopters looked and sounded like. Nevertheless, the more elaborate versions familiar from books and documentaries should not automatically be treated as exact reproductions of his earliest statement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Rencontre_de_Valensole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rencontre de Valensole</span><span class="citation-popover-snippet">Rencontre de Valensole</span></span></span>
+
+
+
+<!-- HIERARCHY_NAV_START -->
+<aside class="related-reports" aria-label="Related pages">
+<h2>Follow this branch</h2>
+<div class="related-reports-grid">
+<section class="related-reports-section related-reports-section-closest">
+<h3>Closest pages</h3>
+<ul>
+<li><a href="{{ '/other-cases/' | relative_url }}"><span class="article-branch-link-short">Other Cases</span><span class="article-branch-link-heading">Which Other Local UFO Reports Remain Unresolved?</span></a></li>
+<li><a href="{{ '/valensole/' | relative_url }}"><span class="article-branch-link-short">Valensole</span><span class="article-branch-link-heading">Did the Valensole Evidence Survive Serious Scrutiny?</span></a></li>
+</ul>
+</section>
+</div>
+</aside>
+<!-- HIERARCHY_NAV_END -->
+
+The story spread rapidly through Valensole and then the national press. This speed is important for two opposing reasons. It brought gendarmes to the alleged site while traces could still be examined, but it also exposed the witness to journalists, investigators, believers and curious visitors before a controlled scientific inquiry could be organised. The case became a media event almost immediately rather than an incident preserved under laboratory conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Rencontre_de_Valensole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rencontre de Valensole</span><span class="citation-popover-snippet">Rencontre de Valensole</span></span></span>
+
+### What the gendarmes found
+
+Gendarmes recorded a depression or disturbed area at the location identified by Masse. Subsequent accounts referred to a central mark, radiating grooves and damaged vegetation. Claims were later made that lavender failed to grow normally at the spot and that soil samples showed an unusual calcium level, although no radioactivity was detected. Supporters regarded these features as possible landing traces or environmental effects from an unknown machine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1965-07-00050" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">GEIPANle GEPANNo information is available for this page</span><span class="citation-popover-snippet">GEIPANle GEPANNo information is available for this page</span></span></span>
+
+These traces are the principal reason Valensole is stronger than an ordinary distant-light report. They provide something beyond the witness’s recollection. They are not, however, proof that the reported craft produced them. The site was agricultural land, alternative causes were not comprehensively eliminated at the outset, and some of the more dramatic vegetation claims were documented or interpreted long after the event. No recovered component, photograph, instrument reading or independently measured flight path links the marks to an airborne object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Rencontre_de_Valensole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rencontre de Valensole</span><span class="citation-popover-snippet">Rencontre de Valensole</span></span></span>
+
+The timing of the formal UFO investigation is another limitation. France did not create GEPAN, the original CNES study group, until 1977, twelve years after the encounter. Its later assessment therefore depended heavily on gendarmerie papers, press material, subsequent interviews and retrospective examination rather than immediate scientific measurements. GEIPAN still lists Valensole as an unexplained case, but that classification records the failure to establish a satisfactory conventional account; it does not certify every detail in the accumulated narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[cnes.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">Open source on cnes.fr.</span></span></span>
+
+
+
+<img src="{{ "/assets/images/Alpes-de-Haute-Prove_b1f7bc-Illustration-1-dark.svg" | relative_url }}" alt="Alpes de Haute Provence illustration 1" data-theme-src-dark="{{ "/assets/images/Alpes-de-Haute-Prove_b1f7bc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alpes-de-Haute-Prove_b1f7bc-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## Helicopter, hoax or genuinely unresolved?
+
+The most persistent conventional explanation is a military helicopter. Exercise “Provence 65” was taking place in the region, and French Army light aviation used Alouette helicopters during the manoeuvres. Contemporary press reports said military sources considered an Alouette a likely explanation. An unfamiliar landing, turbine noise, crew members crouching near the aircraft and rotor downwash could conceivably have been transformed by distance, surprise and later retelling into Masse’s extraordinary description.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Rencontre_de_Valensole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rencontre de Valensole</span><span class="citation-popover-snippet">Rencontre de Valensole</span></span></span>
+
+This hypothesis fits the regional aviation context better than an extraterrestrial interpretation, but it has weaknesses. Masse said the machine had no rotor or blades and denied mistaking a helicopter. No publicly established flight record identifies a particular aircraft and crew at the field, while the alleged immobilisation and unusual occupants require additional psychological or narrative assumptions. A variation proposes an unauthorised American helicopter, but this has even less direct documentary support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Rencontre_de_Valensole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rencontre de Valensole</span><span class="citation-popover-snippet">Rencontre de Valensole</span></span></span>
+
+Other sceptical proposals focus on the ground rather than the sky. Marks may have resulted from agricultural equipment, including a liquid-fertiliser tank, and the damaged soil or vegetation may have had an ordinary farming cause. A deliberate story has also been suggested, possibly influenced by an earlier illustrated tale containing a landed saucer, small beings and a paralysing ray. Critics of that theory note that the similarities are incomplete and that there is no evidence Masse read the publication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Rencontre_de_Valensole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rencontre de Valensole</span><span class="citation-popover-snippet">Rencontre de Valensole</span></span></span>
+
+A more recent psychological interpretation argues that Masse may have encountered an ordinary military stimulus but experienced an acute dissociative or trauma-related reaction that altered his perception and movement. This offers a possible natural route to the sensation of paralysis without accusing him of conscious deceit. It remains a retrospective clinical hypothesis, however, formed without examining Masse at the time and dependent on contested reconstructions of his wartime experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/117891301/ANALYSE_CLINIQUE_RR3_de_VALENSOLE_partie1_vf5aca" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
+
+Valensole is therefore best described as unresolved but evidentially limited. The early gendarmerie involvement, named witness and physical marks distinguish it from a casual anecdote. Against that stand the absence of independent eyewitnesses to the central encounter, uncertainty over the traces, nearby military activity and decades of narrative embellishment. Later reporting has expanded the story’s cultural importance far more than it has strengthened its physical evidence.
+
+## The 1976 Meyronnes military reports
+
+The department’s clearest military-witness episode occurred around Meyronnes, in the upper Ubaye valley, on the nights of 8 and 9 December 1976. Several service personnel reported round objects moving slowly and silently from south-east to north-west. At a dog-handling unit roughly ten kilometres away, ten dogs were said to have howled unusually on the same nights. Another witness described a red light rising near the mountain ridges about six weeks earlier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1976-12-00367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+
+The authorities responded by establishing surveillance from 12 to 30 December, but no further phenomenon was reported. GEIPAN ultimately classified the case C, meaning that reliable information was insufficient for a firm determination. The multiple military witnesses make the incident more interesting than a solitary report, yet the observations lasted only seconds and produced no photographs, radar confirmation, precise angular measurements or securely established connection with the dogs’ behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1976-12-00367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+
+Mountain terrain complicates such cases. Lights from aircraft, vehicles, flares or astronomical objects can appear to move against dark ridgelines when distance and scale are unknown. Sound may also be blocked or redirected by relief. The Meyronnes file consequently shows the difference between an intriguing cluster and a robustly unexplained event: several people noticed something, but investigators lacked the data needed to establish what they had all seen.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zczcBLukQ6s" title="Meeting France&#x27;s UFO detectives • FRANCE 24 English" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 11:56">11:56</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer">Meeting France&#x27;s UFO detectives • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 48.3K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zczcBLukQ6s">Open on YouTube</a></p></div></div></div>
+
+## Volx: a short sighting that resisted identification
+
+On 8 August 2012, a witness lying on a terrace at Volx watched a dark object cross the starry sky for about five seconds. He described it as shaped like a weaver’s shuttle, brown-green with diffuse edges and a dark red circular feature in the centre. It travelled silently in a straight line from north-east to south-west, apparently occulting the stars behind it, with its long axis perpendicular to its direction of motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2012-08-08284" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+
+GEIPAN judged that the reported appearance and motion did not fit well with a passive object carried by the recorded wind. Investigators also considered its apparent speed, altitude or size difficult to reconcile with a conventional powered craft, particularly because no sound was heard. They classified it D1: a moderately or strongly supported report that remained unidentified after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2012-08-08284" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+
+The classification should be weighed against the limitations stated in the same file. There was one witness, no photograph, no radar or instrument record and only a five-second observation. Estimates of size, altitude and speed are inseparable when an object’s distance is unknown: something small and close may resemble something large and far away. The report is therefore a legitimate unresolved observation, but it offers too little independent evidence to establish an exotic craft or exceptional performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/cas/2012-08-08284" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+
+Volx is useful precisely because it lacks the cultural baggage of Valensole. It shows what an unexplained departmental case usually looks like in practice: a sincere, fairly detailed account that investigators cannot confidently match to a known phenomenon, but which contains too few measurements to support a stronger conclusion.
+
+## Les Mées and the problem of missing information
+
+At Les Mées on 25 August 2011, a witness reported several lights that appeared to regroup into a single stationary luminous point. Through a telescope, he briefly perceived a rotating triangular form, a darker mass and a thin horizontal beam. The observation was reported to GEIPAN more than five months later. Investigators checked weather, astronomy and nearby aviation activity, noting a clear sky, Jupiter low in the east and the proximity of Château-Arnoux–Saint-Auban aerodrome, which was not normally open to night traffic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete328.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">GEIPANCompte rendu d&#x27;enquête</span><span class="citation-popover-snippet">GEIPANCompte rendu d&#x27;enquête</span></span></span>
+
+The witness’s reconstruction could not establish the viewing direction securely. An image used in his submitted photomontage had also been taken from a UFO website rather than recorded during the event, so it could illustrate his impression but not serve as photographic evidence. GEIPAN considered model aircraft and sky lanterns possible, although neither explanation was compelling enough to close the case. It was left in category C pending corroborating testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete328.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">GEIPANCompte rendu d&#x27;enquête</span><span class="citation-popover-snippet">GEIPANCompte rendu d&#x27;enquête</span></span></span>
+
+This category is often misunderstood. A C case is not a particularly mysterious sighting; it is one that cannot be assessed reliably because essential information is absent or uncertain. In Les Mées, the delay, single witness, uncertain direction and lack of original imagery prevented investigators from testing the proposed explanations properly. More witnesses or an accurate contemporary photograph might have moved the case towards either identification or genuine unexplained status.
+
+
+
+<img src="{{ "/assets/images/Alpes-de-Haute-Prove_b1f7bc-Illustration-2-dark.svg" | relative_url }}" alt="Alpes de Haute Provence illustration 2" data-theme-src-dark="{{ "/assets/images/Alpes-de-Haute-Prove_b1f7bc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alpes-de-Haute-Prove_b1f7bc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## A departmental record dominated by ordinary causes
+
+A current independent presentation of GEIPAN’s open data lists 38 reports associated with Alpes-de-Haute-Provence, stretching from 1965 to 2023. Its June 2026 snapshot gives nine category A cases, ten B cases, seventeen C cases and two D cases. The precise totals may change as GEIPAN adds or reclassifies files, but the broad pattern is clear: most of the department’s archive does not consist of enduring mysteries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://carteovni.fr/departement/alpes-de-haute-provence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carteovni.fr">[CarteOvni.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carteovni.fr</span><span class="citation-popover-title">alpes de haute provence</span><span class="citation-popover-snippet">OVNI dans le Alpes-de-Haute-Provence (04) — CarteOvni.frToutes les observations d&#x27;OVNI dans le département Alpes-de-Haute-Provence (04)...</span></span></span>
+
+GEIPAN’s categories separate different evidential outcomes. Category A denotes an observation identified with high confidence; B means a probable identification; C means that the information is inadequate; and D, including D1 and D2 subdivisions, is reserved for cases retaining significant strangeness after investigation and supported by sufficient consistency. The classification balances the residual unusualness of the observation against the quality and quantity of evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">methodologie classification geipan</span><span class="citation-popover-snippet">GEIPANLa méthodologie de classification au GEIPAN26 Feb 2021 — La classification du GEIPAN (A/B/C/D) s&#x27;appuie sur l&#x27;évaluation de deux no...</span></span></span>
+
+Across France, common explanations include aircraft, balloons, planets, bright stars, meteors, atmospheric re-entries, satellites, lanterns and optical effects. Alpes-de-Haute-Provence is especially well suited to misidentification because it combines dark skies, active general aviation, gliding, mountainous horizons and long sightlines across sparsely populated valleys. These conditions help people notice unusual lights, but they also make distance and speed exceptionally difficult to judge from vision alone. GEIPAN routinely checks meteorological, astronomical, aeronautical and spaceflight information when examining such reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">issues linked to UAPs (gendarmerie, police, French...</span></span></span>
+
+The nearby Observatoire de Haute-Provence provides an ironic but useful contrast. The department contains professional facilities capable of precise astronomical measurement, yet its famous UFO cases generally lack calibrated imagery, triangulation or sensor confirmation. A clear sky and an impressive witness description can begin an investigation, but they cannot replace measurements of range, direction, duration and motion.
+
+## Did the department experience a true UFO flap?
+
+The archive does not reveal a sustained, tightly defined departmental flap comparable to a sequence of repeatedly corroborated events. There were scattered reports during the 1970s and 1980s, followed by a larger number in the era of easier online reporting. Clusters in the public list often represent reporting patterns rather than evidence that one phenomenon repeatedly visited the same area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://carteovni.fr/departement/alpes-de-haute-provence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carteovni.fr">[CarteOvni.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carteovni.fr</span><span class="citation-popover-title">alpes de haute provence</span><span class="citation-popover-snippet">OVNI dans le Alpes-de-Haute-Provence (04) — CarteOvni.frToutes les observations d&#x27;OVNI dans le département Alpes-de-Haute-Provence (04)...</span></span></span>
+
+The apparent concentration around 2011–2012 illustrates the problem. Cases were recorded at La Robine-sur-Galabre, Les Mées, Oraison, Volx, Claret and Mison, but they did not form one consistent sequence with matching shapes, routes or physical effects. Volx remained unidentified, Les Mées lacked enough information, and the other files received varying classifications. Proximity in date and geography alone is not enough to establish a common cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://carteovni.fr/departement/alpes-de-haute-provence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carteovni.fr">[carteovni.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carteovni.fr</span><span class="citation-popover-title">alpes de haute provence</span><span class="citation-popover-snippet">OVNI dans le Alpes-de-Haute-Provence (04) — CarteOvni.frToutes les observations d&#x27;OVNI dans le département Alpes-de-Haute-Provence (04)...</span></span></span>
+
+Nor does Valensole mark the start of a documented local wave. A separate July 1965 report on the route from Moustiers-Sainte-Marie towards Manosque is present in the official database, but GEIPAN classifies it C because reliable information is missing. Without a secure time, trajectory and independent documentation, it cannot provide strong corroboration for Masse’s encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_classification_des_cas_target_id%5B14%5D=14&amp;field_classification_des_cas_target_id%5B15%5D=15&amp;field_classification_des_cas_target_id%5B16%5D=16&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=113%2C20&amp;select-category-export=nothing&amp;sort=desc&amp;video=on" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+
+The department’s history is therefore better understood as one landmark case surrounded by a normal mixture of identified, weak and occasionally unresolved observations, rather than as evidence of recurring organised activity.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kX5hXLCan0I" title="Valensole 1965" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 5:52">5:52</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kX5hXLCan0I" target="_blank" rel="noopener noreferrer">Valensole 1965</a></p><p class="youtube-embed-meta">Channel: Sedona International Film Festival &amp; Theatres &middot; Views: 283 &middot; Uploaded: February 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kX5hXLCan0I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kX5hXLCan0I">Open on YouTube</a></p></div></div></div>
+
+## What the official records can and cannot establish
+
+France’s official system gives Alpes-de-Haute-Provence a better documentary record than many regions elsewhere. GEIPAN, part of the French space agency CNES, collects witness reports, analyses them and publishes anonymised files. Its oversight and partners include bodies concerned with policing, defence, civil aviation, weather and research. Reports may include technical questionnaires, gendarmerie statements, sketches, photographs and other material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">issues linked to UAPs (gendarmerie, police, French...</span></span></span>
+
+This structure does not transform testimony into scientific proof. GEIPAN states that human accounts remain central to its work, and many files begin with no more than one person’s memory. Investigators can compare a report with known aircraft, celestial objects and weather conditions, but they cannot recover measurements that were never made. A D classification therefore means that the available hypotheses did not satisfactorily explain a sufficiently consistent report; it does not mean that investigators detected unknown technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">methodologie classification geipan</span><span class="citation-popover-snippet">GEIPANLa méthodologie de classification au GEIPAN26 Feb 2021 — La classification du GEIPAN (A/B/C/D) s&#x27;appuie sur l&#x27;évaluation de deux no...</span></span></span>
+
+The records are most valuable when read comparatively. Meyronnes demonstrates that several military witnesses can still produce an inconclusive C case. Les Mées shows how reporting delay and uncertain geometry weaken an apparently detailed observation. Volx shows that a concise single-witness report may remain D1 without becoming strong proof. Valensole shows how physical traces and early police involvement can raise a case above ordinary anecdote while still leaving major evidential gaps.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gLT6AzIdsZ8" title="VALENSOLE 1965 - TRAILER (with english subtitles) - FILMS AGAINST THE MACHINE(S) FESTIVAL 2025" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gLT6AzIdsZ8" target="_blank" rel="noopener noreferrer">VALENSOLE 1965 - TRAILER (with english subtitles) - FILMS AGAINST THE MACHINE(S) FESTIVAL 2025</a></p><p class="youtube-embed-meta">Channel: Films Against the Machine(s)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gLT6AzIdsZ8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gLT6AzIdsZ8">Open on YouTube</a></p></div></div></div>
+
+## How Valensole became local memory
+
+Valensole’s encounter has survived because it is both a UFO claim and a human story about sudden unwanted fame. Masse’s family and livelihood became entangled with reporters, investigators and visitors. Later accounts have emphasised his apparent reluctance to exploit the story, treating this as evidence of sincerity. Sincerity, however, cannot by itself establish whether an experience was accurately perceived or interpreted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://culturellementvotre.fr/2025/07/08/critique-valensole-1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: culturellementvotre.fr">[Culturellement Vôtre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">culturellementvotre.fr</span><span class="citation-popover-title">critique valensole 1965</span><span class="citation-popover-snippet">Culturellement Vôtre[Critique] Valensole 1965: Récit cosmique à l&#x27;ancrage trop...8 Jul 2025 — Présenté comme une reconstitution libreme...</span></span></span>
+
+The incident was revived for its sixtieth anniversary by the feature film *Valensole 1965*, released in French cinemas in July 2025 after a local open-air premiere. The production presented a dramatised, sympathetic reconstruction of the effect of the encounter on Masse and his family. Reviews noted that it deliberately leaned towards believing the witness rather than testing every competing explanation. The film is consequently part of the case’s cultural afterlife, not new evidence about the 1965 event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://culturellementvotre.fr/2025/07/08/critique-valensole-1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: culturellementvotre.fr">[Culturellement Vôtre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">culturellementvotre.fr</span><span class="citation-popover-title">critique valensole 1965</span><span class="citation-popover-snippet">Culturellement Vôtre[Critique] Valensole 1965: Récit cosmique à l&#x27;ancrage trop...8 Jul 2025 — Présenté comme une reconstitution libreme...</span></span></span>
+
+This distinction matters because dramatic reconstructions can stabilise details that were uncertain or evolved over time. Viewers may remember costumes, dialogue and visual effects more vividly than the sparse original documents. The continuing fame of Valensole demonstrates the durability of the story, but anniversaries, films and exhibitions neither confirm nor refute what Masse saw.
+
+
+
+<img src="{{ "/assets/images/Alpes-de-Haute-Prove_b1f7bc-Illustration-3-dark.svg" | relative_url }}" alt="Alpes de Haute Provence illustration 3" data-theme-src-dark="{{ "/assets/images/Alpes-de-Haute-Prove_b1f7bc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alpes-de-Haute-Prove_b1f7bc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## The most defensible assessment
+
+Alpes-de-Haute-Provence has a genuine place in UFO history, but its reputation rests disproportionately on Valensole. That case contains several features worth serious attention: a prompt gendarmerie record, an identified witness, an alleged close-range encounter and physical disturbance at the reported site. It also contains decisive limitations: no independent witness to the encounter, no photograph or instrument detection, uncertain trace interpretation and an aviation context that was never completely resolved.
+
+The later departmental record does not supply a clear pattern that validates Valensole. Meyronnes remains under-documented, Les Mées is informationally weak, and Volx is unexplained but brief and uncorroborated. Taken together, the files show that “unidentified” covers several very different situations—from missing data to a reasonably consistent report that resists conventional matching.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1976-12-00367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[GEIPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+
+The strongest conclusion is therefore modest. Something prompted Maurice Masse’s report and the recorded disturbance at Valensole, but the surviving evidence cannot determine whether he encountered an unusual aircraft, misperceived an ordinary event, experienced an altered state or invented part or all of the story. The extraterrestrial interpretation remains a claim rather than a demonstrated finding. Valensole deserves its landmark status because it is unusually rich, early and well documented by UFO-case standards—not because it proves that a non-human craft landed in Alpes-de-Haute-Provence.
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Valensole Still Defines a Department&#x27;s UFO History. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience: A Scientific Inquiry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+<p class="fr-book-desc">Cited by the New York Review of Books as &quot;the best brief for visitation,&quot; this classic study presents an analysis of UFO reports and conc...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Confrontations+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Confrontations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tTZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Confrontations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Confrontations+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Confrontations">Confrontations</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
+        
+<p class="fr-book-desc">&quot;A core curriculum for anyone with a serious interest in ufology . . .&quot; The Kirkus Reviews Dr. Jacques Vallee is widely recognized as the...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Confrontations+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
+        
+<p class="fr-book-desc">Over two decades ago, eminent scientist Vallee wrote a provocative book about alleged UFO landings, folklore, and certain unexplained phe...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
+        
+<p class="fr-book-desc">Throughout the modern UFO era, thousands of honest scientists and informed laymen have seen through the official denials, the suppression...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Confrontations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Confrontations</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<p class="fr-ebay-query-context">Selected from<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">UFO poster</a> on<span data-ebay-domain-label>eBay.co.uk</span>.</p>
+<div class="fr-books-grid">
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="1">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 21.95 | Free shipping</span><span>New</span><span>Seller: mintprint77 (100.0% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/206186601357?_skw=ufo+poster&amp;hash=item3001addb8d%3Ag%3AeYMAAeSwcVRpz249&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGYsMGFIYmfXYocO7swuRd%2BGOk6TkPhFoX%2FwzJawx%2Fj4jn8UwkIodjVpa0dSR4R1k%2BC8diU5YT7bEwbjB4rRGmpK4V3EqiQu5ePFZuTSNz6Y92a7uE4y15oDEy%2BuNsEEUzRqGP5yqVAYZGgHytRe7R0nuBEhUmTMiZ4HxCc0mQqgFFcYUvuaq6wGs%2BEPUE51EEOiwz7GtW3L%2FgjQEjH7pvq%2BUAepSbMjchnJGEEXBnySVCGCIU6CWbpVsItD4%2FNsulv67AgYlZRx3z2NEiUmsr8i&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="2">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 14.99 | Free shipping</span><span>New</span><span>Seller: paradiseposters (99.6% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/236438613623?_skw=ufo+poster&amp;hash=item370cd6ee77%3Ag%3AVsoAAeSwWNRpCixu&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGahmCb3W%2BfhqGpSZfETQHX1reF1fhbxy33b2O4zTK9BypS8zWFZo17jLkBGPyEtctO5WXPICCWhH1hBrzyPEJtu5hnmkJeDLEY4lR6gWZj0FYoZFSzDOqQ86B%2B0u8XpI3xPOTkibaZqGJwep5vs6fNPtlfFm8IGbkye6tsgp3e%2FE99EzroJLMbvMa%2F1Mkoi8BWK2o8AKQzO3fEPm7x0H2KP2PRACyG9LbPTX7r5IYgm25Cbc%2FkyMr3xa7xgGa%2F4HdQwq0ya%2FTeRhYYjKw6DEEiD&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="3">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 10.76 | Free shipping</span><span>New</span><span>Seller: andys-prints-uk (99.7% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/183986511489?_skw=ufo+poster&amp;hash=item2ad6735e81%3Ag%3AKlYAAOSw2QNddXVx&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGY2tl4X0O%2FwnopYlYZP2xukbl6AV9NQsgYamvsi1kRAkCxUlAylWaSdwY4ElQS3wv%2FJVM7lAwxuNbl94NQ4O5JayHREZENepSJx1L3Op9qRmaK%2B0S78R11ad%2FGO5Msj%2FKFli%2BrBid6sDPNT2u2KwTdXk6OhWljCnDYhzJcoKObz95Vuqs1T4xlmPcsicUmJr07uJyGJZfPH0LW9CLI%2FUA22sFABHIVurZ5hUPEQ3gjlk5EihLY6IH7%2FP6sduhwJoPmGC5lc%2Bk1SeGUTlwoRYhuy3pV7MWTMo7i0Zqszg9eJ%2Fw%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="4">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 18.97 | Free shipping</span><span>New</span><span>Seller: forgevalleyprint (98.6% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/377014295730?_skw=ufo+poster&amp;hash=item57c7cd9cb2%3Ag%3AgvYAAeSw4JZpqzu-&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGb%2BC0l9%2Bkxlrmtux%2BccQULsQG5vrpjYr7HXU%2BE%2BsXPBXy9bubWS8WF6L5jnX3HlZ581TK60zDYS7KuVinm7DelX5JjDMn0MsPZllRRm76ZU%2FKhAVB9zPvGrmIVdfxrPrtfxlJmj%2FhtNQnvplSGaWseq8Ew%2BBeQNsVct115%2FdoUpHV7fuL%2Fc5pB155h2%2FxGt%2FMhhTt1HlHGZxqls1AC6%2FxERbgoMjjADkdvslICM0AT1z0NjZ%2B%2BdK4hsq3BlonszwEV6NTXMItgM0g0W%2BbK0Z3f8DozvsaqiBrPjoRyVRRI1yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="alpes-de-haute-provence-why-valensole-still-defines-a-department-s-ufo-history-ufo-poster-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i< languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+<script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket)< 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
+## Endnotes
+
+1.<a id="endnote-1"></a>
+   Source: Wikipedia  
+   Title: Rencontre de Valensole  
+   Link:<a href="https://fr.wikipedia.org/wiki/Rencontre_de_Valensole" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Rencontre_de_Valensole</a>  
+
+2.<a id="endnote-2"></a>
+   Source: cnes-geipan.fr  
+   Title: methodologie classification geipan  
+   Link:<a href="https://www.cnes-geipan.fr/fr/actualites/methodologie-classification-geipan" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/actualites/methodologie-classification-geipan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANLa méthodologie de classification au GEIPAN26 Feb 2021 — La classification du GEIPAN (A/B/C/D) s&#x27;appuie sur l&#x27;évaluation de deux no...</p></details>
+
+3.<a id="endnote-3"></a>
+   Source: carteovni.fr  
+   Title: alpes de haute provence  
+   Link:<a href="https://carteovni.fr/departement/alpes-de-haute-provence" target="_blank" rel="noopener noreferrer nofollow">https://carteovni.fr/departement/alpes-de-haute-provence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OVNI dans le Alpes-de-Haute-Provence (04) — CarteOvni.frToutes les observations d&#x27;OVNI dans le département Alpes-de-Haute-Provence (04)...</p></details>
+
+4.<a id="endnote-4"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_classification_des_cas_target_id%5B0%5D=14&amp;order=field_departement_textuel&amp;page=0&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_classification_des_cas_target_id%5B0%5D=14&amp;order=field_departement_textuel&amp;page=0&amp;sort=asc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VALENSOLE (04) 01.07.1965 | 01/07/1965 | D | Alpes-de-Haute-Provence | Phénomène étrange de consistance moyenne ou forte | 26/06/2015 | 1...</p></details>
+
+5.<a id="endnote-5"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_classification_des_cas_target_id%5B14%5D=14&amp;field_classification_des_cas_target_id%5B15%5D=15&amp;field_classification_des_cas_target_id%5B16%5D=16&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=0&amp;select-category-export=nothing&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_classification_des_cas_target_id%5B14%5D=14&amp;field_classification_des_cas_target_id%5B15%5D=15&amp;field_classification_des_cas_target_id%5B16%5D=16&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=0&amp;select-category-export=nothing&amp;sort=asc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VOLX (04) 08.08.2012 | 08/08/2012 | D1 | Alpes-de-Haute-Provence | Phénomène étrange de consistance moyenne ou forte | 21/06/2016 | 2012...</p></details>
+
+6.<a id="endnote-6"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>issues linked to UAPs (gendarmerie, police, French...</p></details>
+
+7.<a id="endnote-7"></a>
+   Source: academia.edu  
+   Link:<a href="https://www.academia.edu/117891301/ANALYSE_CLINIQUE_RR3_de_VALENSOLE_partie1_vf5aca" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/117891301/ANALYSE_CLINIQUE_RR3_de_VALENSOLE_partie1_vf5aca</a>  
+
+8.<a id="endnote-8"></a>
+   Source: cnes.fr  
+   Link:<a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+
+9.<a id="endnote-9"></a>
+   Source: Wikipedia  
+   Title: Liste de canulars d'ovnis  
+   Link:<a href="https://fr.wikipedia.org/wiki/Liste_de_canulars_d%27ovnis" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Liste_de_canulars_d%27ovnis</a>  
+
+10.<a id="endnote-10"></a>
+   Source: cnes-geipan.fr  
+   Title: GEIPANCompte rendu d'enquête  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete328.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Compte%20rendu%20enquete328.pdf</a>  
+
+11.<a id="endnote-11"></a>
+   Source: carteovni.fr  
+   Title: les mees 2011 0808201  
+   Link:<a href="https://carteovni.fr/cas/les-mees-2011-0808201" target="_blank" rel="noopener noreferrer nofollow">https://carteovni.fr/cas/les-mees-2011-0808201</a>  
+
+12.<a id="endnote-12"></a>
+   Source: cnes-geipan.fr  
+   Title: baisse cas d  
+   Link:<a href="https://www.cnes-geipan.fr/en/actualites/baisse-cas-d" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/actualites/baisse-cas-d</a>  
+
+13.<a id="endnote-13"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://www.cnes-geipan.fr/fr/qu-ai-je-vu/etape-1" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/qu-ai-je-vu/etape-1</a>  
+
+14.<a id="endnote-14"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_classification_des_cas_target_id%5B14%5D=14&amp;field_classification_des_cas_target_id%5B15%5D=15&amp;field_classification_des_cas_target_id%5B16%5D=16&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=113%2C20&amp;select-category-export=nothing&amp;sort=desc&amp;video=on" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_classification_des_cas_target_id%5B14%5D=14&amp;field_classification_des_cas_target_id%5B15%5D=15&amp;field_classification_des_cas_target_id%5B16%5D=16&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=113%2C20&amp;select-category-export=nothing&amp;sort=desc&amp;video=on</a>  
+
+15.<a id="endnote-15"></a>
+   Source: Wikipedia  
+   Title: Valensole 1965  
+   Link:<a href="https://fr.wikipedia.org/wiki/Valensole_1965" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Valensole_1965</a>  
+
+16.<a id="endnote-16"></a>
+   Source: geipan.fr  
+   Link:<a href="https://geipan.fr/fr/cas/2012-08-08277" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/fr/cas/2012-08-08277</a>  
+
+17.<a id="endnote-17"></a>
+   Source: geipan.fr  
+   Link:<a href="https://www.geipan.fr/fr/cas/2012-01-08192" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/fr/cas/2012-01-08192</a>  
+
+18.<a id="endnote-18"></a>
+   Source: Wikipedia  
+   Title: Trans en Provence case  
+   Link:<a href="https://en.wikipedia.org/wiki/Trans-en-Provence_case" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Trans-en-Provence_case</a>  
+
+19.<a id="endnote-19"></a>
+   Source: Wikipedia  
+   Title: UFO sightings in France  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_France" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_France</a>  
+
+20.<a id="endnote-20"></a>
+   Source: Wikipedia  
+   Link:<a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
+
+21.<a id="endnote-21"></a>
+   Source: carteovni.fr  
+   Link:<a href="https://carteovni.fr/commune/les-mees-04" target="_blank" rel="noopener noreferrer nofollow">https://carteovni.fr/commune/les-mees-04</a>  
+
+22.<a id="endnote-22"></a>
+   Source: geipan.fr  
+   Link:<a href="https://www.geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=162%2C20&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=162%2C20&amp;sort=desc</a>  
+
+23.<a id="endnote-23"></a>
+   Source: geipan.fr  
+   Link:<a href="https://geipan.fr/fr/recherche/cas/tab?field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=63&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/fr/recherche/cas/tab?field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=63&amp;sort=desc</a>  
+
+24.<a id="endnote-24"></a>
+   Source: geipan.fr  
+   Link:<a href="https://www.geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=163&amp;select-category-export=nothing&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=163&amp;select-category-export=nothing&amp;sort=desc</a>  
+
+25.<a id="endnote-25"></a>
+   Source: geipan.fr  
+   Link:<a href="https://geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=3&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=3&amp;sort=asc</a>  
+
+26.<a id="endnote-26"></a>
+   Source: geipan.fr  
+   Link:<a href="https://geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=1%2C18&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=1%2C18&amp;sort=asc</a>  
+
+27.<a id="endnote-27"></a>
+   Source: geipan.fr  
+   Link:<a href="https://geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%255Bmax%255D=&amp;field_date_d_observation_value%255Bmin%255D=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%255Bmax%255D=&amp;field_latitude_value%255Bmin%255D=&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%255Bmax%255D=&amp;field_longitude_value%255Bmin%255D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=3&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%255Bmax%255D=&amp;field_date_d_observation_value%255Bmin%255D=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%255Bmax%255D=&amp;field_latitude_value%255Bmin%255D=&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%255Bmax%255D=&amp;field_longitude_value%255Bmin%255D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=3&amp;sort=asc</a>  
+
+28.<a id="endnote-28"></a>
+   Source: geipan.fr  
+   Link:<a href="https://www.geipan.fr/en/recherche/cas/tab?field_date_valu_valu=04-23&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=162&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/recherche/cas/tab?field_date_valu_valu=04-23&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=162&amp;sort=desc</a>  
+
+29.<a id="endnote-29"></a>
+   Source: geipan.fr  
+   Link:<a href="https://geipan.fr/fr/recherche/cas/tab?field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=116&amp;order=field_departement_textuel&amp;page=3&amp;select-category-export=nothing&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/fr/recherche/cas/tab?field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=116&amp;order=field_departement_textuel&amp;page=3&amp;select-category-export=nothing&amp;sort=asc</a>  
+
+30.<a id="endnote-30"></a>
+   Source: geipan.fr  
+   Link:<a href="https://www.geipan.fr/en/recherche/cas/tab?order=field_departement_textuel&amp;page=163&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/recherche/cas/tab?order=field_departement_textuel&amp;page=163&amp;sort=desc</a>  
+
+31.<a id="endnote-31"></a>
+   Source: geipan.fr  
+   Link:<a href="https://geipan.fr/sites/default/files/PV%20n%C2%B012704%20%282012310657%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/sites/default/files/PV%20n%C2%B012704%20%282012310657%29.pdf</a>  
+
+32.<a id="endnote-32"></a>
+   Source: academia.edu  
+   Title: GEIPAN classification with text mining and machine learning  
+   Link:<a href="https://www.academia.edu/99067452/GEIPAN_classification_with_text_mining_and_machine_learning" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/99067452/GEIPAN_classification_with_text_mining_and_machine_learning</a>  
+
+33.<a id="endnote-33"></a>
+   Source: cnes.fr  
+   Link:<a href="https://cnes.fr/dossiers/ovnis-pan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/dossiers/ovnis-pan</a>  
+
+34.<a id="endnote-34"></a>
+   Source: youtube.com  
+   Link:<a href="https://www.youtube.com/watch?v=kX5hXLCan0I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kX5hXLCan0I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TRAILER (with english subtitles) - FILMS AGAINST THE MACHINE(S) FESTIVAL 2025...</p></details>
+
+35.<a id="endnote-35"></a>
+   Source: youtube.com  
+   Link:<a href="https://www.youtube.com/watch?v=gLT6AzIdsZ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gLT6AzIdsZ8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meeting France&#x27;s UFO detectives • FRANCE 24 English...</p></details>
+
+36.<a id="endnote-36"></a>
+   Source: cnes-geipan.fr  
+   Title: GEIPANle GEPANNo information is available for this page  
+   Link:<a href="https://www.cnes-geipan.fr/fr/cas/1965-07-00050" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1965-07-00050</a>  
+
+37.<a id="endnote-37"></a>
+   Source: culturellementvotre.fr  
+   Title: critique valensole 1965  
+   Link:<a href="https://culturellementvotre.fr/2025/07/08/critique-valensole-1965/" target="_blank" rel="noopener noreferrer nofollow">https://culturellementvotre.fr/2025/07/08/critique-valensole-1965/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Culturellement Vôtre[Critique] Valensole 1965: Récit cosmique à l&#x27;ancrage trop...8 Jul 2025 — Présenté comme une reconstitution libreme...</p></details>
+
+38.<a id="endnote-38"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://www.cnes-geipan.fr/fr/cas/1976-12-00367" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1976-12-00367</a>  
+
+39.<a id="endnote-39"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://cnes-geipan.fr/fr/cas/2012-08-08284" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/fr/cas/2012-08-08284</a>  
+
+40.<a id="endnote-40"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://www.cnes-geipan.fr/en/faq-page" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/faq-page</a>  
+
+41.<a id="endnote-41"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://cnes-geipan.fr/fr/cas/2012-08-08277" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/fr/cas/2012-08-08277</a>  
+
+42.<a id="endnote-42"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://www.cnes-geipan.fr/fr/cas/2012-01-08224?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B11%5D=11&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_classification_des_cas_target_id%5B14%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;page=%2C210&amp;select-category-export=nothing&amp;video=on" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/2012-01-08224?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B11%5D=11&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_classification_des_cas_target_id%5B14%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;page=%2C210&amp;select-category-export=nothing&amp;video=on</a>  
+
+43.<a id="endnote-43"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://cnes-geipan.fr/fr/cas/2012-01-08224" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/fr/cas/2012-01-08224</a>  
+
+44.<a id="endnote-44"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://cnes-geipan.fr/en/node/55317?field_agregation_index_value=&amp;field_classification_des_cas_target_id%255B11%255D=11&amp;field_date_d_observation_value%255Bmax%255D=&amp;field_date_d_observation_value%255Bmin%255D=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%255Bmax%255D=&amp;field_latitude_value%255Bmin%255D=&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%255Bmax%255D=&amp;field_longitude_value%255Bmin%255D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=112&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/en/node/55317?field_agregation_index_value=&amp;field_classification_des_cas_target_id%255B11%255D=11&amp;field_date_d_observation_value%255Bmax%255D=&amp;field_date_d_observation_value%255Bmin%255D=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%255Bmax%255D=&amp;field_latitude_value%255Bmin%255D=&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%255Bmax%255D=&amp;field_longitude_value%255Bmin%255D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=112&amp;sort=asc</a>  
+
+45.<a id="endnote-45"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://www.cnes-geipan.fr/fr/cas/2012-01-08192?customGetLattitude=46.94358292648825&amp;customGetLongitude=4.4989013671875&amp;customGetZoom=7&amp;field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=49.11702904077932&amp;field_latitude_value%5Bmin%5D=44.77013681219717&amp;field_longitude_value%5Bmax%5D=7.668457031250001&amp;field_longitude_value%5Bmin%5D=1.329345703125&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation&amp;page=%2C82&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/2012-01-08192?customGetLattitude=46.94358292648825&amp;customGetLongitude=4.4989013671875&amp;customGetZoom=7&amp;field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=49.11702904077932&amp;field_latitude_value%5Bmin%5D=44.77013681219717&amp;field_longitude_value%5Bmax%5D=7.668457031250001&amp;field_longitude_value%5Bmin%5D=1.329345703125&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation&amp;page=%2C82&amp;sort=asc</a>  
+
+46.<a id="endnote-46"></a>
+   Source: cnes-geipan.fr  
+   Title: cas bolide 2 aout  
+   Link:<a href="https://www.cnes-geipan.fr/fr/actualites/cas-bolide-2-aout" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/actualites/cas-bolide-2-aout</a>  
+
+47.<a id="endnote-47"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20251127093552.csv" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20251127093552.csv</a>  
+
+48.<a id="endnote-48"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=13&amp;field_classification_des_cas_target_id%5B1%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=1&amp;select-category-export=nothing&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=13&amp;field_classification_des_cas_target_id%5B1%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=1&amp;select-category-export=nothing&amp;sort=asc</a>  
+
+49.<a id="endnote-49"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=13&amp;field_classification_des_cas_target_id%5B1%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=1%2C35&amp;select-category-export=nothing&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=13&amp;field_classification_des_cas_target_id%5B1%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=1%2C35&amp;select-category-export=nothing&amp;sort=asc</a>  
+
+50.<a id="endnote-50"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation_textuel&amp;page=14&amp;select-category-export=nothing&amp;sort=desc&amp;video=on" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation_textuel&amp;page=14&amp;select-category-export=nothing&amp;sort=desc&amp;video=on</a>  
+
+51.<a id="endnote-51"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://www.cnes-geipan.fr/fr/recherche/cas/tab?customGetLattitude=45.735486641128446&amp;customGetLongitude=-0.615234375&amp;customGetZoom=5&amp;field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=54.52108149544362&amp;field_latitude_value%5Bmin%5D=36.94989178681327&amp;field_longitude_value%5Bmax%5D=14.326171875000002&amp;field_longitude_value%5Bmin%5D=-15.556640625000002&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=4%2C9&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/recherche/cas/tab?customGetLattitude=45.735486641128446&amp;customGetLongitude=-0.615234375&amp;customGetZoom=5&amp;field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=54.52108149544362&amp;field_latitude_value%5Bmin%5D=36.94989178681327&amp;field_longitude_value%5Bmax%5D=14.326171875000002&amp;field_longitude_value%5Bmin%5D=-15.556640625000002&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=4%2C9&amp;sort=asc</a>  
+
+52.<a id="endnote-52"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=49%2C0&amp;select-category-export=nothing&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=49%2C0&amp;select-category-export=nothing&amp;sort=desc</a>  
+
+53.<a id="endnote-53"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_classification_des_cas_target_id%5B14%5D=14&amp;field_classification_des_cas_target_id%5B15%5D=15&amp;field_classification_des_cas_target_id%5B16%5D=16&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=57.70414723434193&amp;field_latitude_value%5Bmin%5D=19.642587534013032&amp;field_longitude_value%5Bmax%5D=49.921875&amp;field_longitude_value%5Bmin%5D=-9.843750000000002&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=1%2C0&amp;select-category-export=nothing&amp;sort=asc&amp;video=on" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_classification_des_cas_target_id%5B14%5D=14&amp;field_classification_des_cas_target_id%5B15%5D=15&amp;field_classification_des_cas_target_id%5B16%5D=16&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=57.70414723434193&amp;field_latitude_value%5Bmin%5D=19.642587534013032&amp;field_longitude_value%5Bmax%5D=49.921875&amp;field_longitude_value%5Bmin%5D=-9.843750000000002&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=1%2C0&amp;select-category-export=nothing&amp;sort=asc&amp;video=on</a>  
+
+54.<a id="endnote-54"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://www.cnes-geipan.fr/fr/recherche/cas/tab?customGetLattitude=46.124763699209396&amp;customGetLongitude=2.4169921874999996&amp;customGetZoom=6&amp;field_agregation_index_value=&amp;field_classification_des_cas_target_id=All&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=50.52739681329302&amp;field_latitude_value%5Bmin%5D=41.72213058512578&amp;field_longitude_value%5Bmax%5D=9.8876953125&amp;field_longitude_value%5Bmin%5D=-5.053710937500001&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=4%2C24&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/recherche/cas/tab?customGetLattitude=46.124763699209396&amp;customGetLongitude=2.4169921874999996&amp;customGetZoom=6&amp;field_agregation_index_value=&amp;field_classification_des_cas_target_id=All&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=50.52739681329302&amp;field_latitude_value%5Bmin%5D=41.72213058512578&amp;field_longitude_value%5Bmax%5D=9.8876953125&amp;field_longitude_value%5Bmin%5D=-5.053710937500001&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=4%2C24&amp;sort=asc</a>  
+
+55.<a id="endnote-55"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B11%5D=11&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_classification_des_cas_target_id%5B14%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=13&amp;select-category-export=nothing&amp;sort=asc&amp;video=on" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B11%5D=11&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_classification_des_cas_target_id%5B13%5D=13&amp;field_classification_des_cas_target_id%5B14%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=1&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=13&amp;select-category-export=nothing&amp;sort=asc&amp;video=on</a>  
+
+56.<a id="endnote-56"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=2007-03-01&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=160%2C25&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=2007-03-01&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=160%2C25&amp;sort=desc</a>  
+
+57.<a id="endnote-57"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/PV%20n%C2%B0952%20%281990307284%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/PV%20n%C2%B0952%20%281990307284%29.pdf</a>  
+
+58.<a id="endnote-58"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://www.cnes-geipan.fr/" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/</a>  
+
+59.<a id="endnote-59"></a>
+   Source: cnes-geipan.fr  
+   Link:<a href="https://www.cnes-geipan.fr/en/what-did-i-see/step-1" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/what-did-i-see/step-1</a>  
+
+60.<a id="endnote-60"></a>
+   Source: uapedia.ai  
+   Link:<a href="https://uapedia.ai/wiki/geipan-frances-official-uap-unit/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/geipan-frances-official-uap-unit/</a>  
+
+61.<a id="endnote-61"></a>
+   Source: ufomyst.com  
+   Title: Famous UFO Cases  
+   Link:<a href="https://ufomyst.com/famous" target="_blank" rel="noopener noreferrer nofollow">https://ufomyst.com/famous</a>  
+
+62.<a id="endnote-62"></a>
+   Source: newspaceeconomy.ca  
+   Title: GEIPA N: Frances UAP Investigation Unit  
+   Link:<a href="https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/</a>  
+
+### Additional References
+
+63.<a id="endnote-63"></a>
+   Source: war.gov  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
+
+64.<a id="endnote-64"></a>
+   Source: youtube.com  
+   Title: Top 10 Strongest Evidence Of Ufos You CANNOT Ignore  
+   Link:<a href="https://www.youtube.com/watch?v=rpaw_eK2FV8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rpaw_eK2FV8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Recent UFO Sightings We Can No Longer Deny - Part 3...</p></details>
+
+65.<a id="endnote-65"></a>
+   Source: youtube.com  
+   Title: Meeting France's UFO detectives • FRANCE 24 English  
+   Link:<a href="https://www.youtube.com/watch?v=zczcBLukQ6s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zczcBLukQ6s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Strongest Evidence Of Ufos You CANNOT Ignore...</p></details>
+
+66.<a id="endnote-66"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/groups/southwestfrance/posts/1342464920438589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/southwestfrance/posts/1342464920438589/</a>  
+
+67.<a id="endnote-67"></a>
+   Source: reddit.com  
+   Link:<a href="https://www.reddit.com/r/slatestarcodex/comments/bu4bsb/many_pilots_are_seeing_ufos_whats_going_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/slatestarcodex/comments/bu4bsb/many_pilots_are_seeing_ufos_whats_going_on/</a>  
+
+68.<a id="endnote-68"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/valensolefilm/posts/maurice-masse-paysan-et-t%C3%A9moin-de-l%C3%A9trange-rencontre-de-valensole-le-1er-juillet/117007610925474/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/valensolefilm/posts/maurice-masse-paysan-et-t%C3%A9moin-de-l%C3%A9trange-rencontre-de-valensole-le-1er-juillet/117007610925474/</a>  
+
+69.<a id="endnote-69"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/groups/140655766586905/posts/1747071222612010/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/140655766586905/posts/1747071222612010/</a>  
+
+70.<a id="endnote-70"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/jean.bourret.7/posts/sur-la-5-%C3%A0-21hles-%C3%A9tonnants-myst%C3%A8res-de-la-foudreavec-entre-autres-raymond-picco/10164308726313556/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jean.bourret.7/posts/sur-la-5-%C3%A0-21hles-%C3%A9tonnants-myst%C3%A8res-de-la-foudreavec-entre-autres-raymond-picco/10164308726313556/</a>  
+
+71.<a id="endnote-71"></a>
+   Source: reddit.com  
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/1qa0lyb/til_that_france_has_a_dedicated_unit_to_finding/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1qa0lyb/til_that_france_has_a_dedicated_unit_to_finding/</a>  
+
+72.<a id="endnote-72"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/futura.sciences.fr/posts/un-bolide-vert-a-illumin%C3%A9-le-ciel-de-moscou-un-objet-lumineux-vert-a-travers%C3%A9-le/1416173133881322/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/futura.sciences.fr/posts/un-bolide-vert-a-illumin%C3%A9-le-ciel-de-moscou-un-objet-lumineux-vert-a-travers%C3%A9-le/1416173133881322/</a>  
