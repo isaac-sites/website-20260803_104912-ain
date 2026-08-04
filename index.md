@@ -187,7 +187,11 @@ map_view:
   items: 95
   map: /assets/maps/france-departments.svg
   data: /assets/maps/france-departments.json
-site_image_description: A rural Allier road at dusk with a distant orange light above the horizon, a gendarmerie vehicle beside a hedgerow and a map and...
+header:
+  og_image: /assets/images/Pas-de-Calais_0ab2d0-overview-social-card.jpg
+  preview_image: /assets/images/Pas-de-Calais_0ab2d0-overview-social-card.jpg
+image: /assets/images/Pas-de-Calais_0ab2d0-overview-social-card.jpg
+site_image_description: A dark rectangular form crosses above the hills near Montluel while distant town lights and broken clouds mark the night horizon.
 ---
 
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
@@ -196,7 +200,7 @@ site_image_description: A rural Allier road at dusk with a distant orange light 
 <span class="interactive-map-status uap-world-map-status" role="status" aria-live="polite">Loading map…</span>
 </div>
 <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
-<img src="{{ '/assets/images/Ardeche_5d1281-overview.webp' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
+<img src="{{ '/assets/images/Ardeche_5d1281-overview-social-card.jpg' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
 <span class="interactive-map-preview-meta uap-world-map-preview-meta">
 <span class="interactive-map-preview-chip uap-world-map-preview-chip">07</span>
 <button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" data-interactive-map-continent-focus="france" data-uap-world-map-region-focus="france" aria-label="Focus map on France">France</button>
