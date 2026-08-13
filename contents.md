@@ -8,6 +8,10 @@ description: Browse the full structured site index.
 ---
 
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
+<header class="home-map-panel-intro">
+<h1 class="home-map-panel-title">Explore French UFO reports</h1>
+<p class="home-map-panel-note">Use the map to explore a French department file, or browse the full department list.</p>
+</header>
 <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="department" data-map-layout="france-departments" data-map-item-type="department" data-map-label="UFO and UAP French departments map" data-map-fallback-summary="Open this French department file from the map." data-map-src="{{ 'assets/maps/france-departments.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/france-departments.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="FR-07" data-map-preview-preload="8">
 <div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas>
 <span class="interactive-map-status uap-world-map-status" role="status" aria-live="polite">Loading map…</span>
@@ -25,9 +29,20 @@ description: Browse the full structured site index.
 <span class="interactive-map-preview-cta uap-world-map-preview-cta">Open file</span>
 </article>
 </section>
-<p class="home-map-panel-note">Use the map to jump into a French department file, or browse the full department list below.</p>
 <p class="home-map-panel-source"><a href="https://mapsvg.com/maps/france-departments" rel="license noopener" target="_blank">Map source (Commercial use allowed; no attribution required.)</a></p>
-<p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Contents</a></p>
+<p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Browse all departments</a></p>
+</section>
+
+<section class="home-structure-intro home-structure-intro--public-compact home-structure-intro--indexed-hierarchy" data-home-public-intro>
+<div class="home-structure-intro-copy">
+<p class="home-structure-intro-kicker">Topic guide</p>
+<h1 class="home-structure-intro-title">Research Map</h1>
+<p class="home-structure-intro-summary">Browse the main routes through the research across major topics and focused guides.</p>
+<div class="home-structure-actions" aria-label="Homepage starting points">
+<a class="home-structure-action home-structure-action-primary" href="{{ 'which-pas-de-calais-ufo-cases-still/' | relative_url }}">Start here</a>
+<a class="home-structure-action home-structure-action-secondary" href="#browse-reports">Browse or search</a>
+</div>
+</div>
 </section>
 
 <section class="home-adaptive-home page-contents-home home-adaptive-home--indexed-hierarchy" data-home-archetype="indexed-hierarchy" data-home-level-1-count="96" data-home-level-1-tier="overflow" data-home-top-child-tier="few" data-home-max-breadth="192" data-home-max-depth="1">

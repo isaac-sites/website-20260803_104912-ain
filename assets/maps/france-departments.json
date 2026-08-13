@@ -7,7 +7,9 @@
   "dataAsset": "france-departments.json",
   "mapLabel": "UFO and UAP French departments map",
   "fallbackSummary": "Open this French department file from the map.",
-  "panelCopy": "Use the map to jump into a French department file, or browse the full department list below.",
+  "panelTitle": "Explore French UFO reports",
+  "panelCopy": "Use the map to explore a French department file, or browse the full department list.",
+  "browseLabel": "Browse all departments",
   "items": [
     {
       "id": "FR-07",
