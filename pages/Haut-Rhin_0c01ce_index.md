@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /haut-rhin-0c01ce-index/
 description: Focused pages that expand on Why Haut Rhin's Strangest Sightings Still....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Haut-Rhin_0c01ce
 parent_title: Why Haut Rhin's Strangest Sightings Still...

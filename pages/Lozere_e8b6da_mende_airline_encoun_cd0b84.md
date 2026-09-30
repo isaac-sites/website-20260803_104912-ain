@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-29 20:19:40'
+last_modified_at: '2026-07-29 20:19:40'
 parent_title: Lozere UFO Files
 parent_permalink: /why-lozeres-strangest-ufo-reports/
 parent_nav_short_title: Lozere UFO Files

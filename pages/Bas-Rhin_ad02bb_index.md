@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /bas-rhin-ad02bb-index/
 description: Focused pages that expand on Why Bas Rhin's UFO Record Still Divides....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Bas-Rhin_ad02bb
 parent_title: Why Bas Rhin's UFO Record Still Divides...

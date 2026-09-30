@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /meuse-6ed97d-index/
 description: Focused pages that expand on What Meuse's UFO Record Actually Reveals.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Meuse_6ed97d
 parent_title: What Meuse's UFO Record Actually Reveals

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /corse-du-sud-8217c3-index/
 description: Focused pages that expand on Corse du Sud.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Corse-du-Sud_8217c3
 parent_title: Corse du Sud

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /gers-631401-index/
 description: Focused pages that expand on Why Gers UFO Reports Often Change With....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Gers_631401
 parent_title: Why Gers UFO Reports Often Change With...

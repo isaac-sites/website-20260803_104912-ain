@@ -8,6 +8,7 @@ permalink: /herault-0fa4db-index/
 description: Focused pages that expand on Why Herault's UFO Record Looks Stranger
   Than....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Herault_0fa4db
 parent_title: Why Herault's UFO Record Looks Stranger Than...

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /maine-et-loire-19238f-index/
 description: Focused pages that expand on Maine et Loire's UFO Record Without the....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Maine-et-Loire_19238f
 parent_title: Maine et Loire's UFO Record Without the...

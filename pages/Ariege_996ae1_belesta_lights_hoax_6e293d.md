@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-29 10:33:23'
+last_modified_at: '2026-07-29 10:33:23'
 parent_title: Ariege UFOs
 parent_permalink: /how-arieges-ufo-mysteries-changed-with/
 parent_nav_short_title: Ariege UFOs

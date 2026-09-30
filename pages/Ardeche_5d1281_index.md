@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ardeche-5d1281-index/
 description: Focused pages that expand on Ardeche UFOs Between Mystery and....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Ardeche_5d1281
 parent_title: Ardeche UFOs Between Mystery and...

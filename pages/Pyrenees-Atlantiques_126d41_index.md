@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /pyrenees-atlantiques-126d41-index/
 description: Focused pages that expand on Strange Lights Over Pyrenees Atlantiques....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Pyrenees-Atlantiques_126d41
 parent_title: Strange Lights Over Pyrenees Atlantiques...

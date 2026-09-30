@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /marne-763128-index/
 description: Focused pages that expand on Why Marne's Strangest UFO Cases Remain....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Marne_763128
 parent_title: Why Marne's Strangest UFO Cases Remain...

@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-29 15:50:11'
+last_modified_at: '2026-07-29 15:50:11'
 parent_title: Gard UFO Files
 parent_permalink: /why-gards-strangest-lights-rarely-stayed/
 parent_nav_short_title: Gard UFO Files

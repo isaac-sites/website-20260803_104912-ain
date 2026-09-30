@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /indre-et-loire-b45e62-index/
 description: Focused pages that expand on Indre et Loire.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Indre-et-Loire_b45e62
 parent_title: Indre et Loire

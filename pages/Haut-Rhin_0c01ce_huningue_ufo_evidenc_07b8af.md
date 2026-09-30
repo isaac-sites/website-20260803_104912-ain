@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-30 01:09:02'
+last_modified_at: '2026-07-30 01:09:02'
 parent_title: Haut Rhin
 parent_permalink: /why-haut-rhins-strangest-sightings-still/
 parent_nav_short_title: Haut Rhin

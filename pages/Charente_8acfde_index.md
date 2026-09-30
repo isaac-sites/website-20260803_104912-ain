@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /charente-8acfde-index/
 description: Focused pages that expand on Why Charente's UFO Cases Remain Unresolved.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Charente_8acfde
 parent_title: Why Charente's UFO Cases Remain Unresolved

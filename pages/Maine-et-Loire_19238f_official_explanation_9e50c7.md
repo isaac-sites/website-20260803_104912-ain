@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-29 20:32:01'
+last_modified_at: '2026-07-29 20:32:01'
 parent_title: Maine et Loire UFOs
 parent_permalink: /maine-et-loires-ufo-record-without-the/
 parent_nav_short_title: Maine et Loire UFOs

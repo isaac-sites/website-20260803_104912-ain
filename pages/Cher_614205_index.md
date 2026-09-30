@@ -8,6 +8,7 @@ permalink: /cher-614205-index/
 description: Focused pages that expand on Strange Lights and Changing Verdicts in
   Cher.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Cher_614205
 parent_title: Strange Lights and Changing Verdicts in Cher

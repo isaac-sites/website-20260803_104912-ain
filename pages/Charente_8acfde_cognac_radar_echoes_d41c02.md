@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-29 12:12:12'
+last_modified_at: '2026-07-29 12:12:12'
 parent_title: Charente UFOs
 parent_permalink: /why-charentes-ufo-cases-remain/
 parent_nav_short_title: Charente UFOs

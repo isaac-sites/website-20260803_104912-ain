@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /dordogne-e9b4bd-index/
 description: Focused pages that expand on Why Dordogne's UFO Mysteries Often Faded.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Dordogne_e9b4bd
 parent_title: Why Dordogne's UFO Mysteries Often Faded

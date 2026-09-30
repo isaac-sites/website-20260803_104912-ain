@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ardennes-627650-index/
 description: Focused pages that expand on Why Ardennes UFO Stories Changed Under....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Ardennes_627650
 parent_title: Why Ardennes UFO Stories Changed Under...

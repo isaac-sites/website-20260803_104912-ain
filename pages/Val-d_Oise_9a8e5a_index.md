@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /val-d-oise-9a8e5a-index/
 description: Focused pages that expand on Val d Oise.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Val-d_Oise_9a8e5a
 parent_title: Val d Oise
