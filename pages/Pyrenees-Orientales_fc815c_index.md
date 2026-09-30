@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /pyrenees-orientales-fc815c-index/
 description: Focused pages that expand on Which Pyrenees Orientales UFO Cases Still....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Pyrenees-Orientales_fc815c
 parent_title: Which Pyrenees Orientales UFO Cases Still...

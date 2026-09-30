@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /finistere-3f7bbd-index/
 description: Focused pages that expand on Why Finistere's Strangest UFO Cases Remain....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Finistere_3f7bbd
 parent_title: Why Finistere's Strangest UFO Cases Remain...

@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-29 23:04:04'
+last_modified_at: '2026-07-29 23:04:04'
 parent_title: Nord UFOs
 parent_permalink: /nords-ufo-history-between-mystery-and/
 parent_nav_short_title: Nord UFOs

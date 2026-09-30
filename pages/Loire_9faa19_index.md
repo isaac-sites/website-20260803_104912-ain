@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /loire-9faa19-index/
 description: Focused pages that expand on Which Loire UFO Stories Survived....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Loire_9faa19
 parent_title: Which Loire UFO Stories Survived...

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cotes-d-armor-789c20-index/
 description: Focused pages that expand on Which Cotes d'Armor UFO Cases Still Defy....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Cotes-d_Armor_789c20
 parent_title: Which Cotes d'Armor UFO Cases Still Defy...

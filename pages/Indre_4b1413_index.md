@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /indre-4b1413-index/
 description: Focused pages that expand on Why Indre's UFO Record Is More Revealing....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Indre_4b1413
 parent_title: Why Indre's UFO Record Is More Revealing...

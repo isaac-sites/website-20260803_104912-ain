@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-29 11:16:52'
+last_modified_at: '2026-07-29 11:16:52'
 parent_title: Aveyron UFOs
 parent_permalink: /aveyrons-ufo-cases-between-mystery-and/
 parent_nav_short_title: Aveyron UFOs

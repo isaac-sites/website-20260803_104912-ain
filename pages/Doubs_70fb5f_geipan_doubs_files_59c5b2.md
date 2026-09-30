@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-29 14:38:06'
+last_modified_at: '2026-07-29 14:38:06'
 parent_title: Doubs UFOs
 parent_permalink: /why-doubs-ufo-reports-became-less/
 parent_nav_short_title: Doubs UFOs

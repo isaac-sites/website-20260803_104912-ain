@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /vienne-f0511b-index/
 description: Focused pages that expand on Vienne.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Vienne_f0511b
 parent_title: Vienne

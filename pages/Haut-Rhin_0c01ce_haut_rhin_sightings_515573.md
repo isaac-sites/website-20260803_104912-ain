@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-30 01:09:03'
+last_modified_at: '2026-07-30 01:09:03'
 parent_title: Haut Rhin UFOs
 parent_permalink: /why-haut-rhins-strangest-sightings-still/
 parent_nav_short_title: Haut Rhin UFOs

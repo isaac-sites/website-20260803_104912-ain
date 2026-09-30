@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-29 11:29:51'
+last_modified_at: '2026-07-29 11:29:51'
 parent_title: Bouches du Rhone
 parent_permalink: /why-bouches-du-rhone-produces-so-many/
 parent_nav_short_title: Bouches du Rhone

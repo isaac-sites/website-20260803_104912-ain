@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-29 23:52:51'
+last_modified_at: '2026-07-29 23:52:51'
 parent_title: Puy de Dome
 parent_permalink: /puy-de-dome/
 parent_nav_short_title: Puy de Dome

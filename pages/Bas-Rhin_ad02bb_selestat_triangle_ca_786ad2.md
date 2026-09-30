@@ -217,6 +217,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-30 00:51:13'
+last_modified_at: '2026-07-30 00:51:13'
 parent_title: Bas Rhin UFOs
 parent_permalink: /why-bas-rhins-ufo-record-still-divides/
 parent_nav_short_title: Bas Rhin UFOs

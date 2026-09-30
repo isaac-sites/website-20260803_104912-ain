@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-30 03:45:03'
+last_modified_at: '2026-07-30 03:45:03'
 parent_title: Yvelines UFOs
 parent_permalink: /what-yvelines-ufo-reports-actually/
 parent_nav_short_title: Yvelines UFOs

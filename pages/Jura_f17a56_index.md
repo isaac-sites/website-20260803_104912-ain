@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /jura-f17a56-index/
 description: Focused pages that expand on Jura's UFO Stories Between Legend and....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Jura_f17a56
 parent_title: Jura's UFO Stories Between Legend and...

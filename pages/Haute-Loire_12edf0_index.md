@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /haute-loire-12edf0-index/
 description: Focused pages that expand on Haute Loire.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Haute-Loire_12edf0
 parent_title: Haute Loire

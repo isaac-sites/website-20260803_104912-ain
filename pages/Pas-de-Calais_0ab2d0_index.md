@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /pas-de-calais-0ab2d0-index/
 description: Focused pages that expand on Which Pas de Calais UFO Cases Still Resist....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Pas-de-Calais_0ab2d0
 parent_title: Which Pas de Calais UFO Cases Still Resist...

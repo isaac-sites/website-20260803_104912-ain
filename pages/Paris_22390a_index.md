@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /paris-22390a-index/
 description: Focused pages that expand on Why Paris UFO Cases Rarely Stay Unexplained.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Paris_22390a
 parent_title: Why Paris UFO Cases Rarely Stay Unexplained

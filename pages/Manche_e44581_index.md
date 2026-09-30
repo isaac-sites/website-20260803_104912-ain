@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /manche-e44581-index/
 description: Focused pages that expand on What Manche's UFO Record Actually Shows.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Manche_e44581
 parent_title: What Manche's UFO Record Actually Shows

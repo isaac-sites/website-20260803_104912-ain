@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /gard-40724c-index/
 description: Focused pages that expand on Why Gard's Strangest Lights Rarely Stayed....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Gard_40724c
 parent_title: Why Gard's Strangest Lights Rarely Stayed...
