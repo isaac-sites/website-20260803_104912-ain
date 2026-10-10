@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-29 22:10:40'
+last_modified_at: '2026-07-29 22:10:40'
 parent_title: Morbihan UFOs
 parent_permalink: /how-morbihans-ufo-mysteries-changed-over/
 parent_nav_short_title: Morbihan UFOs

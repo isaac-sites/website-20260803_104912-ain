@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /allier-716dd6-index/
 description: Focused pages that expand on Why Allier's Strangest Sightings Changed....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Allier_716dd6
 parent_title: Why Allier's Strangest Sightings Changed...

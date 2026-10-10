@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /creuse-73fb1d-index/
 description: Focused pages that expand on From Humanoids to Airliners in Creuse Skies.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Creuse_73fb1d
 parent_title: From Humanoids to Airliners in Creuse Skies

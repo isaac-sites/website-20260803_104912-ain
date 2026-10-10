@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /lot-et-garonne-6df799-index/
 description: Focused pages that expand on Which Lot et Garonne UFO Cases Still Resist....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Lot-et-Garonne_6df799
 parent_title: Which Lot et Garonne UFO Cases Still Resist...

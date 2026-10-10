@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /vaucluse-17bae7-index/
 description: Focused pages that expand on Why Vaucluse's Strangest Sightings Still....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Vaucluse_17bae7
 parent_title: Why Vaucluse's Strangest Sightings Still...

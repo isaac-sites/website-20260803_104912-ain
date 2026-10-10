@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /lozere-e8b6da-index/
 description: Focused pages that expand on Why Lozere's Strangest UFO Reports Changed.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Lozere_e8b6da
 parent_title: Why Lozere's Strangest UFO Reports Changed

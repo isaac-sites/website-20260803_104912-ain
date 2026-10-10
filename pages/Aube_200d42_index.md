@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /aube-200d42-index/
 description: Focused pages that expand on What Aube's UFO Record Actually Reveals.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Aube_200d42
 parent_title: What Aube's UFO Record Actually Reveals

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /tarn-a5fb02-index/
 description: Focused pages that expand on Tarn's UFO Stories Between Mystery and....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Tarn_a5fb02
 parent_title: Tarn's UFO Stories Between Mystery and...

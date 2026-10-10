@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /puy-de-dome-53d1d1-index/
 description: Focused pages that expand on Puy de Dome.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Puy-de-Dome_53d1d1
 parent_title: Puy de Dome

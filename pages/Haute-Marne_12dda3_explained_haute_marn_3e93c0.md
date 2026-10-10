@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-29 21:19:43'
+last_modified_at: '2026-07-29 21:19:43'
 parent_title: Haute Marne UFOs
 parent_permalink: /haute-marnes-ufo-record-under-the/
 parent_nav_short_title: Haute Marne UFOs

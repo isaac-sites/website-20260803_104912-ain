@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /deux-sevres-ac4bfa-index/
 description: Focused pages that expand on How Strong Is the Deux Sevres UFO Record?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Deux-Sevres_ac4bfa
 parent_title: How Strong Is the Deux Sevres UFO Record?

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /correze-3e9490-index/
 description: Focused pages that expand on Why Correze Matters in French UFO History.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Correze_3e9490
 parent_title: Why Correze Matters in French UFO History

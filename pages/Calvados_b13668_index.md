@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /calvados-b13668-index/
 description: Focused pages that expand on Calvados UFOs Between Legend and Explanation.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Calvados_b13668
 parent_title: Calvados UFOs Between Legend and Explanation

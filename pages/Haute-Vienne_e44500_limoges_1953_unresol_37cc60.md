@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-30 06:03:21'
+last_modified_at: '2026-07-30 06:03:21'
 parent_title: Haute Vienne
 parent_permalink: /why-haute-viennes-ufo-record-still/
 parent_nav_short_title: Haute Vienne

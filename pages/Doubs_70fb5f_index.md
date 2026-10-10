@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /doubs-70fb5f-index/
 description: Focused pages that expand on Why Doubs UFO Reports Became Less Mysterious.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Doubs_70fb5f
 parent_title: Why Doubs UFO Reports Became Less Mysterious

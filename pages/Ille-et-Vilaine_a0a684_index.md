@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ille-et-vilaine-a0a684-index/
 description: Focused pages that expand on Which Ille et Vilaine UFO Cases Still Resist....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Ille-et-Vilaine_a0a684
 parent_title: Which Ille et Vilaine UFO Cases Still Resist...

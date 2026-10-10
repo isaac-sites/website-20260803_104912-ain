@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /var-5cea87-index/
 description: Focused pages that expand on Why Var's UFO Reputation Rests on Two Cases.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Var_5cea87
 parent_title: Why Var's UFO Reputation Rests on Two Cases

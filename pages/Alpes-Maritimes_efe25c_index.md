@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alpes-maritimes-efe25c-index/
 description: Focused pages that expand on Alpes Maritimes.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alpes-Maritimes_efe25c
 parent_title: Alpes Maritimes

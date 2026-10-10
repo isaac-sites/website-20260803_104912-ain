@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /haute-corse-b2c532-index/
 description: Focused pages that expand on What Haute Corse's UFO Files Actually Reveal.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Haute-Corse_b2c532
 parent_title: What Haute Corse's UFO Files Actually Reveal

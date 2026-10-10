@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /loire-atlantique-ea6d7d-index/
 description: Focused pages that expand on Which Loire Atlantique UFO Cases Still....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Loire-Atlantique_ea6d7d
 parent_title: Which Loire Atlantique UFO Cases Still...

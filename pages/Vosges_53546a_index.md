@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /vosges-53546a-index/
 description: Focused pages that expand on Why Vosges UFO Reports Rarely Stay Simple.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Vosges_53546a
 parent_title: Why Vosges UFO Reports Rarely Stay Simple

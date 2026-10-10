@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-30 05:29:34'
+last_modified_at: '2026-07-30 05:29:34'
 parent_title: Vendee UFO Files
 parent_permalink: /when-strange-lights-crossed-the-vendee/
 parent_nav_short_title: Vendee UFO Files

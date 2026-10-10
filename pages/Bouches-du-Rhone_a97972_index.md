@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /bouches-du-rhone-a97972-index/
 description: Focused pages that expand on Why Bouches du Rhone Produces So Many UFO....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Bouches-du-Rhone_a97972
 parent_title: Why Bouches du Rhone Produces So Many UFO...

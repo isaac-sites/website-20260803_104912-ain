@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /eure-et-loir-aac377-index/
 description: Focused pages that expand on Why Eure et Loir's UFO Mysteries Often....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Eure-et-Loir_aac377
 parent_title: Why Eure et Loir's UFO Mysteries Often...

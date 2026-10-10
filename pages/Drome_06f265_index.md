@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /drome-06f265-index/
 description: Focused pages that expand on What Drome's UFO Record Actually Reveals.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Drome_06f265
 parent_title: What Drome's UFO Record Actually Reveals

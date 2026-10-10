@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /loiret-6d08aa-index/
 description: Focused pages that expand on Which Loiret UFO Cases Still Resist....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Loiret_6d08aa
 parent_title: Which Loiret UFO Cases Still Resist...

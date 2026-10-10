@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alpes-de-haute-prove-b1f7bc-index/
 description: Focused pages that expand on Alpes de Haute Provence.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alpes-de-Haute-Prove_b1f7bc
 parent_title: Alpes de Haute Provence

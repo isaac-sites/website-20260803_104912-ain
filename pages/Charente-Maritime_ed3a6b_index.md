@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /charente-maritime-ed3a6b-index/
 description: Focused pages that expand on Charente Maritime.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Charente-Maritime_ed3a6b
 parent_title: Charente Maritime

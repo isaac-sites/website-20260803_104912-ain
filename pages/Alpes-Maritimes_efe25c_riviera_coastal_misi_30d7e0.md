@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-29 10:03:25'
+last_modified_at: '2026-07-29 10:03:25'
 parent_title: Alpes Maritimes UFOs
 parent_permalink: /alpes-maritimes/
 parent_nav_short_title: Alpes Maritimes UFOs

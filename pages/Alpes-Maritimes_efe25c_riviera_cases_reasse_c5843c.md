@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-29 09:53:09'
+last_modified_at: '2026-07-29 09:53:09'
 parent_title: Alpes Maritimes
 parent_permalink: /alpes-maritimes/
 parent_nav_short_title: Alpes Maritimes

@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-30 05:06:42'
+last_modified_at: '2026-07-30 05:06:42'
 parent_title: Var UFOs
 parent_permalink: /why-vars-ufo-reputation-rests-on-two/
 parent_nav_short_title: Var UFOs

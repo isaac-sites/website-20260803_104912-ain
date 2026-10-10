@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /hautes-alpes-6bdcb1-index/
 description: Focused pages that expand on Why Hautes Alpes UFO Reports Rarely Stayed....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Hautes-Alpes_6bdcb1
 parent_title: Why Hautes Alpes UFO Reports Rarely Stayed...

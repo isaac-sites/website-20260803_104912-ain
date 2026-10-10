@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /haute-vienne-e44500-index/
 description: Focused pages that expand on Why Haute Vienne's UFO Record Still....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Haute-Vienne_e44500
 parent_title: Why Haute Vienne's UFO Record Still...

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /yonne-77d4a6-index/
 description: Focused pages that expand on Why Yonne's UFO History Looks Stranger Than....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Yonne_77d4a6
 parent_title: Why Yonne's UFO History Looks Stranger Than...

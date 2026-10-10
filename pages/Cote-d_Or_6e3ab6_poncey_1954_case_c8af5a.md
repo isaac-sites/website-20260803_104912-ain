@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-29 13:37:03'
+last_modified_at: '2026-07-29 13:37:03'
 parent_title: Cote d'Or UFOs
 parent_permalink: /why-cote-dor-became-a-french-ufo/
 parent_nav_short_title: Cote d'Or UFOs

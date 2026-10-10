@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /somme-f38fb9-index/
 description: Focused pages that expand on Why Somme's UFO Record Still Resists Easy....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Somme_f38fb9
 parent_title: Why Somme's UFO Record Still Resists Easy...

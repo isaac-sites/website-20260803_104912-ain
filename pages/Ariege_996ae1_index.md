@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ariege-996ae1-index/
 description: Focused pages that expand on How Ariege's UFO Mysteries Changed With....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Ariege_996ae1
 parent_title: How Ariege's UFO Mysteries Changed With...

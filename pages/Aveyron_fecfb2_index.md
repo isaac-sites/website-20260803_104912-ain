@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /aveyron-fecfb2-index/
 description: Focused pages that expand on Aveyron's UFO Cases Between Mystery and....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Aveyron_fecfb2
 parent_title: Aveyron's UFO Cases Between Mystery and...

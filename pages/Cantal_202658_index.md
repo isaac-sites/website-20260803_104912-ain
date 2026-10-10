@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cantal-202658-index/
 description: Focused pages that expand on Cantal's UFO Story Beyond the Mystery.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Cantal_202658
 parent_title: Cantal's UFO Story Beyond the Mystery

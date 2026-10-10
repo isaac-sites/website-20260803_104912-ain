@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /seine-maritime-c89706-index/
 description: Focused pages that expand on Why Seine Maritime's Strangest Sightings....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Seine-Maritime_c89706
 parent_title: Why Seine Maritime's Strangest Sightings...

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /haute-marne-12dda3-index/
 description: Focused pages that expand on Haute Marne's UFO Record Under the....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Haute-Marne_12dda3
 parent_title: Haute Marne's UFO Record Under the...

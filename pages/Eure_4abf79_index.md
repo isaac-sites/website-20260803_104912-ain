@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /eure-4abf79-index/
 description: Focused pages that expand on Eure's UFO Stories Between Legend and....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Eure_4abf79
 parent_title: Eure's UFO Stories Between Legend and...

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /moselle-b6f07c-index/
 description: Focused pages that expand on Which Moselle UFO Cases Still Resist....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Moselle_b6f07c
 parent_title: Which Moselle UFO Cases Still Resist...

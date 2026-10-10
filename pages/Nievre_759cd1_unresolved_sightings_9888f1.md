@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-29 22:37:18'
+last_modified_at: '2026-07-29 22:37:18'
 parent_title: Nievre UFOs
 parent_permalink: /what-nievres-ufo-files-actually-reveal/
 parent_nav_short_title: Nievre UFOs

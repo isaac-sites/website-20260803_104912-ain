@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cote-d-or-6e3ab6-index/
 description: Focused pages that expand on Why Cote d'Or Became a French UFO Landmark.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Cote-d_Or_6e3ab6
 parent_title: Why Cote d'Or Became a French UFO Landmark

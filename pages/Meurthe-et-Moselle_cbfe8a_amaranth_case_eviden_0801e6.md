@@ -219,6 +219,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-29 21:40:30'
+last_modified_at: '2026-07-29 21:40:30'
 parent_title: Meurthe et Moselle UFOs
 parent_permalink: /meurthe-et-moselle/
 parent_nav_short_title: Meurthe et Moselle UFOs
